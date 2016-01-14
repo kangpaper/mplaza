@@ -2,9 +2,6 @@
 <html lang="en">
 	<head>
 		{% include head.html %}
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/4.0.1/ekko-lightbox.min.js"></script>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/4.0.1/ekko-lightbox.min.css" rel="stylesheet" type="text/css">
-
 	</head>
 	<body>
 		<!-- Navigation -->
@@ -92,13 +89,6 @@
 
 						{% endfor %}
 				</div>
-
-				<script type="text/javascript">
-					$(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
-					    event.preventDefault();
-					    $(this).ekkoLightbox();
-					}); 
-				</script>
 
 				
 				{{ if page.refer_link }}				
