@@ -12,7 +12,6 @@
   letter-spacing: -1px;
 }
 
-
-.div.modal-backdrop.fade.in{
+.modal-backdrop.fade.in{
 	z-index: 0 !important;
 }
