@@ -19,18 +19,18 @@ redirect_from:
     </div>
 
     <div class="row">
-         {% for extension in site.magento-extensions %}
+         {% for post in site.magento-extensions %}
         <div class="col-lg-4 col-sm-6">
             <div class="thumbnail">
                 <a href="{{ site.url }}{{ extension.url }}" class="post-image-link">
-                    <img src="{{ site.url }}{{ extension.image }}" alt="{{ extension.description }}">
+                    <img src="{{ site.url }}{{ post.image }}" alt="{{ post.description }}">
                 </a>
                 <div class="caption">
-                    <h3>{{ extension.title }}</h3>
+                    <h3>{{ post.title }}</h3>
 
                     <p>
-                        <button type="button" class="btn btn-primary">{% if extension.price == 0 %}FREE{% else %}<i class="fa fa-dollar"></i>{{ extension.price }}{% endif %}</button>
-                        <a href="{{ site.url }}{{ extension.url }}" class="btn btn-default">View details</a>
+                        <button type="button" class="btn btn-primary">{% if post.price == 0 %}FREE{% else %}<i class="fa fa-dollar"></i>{{ post.price }}{% endif %}</button>
+                        <a href="{{ site.url }}{{ post.url }}" class="btn btn-default">View details</a>
                     </p>
                 </div>
             </div>
