@@ -14,13 +14,13 @@ permalink: "/magento-blog/"
 sort_order: 10
 
 screenshots:
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/listing.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/comment.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/edit_post.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/image_urlkey.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/select_category.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/post_attributes.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/manage_category.png
+  - /assets/img/extensions-images/blog/listing.png
+  - /assets/img/extensions-images/blog/comment.png
+  - /assets/img/extensions-images/blog/edit_post.png
+  - /assets/img/extensions-images/blog/image_urlkey.png
+  - /assets/img/extensions-images/blog/select_category.png
+  - /assets/img/extensions-images/blog/post_attributes.png
+  - /assets/img/extensions-images/blog/manage_category.png
 
 demo: 
 download: https://www.magentocommerce.com/magento-connect/better-blog.html
