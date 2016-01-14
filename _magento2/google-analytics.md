@@ -37,10 +37,10 @@ Google Analytics extension is provided in order to help Magento stores use Googl
 - Objective and detailed reports
 - Easy to understand and analysis
 
-100% open source
------------------
+100% Free Google Analytics Extension
+---------------------------------------
 Store owners have rights to configure easily and customize in the way you need.
-.. image:: https://lh6.googleusercontent.com/V5g-4BHenEHUulvHPYSFKnQV-r8K0zvSzo4vLArQqxpPRzMXT_lmiXTyWJa-cRlLHiQU6XQ8unwSO0tRjr_1CXFyz_hN9MtV1IHX6e_UJSw299so5L5tRA3FapEyo1Uvl-e0xXAH
+<img src="https://lh6.googleusercontent.com/V5g-4BHenEHUulvHPYSFKnQV-r8K0zvSzo4vLArQqxpPRzMXT_lmiXTyWJa-cRlLHiQU6XQ8unwSO0tRjr_1CXFyz_hN9MtV1IHX6e_UJSw299so5L5tRA3FapEyo1Uvl-e0xXAH" alt="open source">
 
 
 Additional tracking ID
