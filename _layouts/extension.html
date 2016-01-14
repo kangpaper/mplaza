@@ -31,9 +31,9 @@
 								<meta itemprop="worstRating" content="0">
 							</div>
 						</li>
-						{{ if page.price == 0 }}
+						{% if page.price == 0 %}
 						<li><a href="{{ page.download }}" class="btn btn-default"><i class="fa fa-download"></i> Download Now</a></li>
-						{{ else }}
+						{% else %}
 						<li>
 						<!-- payment -->
 							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -52,7 +52,7 @@
 								<img alt="pixel" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 							</form>
 						</li>
-						{{ endif }}
+						{% endif %}
 					</ul>
 					{% include ad.html %}
 				</div>
