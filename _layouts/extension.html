@@ -62,11 +62,26 @@
 				<div class="row">
 					<ol class="breadcrumb">
 						<li><a href="{{ site.url }}/">Home</a></li>
+						{{ page.mage_version == 1 }}
 						<li><a href="{{ site.url }}/magento-extensions/">Magento Extensions</a></li>
+						{{ else }}
+						<li><a href="{{ site.url }}/magento-2-extensions/">Magento 2 Extensions</a></li>
+						{{ endif }}
 						<li class="active">{{ page.title }}</li>
 					</ol>
 				</div>
 
+				<!-- Screenshots -->
+
+				<div class="row">
+					{% for screenshot in page.screenshots %}
+						<div class="col-lg-4 col-md-3">
+							<img src="{{ screenshot }}" class="img-thumbnail">
+						</div>
+					{% endfor %}
+				</div>
+
+				
 				<!-- Content -->
 				<div class="row preview-page-content col-lg-12 col-md-12" id="extension-content" >
 					{{ content }}
