@@ -1,7 +1,8 @@
 # Site Settings
 name: "Mageplaza"
 title: "Mageplaza"
-description: "Welcome to Mageplaza"
+slogan: "The Magento Store"
+description: "Build it as your way"
 email: "support@mageplaza.com"
 url: "http://www.mageplaza.com"
 baseurl: "http://www.mageplaza.com"
