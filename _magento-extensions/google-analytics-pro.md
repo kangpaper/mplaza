@@ -11,7 +11,7 @@ user-version: no
 categories: magento marketing
 permalink: "/magento-google-analytics-pro/"
 
-
+sort_order: 15
 screenshots:
   - /assets/img/extensions-images/google-analytics-pro/overview.png
   - /assets/img/extensions-images/google-analytics-pro/Demographics.png

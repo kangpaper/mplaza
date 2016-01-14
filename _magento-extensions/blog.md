@@ -11,6 +11,7 @@ user-version: no
 categories: magento marketing
 permalink: "/magento-blog/"
 
+sort_order: 10
 
 screenshots:
   - /assets/img/extensions-images/google-adwords-conversion-tracking/listing.png

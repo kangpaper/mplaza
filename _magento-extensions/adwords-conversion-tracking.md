@@ -11,7 +11,7 @@ user-version: no
 categories: magento marketing
 permalink: "/magento-adwords-conversion-tracking/"
 
-
+sort_order: 99
 screenshots:
   - /assets/img/extensions-images/google-adwords-conversion-tracking/add-conversion.png
   - /assets/img/extensions-images/google-adwords-conversion-tracking/Conversion_actions.png

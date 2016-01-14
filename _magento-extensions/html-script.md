@@ -10,7 +10,7 @@ version: 1.0.0
 user-version: no
 categories: magento rich-content
 permalink: "/magento-html-script/"
-
+sort_order: 999
 screenshots:
   - /assets/img/extensions-images/html-script/backend.png
   - /assets/img/extensions-images/html-script/category_product_page.png

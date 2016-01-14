@@ -11,6 +11,7 @@ user-version: no
 categories: magento rich-content
 permalink: "/magento-product-slider/"
 
+sort_order: 30
 
 screenshots:
   - /assets/img/extensions-images/product-slider/new_products.png

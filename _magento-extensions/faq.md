@@ -11,7 +11,7 @@ user-version: no
 categories: magento marketing
 permalink: "/magento-faq/"
 
-
+sort_order: 20
 screenshots:
   - /assets/img/extensions-images/faq/tab_product_view.png
   - /assets/img/extensions-images/faq/listing_faq.png
