@@ -5,7 +5,7 @@ description: Product Sliders allow you create multiple product sliders from diff
 meta-title: Magento Product Slider Extension FREE
 meta-description: Product Sliders allow you create multiple product sliders from different sources and display on what you want to.
 meta-keywords: ""
-image: "/assets/img/extensions/product-slider.png"
+image: "/assets/img/extensions/product-slider.jpg"
 version: 1.0.0
 user-version: no
 categories: magento rich-content

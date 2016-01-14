@@ -5,7 +5,7 @@ description: "FAQ allows customers to find answered questions on articles list."
 meta-title: "Magento FAQ Knowledge Base Extension"
 meta-description: "FAQ allows customers to find answered questions on articles list."
 meta-keywords: ""
-image: "/assets/img/extensions/faq.png"
+image: "/assets/img/extensions/faq.jpg"
 version: 1.0.0
 user-version: no
 categories: magento marketing
