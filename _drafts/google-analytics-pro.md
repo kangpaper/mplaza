@@ -11,7 +11,7 @@ user-version: false
 categories: magento marketing
 mage_version: 1
 
-permalink: google-analytics-pro
+permalink: "/magento-extensions/google-analytics-pro/"
 
 demo: 
 download: 
