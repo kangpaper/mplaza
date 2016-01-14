@@ -20,7 +20,7 @@ redirect_from:
          {% for extension in site.magento-extensions %}
         <div class="col-lg-4 col-sm-6">
             <div class="thumbnail">
-                <a href="{{ extension.url }}" class="post-image-link">
+                <a href="{{ site.url }}{{ extension.url }}" class="post-image-link">
                     <img src="{{ site.url }}{{ extension.image }}" alt="{{ extension.description }}">
                 </a>
                 <div class="caption">
