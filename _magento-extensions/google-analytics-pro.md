@@ -8,7 +8,7 @@ meta-keywords: ""
 image: "/assets/img/extensions/google-analytics-pro.png"
 version: 1.0.0
 user-version: false
-categories: magento magento-1 marketing
+categories: magento marketing
 mage_version: 1
 
 permalink: google-analytics-pro
