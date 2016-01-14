@@ -10,9 +10,8 @@ version: 1.0.0
 user-version: false
 categories: magento marketing
 mage_version: 1
-
 permalink: "/magento-extensions/google-analytics-pro/"
-
+slug: google-analytics-pro
 demo: 
 download: 
 price: 99
@@ -35,7 +34,7 @@ This is Google Universial Analytics that supports two types of tracking:
 - E-commerce Tracking - Lists the customers that make purchases and what they buy.
 
 
-Features
+<h2>Features</h2>
 
 
 - Add multiple Google Analytics Tracking IDs to one Magento store. 
@@ -47,7 +46,7 @@ Features
 - Enable/Disable Trace Debugging
 - Auto add userId to Google Analtyics if customer logged in
 
-Instructions
+<h2>Instructions</h2>
 
 
 First you need to a create an account at <a href="http://www.google.com/analytics/">Google Analytics</a> . You will receive a Google Analytics account number. Write it down since you will need it for the Magento configuration.
@@ -56,7 +55,7 @@ Now, you need to configure the Google Analytics tracking in your Magento store. 
 
 Pick the Yes option from the Enable drop-down menu. Enter the Google Analytics account number in the Main Tracking ID field and click on the Save Config button. That's it, the Google Analytics code is added to your site.
 
-Help
+<h2>Help</h2>
 
 
 Any questions, issues, bugs, please contact me at support@mageplaza.freshdesk.com
