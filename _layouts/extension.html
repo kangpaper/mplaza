@@ -80,6 +80,8 @@
 
 				<div class="row">
 					<h2>Screenshots</h2>
+					<div class="col-md-offset-2 col-md-8">
+
 						{% for screenshot in page.screenshots %}
 					        <div class="row">
                                 <a href="{{ site.url }}{{ screenshot }}" data-toggle="lightbox" data-gallery="navigateTo" class="col-lg-3 col-sm-2">
@@ -88,6 +90,7 @@
                             </div>
 
 						{% endfor %}
+					</div>
 				</div>
 
 				
