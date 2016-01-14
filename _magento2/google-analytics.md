@@ -44,7 +44,7 @@ Store owners have rights to configure easily and customize in the way you need.
 Additional tracking ID
 ---------------------------
 Beside the main tracking ID from Google Analytics registration, Magento supports the second tracking ID which allows getting the analytics at the same time without any delay.
-.. image:: https://lh5.googleusercontent.com/iFmMlH8HMLkm45OWhSvpbIvNhsNxiLod9S_vZKukQp_GjUHJLC7VVjNYF5qgFw9AsquQSP3_7FIsgxit2VGXJo462vb7thcjvGjfdCLeVgTKnK2D14JwhtVQBfN-DBGkjzKV8ZEI
+.. image:: https://lh5.googleusercontent.com/GAriOpvu0psH_y4SpEXQLazf51sXwN1aOzAMAxkXdj1JbxbqG5uDBhNpeloywSvV_5dqDvD2x3y3MbpaEUv5BvcQ6AVteqRPtkmrbteMGOhJQ_JJuizVDIi90uN1bjs71tNIQ-WA
 
 
 Enhance the accuracy of analytics page report
