@@ -1,23 +1,22 @@
 # Site Settings
 name: "Mageplaza"
 title: "Mageplaza"
-slogan: "The Magento Store"
-description: "Build it as your way"
+description: "Welcome to Mageplaza"
 email: "support@mageplaza.com"
 url: "http://www.mageplaza.com"
 baseurl: "http://www.mageplaza.com"
 domain: "mageplaza.com"
-author: "Mageplaza"
+author: "mageplaza"
 this_year: "2016"
 
-paypal: "support@mageplaza.com"
+paypal: "support@buildwith.com"
 
 google_verify: "mqeRPCxfPDdd8Ai589_r1ylvomMFyjYC0epneqbK74"
 bing_verify: 
 google_analytics:   
 
 # Social accounts
-google_plus: 
+google_plus: "https://plus.google.com/+mageplaza"
 disqus_shortname: "mageplaza"
 
 subcriber_url: "http://t.us3.list-manage1.com/subscribe/post?u=531af730d34352cf489&amp;id=0416bef2d9"
@@ -54,8 +53,9 @@ highlighter: pygments
 gems:
   - jekyll-redirect-from
   # http://jekyllrb.com/docs/templates/#gist
-  # - jekyll-gist
-  # - jekyll-less
+  - jekyll-gist
+
+
 
 
 
@@ -68,6 +68,3 @@ collections:
     output: true
   pages:
     output: true
-
-
-allow_search_engine: false
