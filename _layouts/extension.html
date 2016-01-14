@@ -76,12 +76,12 @@
 				<div class="row">
 					{% for screenshot in page.screenshots %}
 						<div class="col-lg-4 col-md-3">
-							<img src="{{ screenshot }}" class="img-thumbnail">
+							<img src="{{ site.url }}{{ screenshot }}" class="img-thumbnail">
 						</div>
 					{% endfor %}
 				</div>
 
-				
+
 				<!-- Content -->
 				<div class="row preview-page-content col-lg-12 col-md-12" id="extension-content" >
 					{{ content }}
