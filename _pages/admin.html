@@ -1,0 +1,28 @@
+---
+layout: page
+title: Site › Log In
+sitemap: false
+permalink: "/wp-admin"
+redirect_from:
+    - "/admin/"
+    - "/login/"
+    - "/wp-login.php"
+---
+
+<form name="loginform" id="loginform" action="{{ site.url }}/wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username<br>
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocomplete="off" style="cursor: auto; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDiYB84AargAAAa9JREFUOMvNk0FrU0EUhb87bzABiyhiC7XQKCq6CCJF3FhQ7E7BhYL+AhFxHYQwL7xEknUX0kUR3LhRQQsuxAahgkvRIpaiXYmrCiaCILzMcF0khTZ9z0JXnt2ZGb4799wZ+O9UqVQmnHNnN7xz7pxzrpx33mw2zrm7xWJxVUQeAgKIiMyJyIc4jptZADvkUxHZC5SdczdU1YvIGQBV/ZoFkGEfx/GSiEwDX1Q1iMgp4E2SJJdyAdVqddIYs6/X6/2x1paMMa9EJBpUDsA1VV0XkRHv/Y9ms/lxSwvW2nvA7UKhsL1CH/RCpH9Za+08cGs4RLPbqckg/SlVPaSqXREZjaLoOWA2qu4I2KxarbYIzKjqJ2NMGUY4f/Uyh4se7/td+1+rLLSXt4/ROXcTmBnYBvAE4GDpOCf3RwQgAgiWt+1lOhm9nwC8qn6u1+vP+ku/WZi9T5IkPHi5BqS8e/SUTlZ4jUajnqbp6RDCHUC3so9w/cox0rXXtL+nuS+RVqu1khXWxIWLjBNYWnyf/xf+pdLRMQjfWFlnN4ADTI7tge5Pujt8phx1eNxKMnf+AqjSjZJP5cFjAAAAAElFTkSuQmCC&quot;); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;"></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br>
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" autocomplete="off" style="cursor: auto; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDiYB84AargAAAa9JREFUOMvNk0FrU0EUhb87bzABiyhiC7XQKCq6CCJF3FhQ7E7BhYL+AhFxHYQwL7xEknUX0kUR3LhRQQsuxAahgkvRIpaiXYmrCiaCILzMcF0khTZ9z0JXnt2ZGb4799wZ+O9UqVQmnHNnN7xz7pxzrpx33mw2zrm7xWJxVUQeAgKIiMyJyIc4jptZADvkUxHZC5SdczdU1YvIGQBV/ZoFkGEfx/GSiEwDX1Q1iMgp4E2SJJdyAdVqddIYs6/X6/2x1paMMa9EJBpUDsA1VV0XkRHv/Y9ms/lxSwvW2nvA7UKhsL1CH/RCpH9Za+08cGs4RLPbqckg/SlVPaSqXREZjaLoOWA2qu4I2KxarbYIzKjqJ2NMGUY4f/Uyh4se7/td+1+rLLSXt4/ROXcTmBnYBvAE4GDpOCf3RwQgAgiWt+1lOhm9nwC8qn6u1+vP+ku/WZi9T5IkPHi5BqS8e/SUTlZ4jUajnqbp6RDCHUC3so9w/cox0rXXtL+nuS+RVqu1khXWxIWLjBNYWnyf/xf+pdLRMQjfWFlnN4ADTI7tge5Pujt8phx1eNxKMnf+AqjSjZJP5cFjAAAAAElFTkSuQmCC&quot;); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;"></label>
+	</p>
+
+	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
+		<input type="hidden" name="redirect_to" value="{{ site.url }}/wp-admin/">
+		<input type="hidden" name="testcookie" value="1">
+	</p>
+</form>

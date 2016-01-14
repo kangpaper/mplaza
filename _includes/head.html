@@ -1,0 +1,85 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="google-site-verification" content="{{ site.google-site-verification }}" />
+
+<title>{% if page.meta-title %} {{ page.meta-title }} {% else %} {{ page.title }}  {% endif %} &#8211; {{ site.title }}</title>
+<meta name="description" content="{% if page.meta-description %}{{ page.meta-description }}{% else %}{{ page.description }}{% endif %}">
+
+{% if page.meta-keywords %}<meta name="keywords" content="{{ page.meta-keywords }}">{% endif %}
+
+{% if site.google_plus %}
+<!-- Google+ Authorship Information -->
+<link rel="author" href="{{ site.google_plus }}">
+<link rel="publisher" href="{{ site.google_plus }}">
+{% endif %}
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+<!-- Fav Icon and Apple Touch Icons -->
+<link rel="icon" href="{{ site.url }}/assets/img/ico/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="{{ site.url }}/assets/img/ico/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/assets/img/ico/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/assets/img/ico/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/assets/img/ico/touch-icon-ipad-retina.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ site.name }}">
+
+{% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
+{% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
+
+{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+<link rel="canonical" href="{{ canonical }}">
+<link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+
+{% if site.google_analytics %}
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '{{ site.google_analytics }}', 'auto');  
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+</script>
+{% endif %}
+
+{% if site.allow_search_engine == false %}
+<meta name="robots" content="NOINDEX,NOFOLLOW"/>
+{% endif %}
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,700italic,400,700" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<!-- Bootstrap Core CSS -->
+<link href="{{ site.url }}/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="{{ site.url }}/assets/css/custom.css" rel="stylesheet" type="text/css">
+
+<!-- Start Bootstrap Custom CSS -->
+<link href="{{ "/assets/css/startbootstrap.css" | prepend: site.url }}" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->

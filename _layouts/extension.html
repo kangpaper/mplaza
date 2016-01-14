@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		{% include head.html %}
+	</head>
+	<body>
+		<!-- Navigation -->
+		{% include nav.html %}
+		<div class="product-view" itemscope itemtype="http://schema.org/Product">
+			<header class="sb-page-header">
+				<div class="container">
+					<h1 itemprop="name">{{ page.title }}</h1>
+					<p itemprop="description">{{ page.description }}</p>
+					
+					<ul class="list-inline preview-links">
+						{% if page.demo %}
+							<li><a target="_blank" href="{{ page.demo }}" class="btn btn-default"><i class="fa fa-eye"></i> Live Demo</a></li>
+						{% endif %}
+					
+
+						<li itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+							<a href="#price" class="btn btn-default" itemprop="price">{% if page.price == 0 %}FREE{% else %}<i class="fa fa-dollar"></i>{{ page.price }}{% endif %}</a>
+							<a href="#availability" class="btn btn-default availability in-stock"><span>In stock</span></a>
+						</li>
+
+						<li>
+							<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+								<meta itemprop="ratingValue" content="{{ page.rating }}">
+								<meta itemprop="reviewCount" content="{{ page.review_count }}">
+								<meta itemprop="bestRating" content="100">
+								<meta itemprop="worstRating" content="0">
+							</div>
+						</li>
+						{{ if page.price == 0 }}
+						<li><a href="{{ page.download }}" class="btn btn-default"><i class="fa fa-download"></i> Download Now</a></li>
+						{{ else }}
+						<li>
+						<!-- payment -->
+							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+								<input type="hidden" name="cmd" value="_xclick">
+								<input type="hidden" name="business" value="{{ site.paypal }}">
+								<input type="hidden" name="lc" value="BM">
+								<input type="hidden" name="item_name" value="{{ page.title }}">
+								<input type="hidden" name="button_subtype" value="services">
+								<input type="hidden" name="no_note" value="0">
+								<input type="hidden" name="amount" value="{{ page.price }}">
+								<input type="hidden" name="currency_code" value="USD">
+								<input type="hidden" name="tax_rate" value="0.000">
+								<input type="hidden" name="shipping" value="0.00">
+								<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+								<input type="submit" class="btn btn-success" name="submit" value="Buy now">
+								<img alt="pixel" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						</li>
+						{{ endif }}
+					</ul>
+					{% include ad.html %}
+				</div>
+			</header>
+			<!-- Page Content -->
+			<div class="container">
+				<div class="row">
+					<ol class="breadcrumb">
+						<li><a href="{{ site.url }}/">Home</a></li>
+						<li><a href="{{ site.url }}/magento-extensions/">Magento Extensions</a></li>
+						<li class="active">{{ page.title }}</li>
+					</ol>
+				</div>
+
+				<!-- Content -->
+				<div class="row preview-page-content col-lg-12 col-md-12" id="extension-content" >
+					{{ content }}
+				</div>
+				
+				{{ if page.refer_link }}				
+				<div class="row">
+					<div class="col-md-4 text-center" >
+						<span><a href="{{ page.refer_link }}" target="_blank" class="btn btn-success btn-lg btn-block">Learn more about <strong>{{ page.title }}</strong></a></span>
+					</div>
+
+				</div>
+				{{ endif }}
+
+				<hr class="small">
+
+				<!-- category -->
+				<div class="row">
+					<h4>Categories:</h4>
+					<ul class="list-inline list-tags">
+						{% for category in page.categories %}
+							<li><span class="btn btn-xs btn-primary">{{ category }}</span></li>
+						{% endfor %}
+					</ul>
+				</div>
+				
+				<!-- Social button -->
+				<div class="list-inline social-buttons">
+					<p>
+						{% include social-buttons.html %}
+					</p>
+				</div>
+
+				<hr class="small">
+
+				<!-- Comment -->
+				<div class="row" id="comment-section">
+					<h4>Comments</h4>
+					<p>Any questions please comment below</p>
+					{% include disqus.html %}
+				</div>
+				<hr class="small">
+
+
+				<div class="row">
+					<h4>You also may like</h4>
+					     {% for post in site.magento-extensions | m:6 limit:6 %}
+					        <div class="col-lg-2 col-md-2">
+					        	<a href="{{ post.url }}" title="{{ post.title }}" class="thumbnail"><img src="{{ site.url }}/{{ post.image }}" class="img-responsive" alt="{{ post.title }}"></a>
+					        	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+							</div>
+					    {% endfor %}
+					  
+				</div>
+				<hr class="small">
+
+
+			</div>
+		</div>
+		<!-- Footer -->
+		{% include footer.html %}
+		<!-- JavaScript -->
+		{% include javascript.html %}
+	</body>
+</html>
