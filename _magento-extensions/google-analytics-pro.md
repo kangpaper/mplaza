@@ -18,11 +18,6 @@ price: 99
 rating: 80
 review_count: 1
 
-screenshots:
- - "/assets/img/extensions-images/google-analytics-pro/overview.png"
- - "/assets/img/extensions-images/google-analytics-pro/Demographics.png"
- - "/assets/img/extensions-images/google-analytics-pro/righ-now.png"
- - "/assets/img/extensions-images/google-analytics-pro/setup.png"
 
 ---
 
