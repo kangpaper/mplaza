@@ -62,15 +62,12 @@
 				<div class="row">
 					<ol class="breadcrumb">
 						<li><a href="{{ site.url }}/">Home</a></li>
-						{% if page.mage_version == 1 %}
 						<li><a href="{{ site.url }}/magento-extensions/">Magento Extensions</a></li>
-						{{% else %}
-						<li><a href="{{ site.url }}/magento-2-extensions/">Magento 2 Extensions</a></li>
-						{% endif %}
 						<li class="active">{{ page.title }}</li>
 					</ol>
 				</div>
 
+				<!-- Screenshots -->
 
 
 				<!-- Content -->
@@ -113,6 +110,19 @@
 					<h4>Comments</h4>
 					<p>Any questions please comment below</p>
 					{% include disqus.html %}
+				</div>
+				<hr class="small">
+
+
+				<div class="row">
+					<h4>You also may like</h4>
+					     {% for post in site.magento-extensions | m:6 limit:6 %}
+					        <div class="col-lg-2 col-md-2">
+					        	<a href="{{ post.url }}" title="{{ post.title }}" class="thumbnail"><img src="{{ site.url }}/{{ post.image }}" class="img-responsive" alt="{{ post.title }}"></a>
+					        	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+							</div>
+					    {% endfor %}
+					  
 				</div>
 				<hr class="small">
 
