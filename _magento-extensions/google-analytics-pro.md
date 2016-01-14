@@ -22,7 +22,7 @@ screenshots:
   - /assets/img/extensions-images/google-analytics-pro/setup.png
 
 demo: 
-download:
+download: https://www.magentocommerce.com/magento-connect/google-analytics-pro.html
 price: 0
 rating: 80
 review_count: 1
