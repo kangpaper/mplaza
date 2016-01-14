@@ -2,7 +2,7 @@
 layout: extension
 title: Adwords Conversion Tracking
 description: "Adwords Conversion Tracking allow adding Conversion tracking code to Magento store in few clicks"
-meta-title: "Adwords Conversion Tracking"
+meta-title: "Magento Adwords Conversion Tracking Extension"
 meta-description: "Adwords Conversion Tracking allow adding Conversion tracking code to Magento store in few clicks"
 meta-keywords: ""
 image: "/assets/img/extensions/adwords-conversion-tracking.png"
