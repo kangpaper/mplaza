@@ -1,18 +1,22 @@
 ---
 layout: extension
-title: Affiliate
-description: "There is a helpful marketing solution with much lower cost and many great benefits"
-slug: affiliate
-meta-title: "Magento Affiliate Extension | Refer friend extension"
-meta-description: "Magento Affiliate extension supports to build an effective representative sales force and increase sales significantly"
-meta-keywords: "magento affiliate, magento affiliate extension, magento affiliate program"
-image: "/assets/img/extensions/affiliate.png"
+title: Google Analytics Pro
+description: "Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store"
+meta-title: "Magento Google Analytics Extension"
+meta-description: "Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store"
+meta-keywords: ""
+image: "/assets/img/extensions/google-analytics-pro.png"
 version: 1.0.0
 user-version: no
 categories: magento marketing
 
+slug: google-analytics-pro
+
 redirect_from:
   - /affiliate.html
+
+screenshots:
+  - /assets/img/extensions/google-analytics-pro.png
 
 demo: 
 download:

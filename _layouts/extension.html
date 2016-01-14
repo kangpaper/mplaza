@@ -72,6 +72,17 @@
 					{{ content }}
 				</div>
 
+				<div class="row">
+					<h4>Screenshots</h4>
+					{% for screenshot in page.screenshots %}
+						<div class="col-lg-4 col-sm-6">
+				            <div class="thumbnail">
+				                <img src="{{ site.url }}{{ screenshot }}" alt="{{ page.title }}">
+				            </div>
+				        </div>
+					{% endfor %}
+				</div>
+				
 				{{ if page.refer_link }}				
 				<div class="row">
 					<div class="col-md-4 text-center" >
