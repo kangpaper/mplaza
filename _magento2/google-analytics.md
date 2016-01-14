@@ -5,7 +5,7 @@ description: "Google Analytics allow admin setup Google Analytics Universial qui
 meta-title: "Magento 2 Google Analytics Extension"
 meta-description: "Magento 2 Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store"
 meta-keywords: ""
-image: "/assets/img/extensions/google-analytics-pro.png"
+image: "/assets/img/extensions/m2-google-analytics.png"
 version: 1.0.0
 user-version: no
 categories: magento marketing
