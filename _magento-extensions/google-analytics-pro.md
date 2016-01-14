@@ -9,7 +9,7 @@ image: "/assets/img/extensions/google-analytics-pro.png"
 version: 1.0.0
 user-version: no
 categories: magento marketing
-permalink: "/google-analytics-pro/"
+permalink: "/magento-google-analytics-pro/"
 slug: google-analytics-pro
 
 redirect_from:
