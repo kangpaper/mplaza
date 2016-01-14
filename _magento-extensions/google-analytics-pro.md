@@ -10,10 +10,7 @@ version: 1.0.0
 user-version: no
 categories: magento marketing
 permalink: "/magento-google-analytics-pro/"
-slug: google-analytics-pro
 
-redirect_from:
-  - /affiliate.html
 
 screenshots:
   - /assets/img/extensions-images/google-analytics-pro/overview.png
