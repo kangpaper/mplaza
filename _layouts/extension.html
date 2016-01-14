@@ -76,15 +76,30 @@
 				</div>
 
 				<div class="row">
-					<h2>Screenshots</h2>
-					{% for screenshot in page.screenshots %}
-						<div class="col-lg-3 col-sm-2">
-				            <div class="thumbnail">
-				                <img src="{{ site.url }}{{ screenshot }}" alt="{{ page.title }}">
-				            </div>
-				        </div>
-					{% endfor %}
+					
+					
 				</div>
+
+
+				<div class="row">
+					<h2>Screenshots</h2>
+						{% for screenshot in page.screenshots %}
+					        <div class="row">
+                                <a href="{{ site.url }}{{ screenshot }}" data-toggle="lightbox" data-gallery="navigateTo" class="col-lg-3 col-sm-2">
+                                    <img src="{{ site.url }}{{ screenshot }}" class="img-responsive">
+                                </a>
+                            </div>
+
+						{% endfor %}
+				</div>
+
+				<script type="text/javascript">
+					$(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
+					    event.preventDefault();
+					    $(this).ekkoLightbox();
+					}); 
+				</script>
+
 				
 				{{ if page.refer_link }}				
 				<div class="row">
