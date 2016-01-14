@@ -2,23 +2,22 @@
 layout: extension
 title: "Google Analytics Pro"
 description:  "Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store"
-permalink: google-analytics-pro
-meta-title: ""
-meta-description: ""
+meta-title: "Magento Google Analytics Extension"
+meta-description: "Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store"
 meta-keywords: ""
 image: "/assets/img/extensions/google-analytics-pro.png"
 version: 1.0.0
 user-version: false
-categories: magento
+categories: magento magento-1 marketing
 mage_version: 1
 
+permalink: google-analytics-pro
+
 demo: 
-download:
+download: 
 price: 99
 rating: 80
 review_count: 1
-
-
 ---
 
 

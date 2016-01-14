@@ -16,6 +16,89 @@ redirect_from:
         </div>
     </div>
 
+    <div class="row">
+         {% for extension in site.magento-extensions %}
+        <div class="col-lg-4 col-sm-6">
+            <div class="thumbnail">
+                <a href="{{ extension.url }}" class="post-image-link">
+                    <img src="{{ site.url }}{{ extension.image }}" alt="{{ extension.description }}">
+                </a>
+                <div class="caption">
+                    <h3>{{ extension.title }}</h3>
+
+                    <p>
+                        <button type="button" class="btn btn-primary">{% if extension.price == 0 %}FREE{% else %}<i class="fa fa-dollar"></i>{{ extension.price }}{% endif %}</button>
+                        <a href="{{ site.url }}/{{ extension.url }}" class="btn btn-default">View details</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+         <div class="text-center btn-home">
+            <a href="{{ site.url }}/categories/extensions" class="btn btn-outline">View All Extensions</a>
+        </div>
+
+
+    </div>
+
+    <hr class="small">
+
+    
+    <div class="row col-md-6">
+        <div class="row-heading text-center">
+            <h3>Recent Guides</h3>
+            <p class="lead">Follow up our Guides</p>
+        </div>
+
+        <div class="row-content">
+            {% for post in site.categories.guide %}
+                <div class="post-list-item">
+                    <a href="{{ site.url }}{{ post.url }}" class="post-image-link">
+                        <h3>{{ post.title }}</h3>
+                    </a>
+                    <div class="caption">
+                        <p>{{ post.description }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="text-center btn-home">
+            <a href="{{ site.url }}/categories/guides" class="btn btn-outline">View All Guides</a>
+        </div>
+       
+    </div>
+
+
+        
+    <div class="row col-md-6">
+        <div class="row-heading text-center">
+            <h3>Recent blog posts</h3>
+            <p class="lead">Follow up our posts</p>
+        </div>
+
+        <div class="row-content">
+            {% for post in site.categories.blog %}
+                <div class="post-list-item">
+                    <a href="{{ site.url }}{{ post.url }}" class="post-image-link">
+                        <h3>{{ post.title }}</h3>
+                    </a>
+                    <div class="caption">
+                        <p>{{ post.description }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="text-center btn-home">
+            <a href="{{ site.url }}/categories/blog" class="btn btn-outline">View All Posts</a>
+        </div>
+       
+    </div>
+
+
+
    
 </div>
 
