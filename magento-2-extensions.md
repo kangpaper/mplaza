@@ -19,7 +19,7 @@ redirect_from:
 				</a>
 				<div class="caption">
 					<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
-	                    <h3>{{ post.title }}</h3>
+	                    <h4>{{ post.title }}</h4>
 	                </a>
 					<p>{{ post.excerpt }}</p>
 					<a href="{{ site.url }}{{ post.url }}" class="btn btn-default">View details</a>
