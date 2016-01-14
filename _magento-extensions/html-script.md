@@ -5,7 +5,7 @@ description: "Allow admin add Zopim, Live chat, Google Analytics, Adwords, GTM w
 meta-title: "Magento Html Script Extension"
 meta-description: ""
 meta-keywords: ""
-image: "/assets/img/extensions/html-script.jpg"
+image: "/assets/img/extensions/html-script.png"
 version: 1.0.0
 user-version: no
 categories: magento rich-content
