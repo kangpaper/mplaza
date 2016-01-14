@@ -62,13 +62,10 @@
 				<div class="row">
 					<ol class="breadcrumb">
 						<li><a href="{{ site.url }}/">Home</a></li>
-						<li><a href="{{ site.url }}/magento-extensions/">Magento Extensions</a></li>
+						<li><a href="/magento-extensions/">Magento Extensions</a></li>
 						<li class="active">{{ page.title }}</li>
 					</ol>
 				</div>
-
-				<!-- Screenshots -->
-
 
 				<!-- Content -->
 				<div class="row preview-page-content col-lg-12 col-md-12" id="extension-content" >
@@ -118,7 +115,7 @@
 					<h4>You also may like</h4>
 					     {% for post in site.magento-extensions | m:6 limit:6 %}
 					        <div class="col-lg-2 col-md-2">
-					        	<a href="{{ post.url }}" title="{{ post.title }}" class="thumbnail"><img src="{{ site.url }}/{{ post.image }}" class="img-responsive" alt="{{ post.title }}"></a>
+					        	<a href="{{ post.url }}" title="{{ post.title }}" class="thumbnail"><img src="{{ post.image }}" class="img-responsive" alt="{{ post.title }}"></a>
 					        	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 							</div>
 					    {% endfor %}
