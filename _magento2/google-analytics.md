@@ -13,9 +13,11 @@ permalink: "/magento-2-google-analytics-pro/"
 
 sort_order: 15
 screenshots:
-  - /assets/img/extensions-images/google-analytics-pro/overview.png
-  - /assets/img/extensions-images/google-analytics-pro/Demographics.png
-  - /assets/img/extensions-images/google-analytics-pro/righ-now.png
+  - /assets/img/extensions-images/m2-google-analytics/right-now.png
+  - /assets/img/extensions-images/m2-google-analytics/config.png
+  - /assets/img/extensions-images/m2-google-analytics/report.png
+  - /assets/img/extensions-images/m2-google-analytics/segment.png
+  - /assets/img/extensions-images/m2-google-analytics/country.png
 
 demo: 
 download: 
