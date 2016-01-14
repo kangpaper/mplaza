@@ -54,7 +54,7 @@ highlighter: pygments
 gems:
   - jekyll-redirect-from
   # http://jekyllrb.com/docs/templates/#gist
-  - jekyll-gist
+  # - jekyll-gist
   # - jekyll-less
 
 

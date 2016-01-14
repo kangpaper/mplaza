@@ -3,9 +3,9 @@ layout: extension
 title: Google Analytics Pro
 description:  Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store
 permalink: google-analytics-pro
-meta-title: 
-meta-description: 
-meta-keywords: 
+meta-title: ""
+meta-description: ""
+meta-keywords: ""
 image: "/assets/img/extensions/google-analytics-pro.png"
 version: 1.0.0
 user-version: false
