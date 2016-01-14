@@ -26,36 +26,54 @@ review_count: 1
 
  
 <h2>Google Analytics Pro</h2>
+Google Analytics is the free Google service and almost webmasters rely on its role in evaluating the effectiveness of online marketing campaign specifically as the traffic to website and conversion rate into customers in exact period of time. 
+
+Google Analytics extension is provided in order to help Magento stores use Google Analytics functionality more easily and conveniently. 
 
 
-Google Analytics is a free Google service which allows the webmasters and web site administrators to monitor their web sites' traffic and conversion ratio.
+- Support many types of chart as Pie Chart, Line Chart and Bar Chart
+- Objective and detailed reports
+- Easy to understand and analysis
 
-This is Google Universial Analytics that supports two types of tracking:
-
-- Page View Tracking - Lists the origin from which your web store visitors linked to your store. 
-- E-commerce Tracking - Lists the customers that make purchases and what they buy.
-
-
-<h2>Features</h2>
-
-
-- Add multiple Google Analytics Tracking IDs to one Magento store. 
-- Support Page View Tracking and E-commerce Tracking
-- Track Adwords conversions (coming soon)
-- Dynamic Remarketing Tags (coming soon)
-- Enable/Disable Enhanced Link Attribution
-- Enable/Disable IP Anonymization
-- Enable/Disable Trace Debugging
-- Auto add userId to Google Analtyics if customer logged in
-
-<h2>Instructions</h2>
+100% open source
+-----------------
+Store owners have rights to configure easily and customize in the way you need.
+.. image:: https://lh6.googleusercontent.com/V5g-4BHenEHUulvHPYSFKnQV-r8K0zvSzo4vLArQqxpPRzMXT_lmiXTyWJa-cRlLHiQU6XQ8unwSO0tRjr_1CXFyz_hN9MtV1IHX6e_UJSw299so5L5tRA3FapEyo1Uvl-e0xXAH
 
 
-First you need to a create an account at <a href="http://www.google.com/analytics/">Google Analytics</a> . You will receive a Google Analytics account number. Write it down since you will need it for the Magento configuration.
+Additional tracking ID
+---------------------------
+Beside the main tracking ID from Google Analytics registration, Magento supports the second tracking ID which allows getting the analytics at the same time without any delay.
+.. image:: https://lh5.googleusercontent.com/iFmMlH8HMLkm45OWhSvpbIvNhsNxiLod9S_vZKukQp_GjUHJLC7VVjNYF5qgFw9AsquQSP3_7FIsgxit2VGXJo462vb7thcjvGjfdCLeVgTKnK2D14JwhtVQBfN-DBGkjzKV8ZEI
 
-Now, you need to configure the Google Analytics tracking in your Magento store. Open the your Admin area and navigate to System -> Configuration -> Google Analytics Pro and expand the Google Analytics section.
 
-Pick the Yes option from the Enable drop-down menu. Enter the Google Analytics account number in the Main Tracking ID field and click on the Save Config button. That's it, the Google Analytics code is added to your site.
+Enhance the accuracy of analytics page report
+-------------------------------------------------
+As administrator, you can enable Enhanced Link Attribution feature to automatically differentiating between multiple links and the same URL on a single page. Thanks to that, your report about driving the traffic becomes more credible.
+.. image:: https://lh5.googleusercontent.com/f5jkIe4rBESxT5kLWUq2TzIWpFzlGjqWN67i6TJhZhpYjJpeWOSZmeLmLZ_IjwPYqCWnaGA_jc0DrPRWH7iAIvvL2d-LPkHo1kPg6_o79oDRhFBcKD6PCXCmSR748YpVFoYcnAiu
+
+Allow accessing the analytics report via IP anonymization
+-----------------------------------------------------------
+With Google Analytics extension, instead of real IP address, the anonymized IP can be used if you approve to guarantee user’s privacy policy.
+.. image:: https://lh6.googleusercontent.com/T0nqpAFNnd_5gk9QKPTvWt8m8oy3qeQ5aRytdrH90L0iH8qGCIldPIZfE6sQCMV3rFyKjYHvCWSgbyTe1ru-Z6fmOsQ4LEP217zBjHX6hlW1LjTCfnkmnKDCyb0Zdln3mZ-ZxD-1
+
+ 
+Support trace debugging
+--------------------------
+Trace Debugging will show extra information on the console with the full tracking snippet while you are following Google Analytics report.
+
+.. image:: https://lh4.googleusercontent.com/UMktVCJwiFmbFJqBFVaz_1S-xGzzE6qn7lyH5eF9momlUPTQpjTJfFN0p5nDK_E7l-RzzEiuKMhSFCIedr5qvm_mUNgVtgg7pQxuuepyo5j6nEK5Nx1WG2eo7nr1v4rsLQhwW0Pl
+
+
+Other Features
+------------------
+- 100% FREE
+- Support multi-store
+- Support multi-language
+- Easy to custom
+- Well-done user guide
+- Life-time support and update
+
 
 <h2>Help</h2>
 
