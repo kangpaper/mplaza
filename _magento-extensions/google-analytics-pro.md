@@ -16,10 +16,10 @@ redirect_from:
   - /affiliate.html
 
 screenshots:
-  - /assets/img/extensions-extensions/google-analytics-pro/overview.png
-  - /assets/img/extensions-extensions/google-analytics-pro/Demographics.png
-  - /assets/img/extensions-extensions/google-analytics-pro/right-now.png
-  - /assets/img/extensions-extensions/google-analytics-pro/setup.png
+  - /assets/img/extensions-images/google-analytics-pro/overview.png
+  - /assets/img/extensions-images/google-analytics-pro/Demographics.png
+  - /assets/img/extensions-images/google-analytics-pro/right-now.png
+  - /assets/img/extensions-images/google-analytics-pro/setup.png
 
 demo: 
 download:
