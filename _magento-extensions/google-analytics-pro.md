@@ -16,11 +16,14 @@ redirect_from:
   - /affiliate.html
 
 screenshots:
-  - /assets/img/extensions/google-analytics-pro.png
+  - /assets/img/extensions-extensions/google-analytics-pro/overview.png
+  - /assets/img/extensions-extensions/google-analytics-pro/Demographics.png
+  - /assets/img/extensions-extensions/google-analytics-pro/right-now.png
+  - /assets/img/extensions-extensions/google-analytics-pro/setup.png
 
 demo: 
 download:
-price: 99
+price: 0
 rating: 80
 review_count: 1
 ---
