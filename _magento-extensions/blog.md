@@ -5,7 +5,7 @@ description: "A better blog - Blog extension for your e-commerce store without a
 meta-title: "Magento Blog Extension"
 meta-description: ""
 meta-keywords: ""
-image: "/assets/img/extensions/blog.png"
+image: "/assets/img/extensions/blog.jpg"
 version: 1.0.0
 user-version: no
 categories: magento marketing
