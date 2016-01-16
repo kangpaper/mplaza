@@ -13,11 +13,11 @@ permalink: "/magento-adwords-conversion-tracking/"
 
 sort_order: 99
 screenshots:
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/add-conversion.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/Conversion_actions.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/funnel-visualization.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/setup.png
-  - /assets/img/extensions-images/google-adwords-conversion-tracking/Tag_for_Conversion.png
+  - /assets/img/extensions-images/adwords-conversion-tracking/add-conversion.png
+  - /assets/img/extensions-images/adwords-conversion-tracking/Conversion_actions.png
+  - /assets/img/extensions-images/adwords-conversion-tracking/funnel-visualization.png
+  - /assets/img/extensions-images/adwords-conversion-tracking/setup.png
+  - /assets/img/extensions-images/adwords-conversion-tracking/Tag_for_Conversion.png
 
 demo: 
 download: https://www.magentocommerce.com/magento-connect/adwords-conversion-tracking.html
