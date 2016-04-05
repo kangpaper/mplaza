@@ -25,7 +25,10 @@ review_count: 2
 
 ---
 
-Affiliate program is one of the most effective marketing solution for selling online. Creating affiliate program on your website, it helps you to boost traffic, leads, sales or higher SEO rankings. It also increase your brand on online/offline business.
+Affiliate program is one of the most effective marketing solution for selling online. It is not only for product sales they personally generate, but also for the sales of sub-affiliates they introduced to the affiliate program. With Magento Affiliate extension you can define shape of affiliate tree, what could have positive influence on performance of your MLM schema.
+Creating affiliate program on your website, it helps you to boost traffic, leads, sales or higher SEO rankings. It also increase your brand on online/offline business.
+Affiliate module supports multiple affiliate tiers. Each tier has different commission rate. Admin can view all affiliates in tree.
+
 
 How does it work?
 ------------------
@@ -37,12 +40,6 @@ How does it work?
 </ul>
 
 
-Multi-Level Marketing
------------------------
-
-Multi-level marketing is one of the best marketing solution for business. It is not only for product sales they personally generate, but also for the sales of sub-affiliates they introduced to the affiliate program. With Magento Affiliate extension you can define shape of affiliate tree, what could have positive influence on performance of your MLM schema.
-
-Affiliate module supports multiple affiliate tiers. Each tier has different commission rate. Admin can view all affiliates in tree.
 
 Multiple programs
 -----------------
