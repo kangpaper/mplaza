@@ -14,11 +14,19 @@ permalink: "/magento-affiliate-extension/"
 sort_order: 15
 
 screenshots:
-  - /assets/img/extensions-images/blog/listing.png
+  - /assets/img/extensions-images/affiliate/frontend.jpg
+  - /assets/img/extensions-images/affiliate/refer-friends.jpg
+  - /assets/img/extensions-images/affiliate/withdrawal.jpg
+  - /assets/img/extensions-images/affiliate/campaigns.jpg
+  - /assets/img/extensions-images/affiliate/menu.jpg
+  - /assets/img/extensions-images/affiliate/configuration.jpg
+  - /assets/img/extensions-images/affiliate/affiliates.jpg
+  - /assets/img/extensions-images/affiliate/edit-campaign.jpg
+  - /assets/img/extensions-images/affiliate/transactions.jpg
 
 
 demo: 
-download: https://www.magentocommerce.com/magento-connect/better-blog.html
+download: https://www.mageplaza.com/magento-affiliate-extension/#download
 price: 69
 rating: 92
 review_count: 2
