@@ -26,7 +26,7 @@ screenshots:
 
 
 demo: 
-download: https://www.mageplaza.com/magento-affiliate-extension/#download
+download: 
 price: 69
 rating: 92
 review_count: 2
