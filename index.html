@@ -29,7 +29,7 @@ redirect_from:
                     <h4>{{ post.title }}</h4>
 
                     <p>
-                        <button type="button" class="btn btn-primary">{% if post.price == 0 %}FREE{% else %}<i class="fa fa-dollar"></i>{{ post.price }}{% endif %}</button>
+                        <button type="button" class="btn btn-primary">{% if post.price == 0 %}FREE{% else %} ${{ post.price }}{% endif %}</button>
                         <a href="{{ site.url }}{{ post.url }}" class="btn btn-default">View details</a>
                     </p>
                 </div>
