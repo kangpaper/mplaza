@@ -25,6 +25,7 @@ screenshots:
   - /assets/img/extensions-images/affiliate/transactions.jpg
 
 
+refer_link: false
 demo: 
 download: 
 price: 69
