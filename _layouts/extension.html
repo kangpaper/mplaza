@@ -19,7 +19,7 @@
 					
 
 						<li itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-							<a href="#price" class="btn btn-default" itemprop="price">{% if page.price == 0 %}FREE{% else %}<i class="fa fa-dollar"></i>{{ page.price }}{% endif %}</a>
+							<a href="#price" class="btn btn-default" itemprop="price">{% if page.price == 0 %}FREE{% else %} ${{ page.price }}{% endif %}</a>
 							<a href="#availability" class="btn btn-default availability in-stock"><span>In stock</span></a>
 						</li>
 
