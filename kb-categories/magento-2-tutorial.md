@@ -1,16 +1,16 @@
 ---
-layout: page
-title: Knowledge base
+layout: kb
+title: Magento 2 Tutorial
 description: 
-permalink: /kb/
+permalink: /kb/magento-2-tutorial/
 
-redirect_from:
-  - /faq/
 ---
+
+
 
 <div class="container">
 	<div class="row previews">
-		{% for post in site.categories.kb %}
+		{% for post in site.kb.m2 %}
 		<div class="col-lg-4 col-sm-6">
 			<div class="thumbnail">
 				

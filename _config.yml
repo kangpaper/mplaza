@@ -68,3 +68,5 @@ collections:
     output: true
   pages:
     output: true
+  kb:
+    output: true
