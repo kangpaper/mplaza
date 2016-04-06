@@ -15,7 +15,7 @@ What should I do?
 
 We are recommend the following best practices
 
-1. Custom admin url
+Custom admin path
 ----------------------
 
 The default Magento 1 backend url is `your-domain.com/admin` Because the default Magento backend URL is common knowledge in brute-force suites, you can easily get some advantage by cutting the low-hanging fruit.
@@ -28,3 +28,23 @@ XML Path: `admin -> routers -> adminhml -> args -> frontName`
 You can see `<![CDATA[admin]]>`, now change it to your own admin url, e.g: secret or mybackend
 
 Now flush Magento cache to take effect: `System -> Cache Management -> Flush Magento Cache`
+
+
+Secure your Magento admin account
+-----------------------------------
+
+Don't use admin account
+```````````````````````````
+
+People usally use `admin` as first admin account. This is security issue for your Magento store. Because hackers can guest it easily. We recommend you should change `admin` account name to your own account name, nickname or your email address.
+
+Keep strong password
+```````````````````````
+The best way to protect your Magento store against a brute-force attack is to – and advise other administrators to – use a strong password. 
+The rule:
+- Password lenght: > 8
+- Includes number
+- Includes chracters (Lowercase and Uppercase  Characters)
+- Include Symbols: optional
+
+
