@@ -42,7 +42,9 @@ In addition to the logo in `the header`, your logo also appears on `email templa
 the configuration applies. Then, clear the checkbox after each field so new values can be
 entered.
 * Expand the `Header` section. Then, do the following:
+
 ![upload logo](https://lh4.googleusercontent.com/xwxKv8hQz-2GNtjT4F7Xt70K8D2bmbb5SAx4yMFt4oRQGSyWt0amQB6CPhVd1UjOBCA3ApZCz47VMIpapKBDqQJMnKf9Wpn9x0kyb8Lipgw-J_w4LaegHNdHNdqmH7DOaPqrDRWl)
+	
 	* To upload a new logo, tap Choose File. Then, choose the file from your computer.
 	* Enter the `Logo Image Width` and `Logo Image Height`.
 	* In the `Logo Image Alt` field, enter the text that you want to appear when someone hovers
