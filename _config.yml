@@ -30,8 +30,8 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
+  toc_levels: 1.6
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers: nil
@@ -52,9 +52,9 @@ future:      true
 highlighter: rouge
 
 gems:
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
   # http://jekyllrb.com/docs/templates/#gist
-  - jekyll-gist
+  # - jekyll-gist
 
 
 include: [".htaccess"]
