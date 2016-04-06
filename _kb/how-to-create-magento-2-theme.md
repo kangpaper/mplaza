@@ -38,15 +38,21 @@ Magento/Framework/Config/etc/theme.xsd”>
 
 #### Folder structure
 
-img 1
+```xml
+app/design/frontend/<Vendor>/
+├── <theme>/
+│   ├── etc/
+│   │   ├── view.xml
+│   ├── web/
+│   │   ├── images
+│   │   │   ├── logo.svg
+│   ├── registration.php
+│   ├── theme.xml
+│   ├── composer.json
+```
 
-#### Static folders
-
-img 2
-
-#### Layout
-
-img 3
+<Vendor> is theme vendor. e.g: mageplaza
+<theme> is theme name. e.g: ultimate
 
 
 Ok, let's go
@@ -132,4 +138,69 @@ You can add the following content to register the theme to Magento 2
     __DIR__
 );
 ```
+
+You should change mageplaza, ultimate to your vendor, theme name.
+
+
+## Creating static files, folders
+
+In a design, there are many static files such as javascript, css, images and fonts. They are stored in separate folders in `web` of theme package.
+
+Here are the structure
+
+```xml
+app/design/<area>/mageplaza/ultimate/
+├── web/
+│ ├── css/
+│ │ ├── source/ 
+│ ├── fonts/
+│ ├── images/
+│ ├── js/
+
+```
+
+##### Tips
+
+In Magento 2, theme or extension development, when you update any files in `app/design/<area>/mageplaza/ultimate/web` folder, you have to static folders which located at `pub/static` and `var/view_preprocessed` Otherwise, you still there is no change in frontend.
+
+
+## Configure catalog product images
+
+As you can see in the theme strucure I mentioned above, there is a file called `etc/view.xml`. This is configuration file. This file is required for Magento theme but it is optional if exists in parent theme.
+
+Go to `app/design/<area>/mageplaza/ultimate/` and create a folder `etc` and file `view.xml`
+You can copy the `view.xml` file in parent theme such as **Blank theme** `app/design/frontend/Magento/blank/etc/view.xml`
+
+Ok, let update the image configuration for catalog product grid page.
+
+```xml
+...
+    <image id="category_page_grid" type="small_image">
+        <width>250</width>
+        <height>250</height>
+    </image>
+...
+
+```
+
+In view.xml, image properties are configured in the scope of <images module="Magento_Catalog"> element:
+
+```xml
+<images module="Magento_Catalog">
+...
+<images/>
+```
+
+
+Image properties are configured for each image type defined by the `id` and `type` attributes of the `<image>` element:
+
+```xml
+<images module="Magento_Catalog">
+	<image id="unique_image_id" type="image_type">
+	<width>100</width> <!-- Image width in px --> 
+        <height>100</height> <!-- Image height in px -->
+	</image>
+<images/>
+```
+
 
