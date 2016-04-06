@@ -22,7 +22,6 @@ redirect_from:
 					<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
 	                    <h4>{{ post.title }}</h4>
 	                </a>
-					<p>{{ post.excerpt }}</p>
 					<a href="{{ site.url }}{{ post.url }}" class="btn btn-default">View details</a>
 				</div>
 			</div>
