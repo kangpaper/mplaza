@@ -1,7 +1,7 @@
 ---
 layout: kb
-title: Learn Magento 2 Block & Template
-permalink: /kb/magento-2-block-template.html
+title: Magento 2 Layout, Block & Template Ultimate Guides
+permalink: /kb/magento-2-block-block-template.html
 published: true
 categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to block template
@@ -26,14 +26,14 @@ You will soon see that unlike Magento 1.x where all the templates were stored in
 design/frontend/<package>/<theme>/template`, there are a number of folders, as
 demonstrated in the screenshot below. 
 
-img 1
+![magento block layout structure](https://lh6.googleusercontent.com/XYQG9rNyAOSVF-9Li1ux9Lil7cixHq2DtNGfHr7tZCCFeDJRJtt0MH1uZRmawQsG9puj3wuz5xoFlLXxUycejDZjgK6MOwLBCKy-xkPPWgECsvmg6elBKchv9lZCDUiq1W_R1_DP)
 
 Each one of these folders represents a module in **Magento 2** where templates or assets
 are overridden in this theme. The location of the default versions of each module can be
 found in `app/code/Magento`
 Let’s take a look at the structure of a typical module.
 
-img 2
+![magento 2 code module structure](https://lh3.googleusercontent.com/mo90IzXUgudcUyEVT7MQRK7m7n1jKluWTDV_OuDQSaaIsuyXblw4b9roe9v5CSHOgJDjMpnDgz5GWiepTywHFQYWikJLwGiFuio0oIXWrp3qGRivLplmvFurtT-NvbEhg_cXMZnt)
 
 Here is an example of the checkout module in a custom theme. As you can see, it
 contains a folder for layout updates (more on that later) one for templates and a “web”
