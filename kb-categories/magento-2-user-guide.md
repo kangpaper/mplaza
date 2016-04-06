@@ -13,7 +13,7 @@ permalink: /kb/magento-2-user-guide/
 	<div class="row previews">
 		{% for post in site.kb %}
 		{% for category in post.categories %}
-			{% if category == "magento-2-tutorial" %}
+			{% if category == "magento-2-user-guide" %}
 				<div class="col-lg-12 col-sm-12">
 					<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
 	                    <h2>{{ post.title }}</h2>

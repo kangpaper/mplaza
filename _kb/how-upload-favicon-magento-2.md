@@ -20,7 +20,6 @@ you can use to generate an ICO image or convert an exiting image to the format.
 ## Step 1: Create a Favicon
 
 * Create a 16x16 or 32x32 graphic image of your logo, using the image editor of your choice.
-
 * (Optional) Use one of the available online tools to convert the file to the .ico format. Then, save
 the file to your computer.
 
