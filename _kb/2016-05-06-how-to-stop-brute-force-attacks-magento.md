@@ -35,13 +35,13 @@ Now flush Magento cache to take effect: `System -> Cache Management -> Flush Mag
 Secure your Magento admin account
 -----------------------------------
 
-Don't use admin account
-```````````````````````````
+###Don't use admin account
+
 
 People usally use `admin` as first admin account. This is security issue for your Magento store. Because hackers can guest it easily. We recommend you should change `admin` account name to your own account name, nickname or your email address.
 
-Keep strong password
-```````````````````````
+###Keep strong password
+
 
 The best way to protect your Magento store against a brute-force attack is to – and advise other administrators to – use a strong password. 
 The rule:
