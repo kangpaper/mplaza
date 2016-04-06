@@ -13,15 +13,12 @@ permalink: /kb/magento-2-tutorial/
 		{% for post in site.kb %}
 		{% for category in post.categories %}
 			{% if category == "magento-2-tutorial" %}
-				<div class="col-lg-4 col-sm-6">
-					<div class="thumbnail">
-						
-						<div class="caption">
-							<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
-			                    <h3>{{ post.title }}</h3>
-			                </a>
-						</div>
-					</div>
+				<div class="col-lg-12 col-sm-12">
+					<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
+	                    <h3>{{ post.title }}</h3>
+	                </a>
+
+	                <p>{{ post.excerpt }}</p>
 				</div>	 
 			{% endif %}
 		{% endfor %}
