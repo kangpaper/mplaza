@@ -64,14 +64,14 @@ Creating a folder for the theme:
 * Go to `app/design/frontend`
 * Creating a vendor folder `app/design/frontend/<vendor>` e.g: `app/design/frontend/mageplaza`
 * Create a theme folder `app/design/frontend/<vendor>/<theme>` e.g: `app/design/frontend/mageplaza/ultimate`
-	```xml
-			app/design/frontend/
-		├── mageplaza/
-		│   │   ├──...ultimate/
-		│   │   │   ├── ...
-		│   │   │   ├── ...
 
-	```
+```xml
+	app/design/frontend/
+├── mageplaza/
+│   │   ├──...ultimate/
+│   │   │   ├── ...
+│   │   │   ├── ...
+```
 
 
 
