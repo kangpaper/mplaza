@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Magento 2 Tutorial
+title: Magento 2
 description: 
-permalink: /kb/magento-2-tutorial/
+permalink: /kb/magento-2/
 
 ---
 
@@ -12,7 +12,7 @@ permalink: /kb/magento-2-tutorial/
 	<div class="row previews">
 		{% for post in site.kb %}
 		{% for category in post.categories %}
-			{% if category == "magento-2-tutorial" %}
+			{% if category == "magento-2" %}
 				<div class="col-lg-4 col-sm-6">
 					<div class="thumbnail">
 						

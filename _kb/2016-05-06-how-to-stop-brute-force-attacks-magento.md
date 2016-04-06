@@ -3,7 +3,7 @@ layout: kb
 title: How To Stop Brute Force Attacks in Magento 1, 2
 permalink: /kb/how-to-stop-brute-force-attacks-magento.html
 published: true
-categories: m2 m2-userguide
+categories: magento-2 magento-2-tutorial magento-2-user-guide
 tags: magento brute-force security
 ---
 
@@ -50,6 +50,8 @@ The rule:
 - Includes number
 - Includes chracters (Lowercase and Uppercase  Characters)
 - Include Symbols: optional
+
+
 
 
 
