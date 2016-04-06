@@ -32,6 +32,7 @@ the file to your computer.
 * Expand the HTML Head section. Then, do the following:
 
 ![how to upload favicon magento 2](https://lh3.googleusercontent.com/0yWNmAO7NoehKmQTqHl9grB4dHMolZtXOpRGMqxD_jbcf5MHAbMzspuF2u3c4J1tOhP1Klh4gSAlAnk6gXRA-AttiUoP-Ov6sXVtLB1sglsnirNJ3RVhK0lIK9iM28DriMrQOzoj)
+
 	* Tap Choose File. Then, find the favicon file that you prepared.
 	* If you want to delete the current favicon, mark the Delete Image checkbox.
 
