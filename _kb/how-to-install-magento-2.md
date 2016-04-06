@@ -46,9 +46,15 @@ If you are using shared hosting, you can use unzip/exact feature to exact Magent
 
 If you are running on your server, let follow the commands:
 
-File format	Command
-.tar.gz	tar zxf <filename>
-.zip	unzip <filename>
+#### File format and command 
+
+```
+# File .tar.gz	
+tar zxf <filename>
+
+# File .zip
+unzip <filename>
+```
 
 ## Update permission
 
