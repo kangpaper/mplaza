@@ -53,6 +53,73 @@ The rule:
 
 
 
+## Protect /downloader folder
+
+In Magento 1, it use `/downloader` called **Magento Connect Manager** folder to install extension from Magento Connect. This is default path, it is easy for hacker to attack your Magento website. You can rename it but there is a effect way to protect the `downloader` folder, it is *IP whitelist*
+
+
+### for Apache
+Edit file `downloader/.htaccess` and add the folowing lines to the end:
+
+```xml
+order deny,allow
+deny from all
+allow from x.x.x.x
+```
+x.x.x.x is your whitelist IP v4 address.
+
+
+### for Nginx
+
+Open configuration file of your Magento website.
+E.g: `/etc/nginx/conf/mywebsite.conf`
+
+Add the following block of lines:
+
+```xml
+location /downloader/ {
+  allow x.x.x.x;
+  deny all;
+
+  location ~ \.php$ {
+    echo_exec @phpfpm;
+  }
+}
+```
+
+
+### Cpanel or DA hosting
+
+You can ask for support from your hosting providers.
+
+
+## Protect local.xml file
+
+`local.xml` file is very sensitive data that contain database information, admin path or crypt key.
+If this information is leak to public you will get problem.
+
+Check it now, navigate your browser to `http://your-domain.com/app/etc/local.xml`
+If it cannot access to the data, your website is safe. Otherwhile, you can follow the `Protect /downloader folder` in previously to disable that.
+
+
+## Secure .git folder
+
+Git is now popular nowsday, every store using Git as version control of its store. Git folder contain many important information such as repo url, code files ...
+
+You can follow the `Protect /downloader folder` in previously to disable that.
+
+
+## Is your store up-to-date?
+
+- Apply security paches. There are some security patches that Magento released recently, you can download it at (here)[https://www.magentocommerce.com/download]
+- Install Magento latest version. Updating to latest version that keep your store always healthy.
+
+
+## Enable HTTPS for admin panel
+
+Since Magento is used for e-commerce transactions, the data is often very sensitive. This is why it is recommended that all of your login details should pass through a secure connection.
+
+
 
 
 
