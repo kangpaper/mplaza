@@ -28,8 +28,8 @@ In this guide, we will show to how to install as #1 solution. It is easy to get 
 
 Before you continue, make sure you’ve done all of the following:
 
-* Set up a server that meets our (system requirements)[http://devdocs.magento.com/guides/v2.0/install-gde/system-requirements.html]
-* Created the Magento file (system owner)[http://devdocs.magento.com/guides/v2.0/install-gde/prereq/apache-user.html]
+* Set up a server that meets our [system requirements](http://devdocs.magento.com/guides/v2.0/install-gde/system-requirements.html)
+* Created the Magento file [system owner](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/apache-user.html)
 
 ## Download Magento packages
 
