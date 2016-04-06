@@ -42,7 +42,7 @@ kramdown:
 
 # http://jekyllrb.com/docs/permalinks/
 # /:title/ /:title.html
-permalink:   "/:categories/:slug.html/"
+permalink:   "/:categories/:slug.html"
 
 # Amount of post to show on home page
 paginate: 10
