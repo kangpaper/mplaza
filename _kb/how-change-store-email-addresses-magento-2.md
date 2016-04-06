@@ -32,7 +32,7 @@ hosting provider to create each email addresses that is needed.
 - In the panel on the left under `General`, choose `Store Email Addresses`.
 - Expand the `General Contact` section, and do the following:
 
-img 1
+![magento 2 store email addresses](https://lh5.googleusercontent.com/YBWoihCHcPJVx4JBgAv1dWpEzhdHwMoz17udL2m2LqnZMLHbl9qQO7Qfp95OyegJ6eAhI6-rlHEiYyYrqFo9tXO7RShV3qelD6x1sberh7e25wUxN31jiwWu20hw9FqZ2aCkCgBf)
 
 	- In the Sender Name field, type the name of the person to appear as the sender of any
 email messages that is associated with the General Contact identity.
@@ -56,3 +56,10 @@ each of the following:
 	- Credit Memo and Credit Memo Comments
 - Starting with Order, expand the section for each message, and make sure that the correct
 sender is selected.
+
+
+![order email template](https://lh3.googleusercontent.com/ueUWbehCZKxUGW3Q-9OLRSDzevyGqZLauZgU6jKPgb0RQl3c8Q15FIiUfQHh2Kkr_MesoF_wuaL1thYvCa3XucoLCyGkb2JFzIqgBwTKKMpkEiiV1OoyYciCjeaux0qtms3_z2kG)
+
+- When complete, tap  `Save Config` .
+
+
