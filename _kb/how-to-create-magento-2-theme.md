@@ -328,3 +328,133 @@ The color for the images background. Not applied to images with transparency, if
 </table>
 
 
+## Declare Theme Logo
+
+In Magento 2 default, it uses `<theme_dir>/web/images/logo.svg`, in your theme, you can change to different file format such as png, jpg but you have to declare it.
+
+
+Logo size should be sized `300x300px`  and you open file `<theme_dir>/Magento_Theme/layout/default.xml`
+
+```xml
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_file" xsi:type="string">images/custom_logo.png</argument>
+                <argument name="logo_img_width" xsi:type="number">300</argument> 
+                <argument name="logo_img_height" xsi:type="number">300</argument>
+            </arguments>
+        </referenceBlock>
+    </body>
+</page>
+```
+
+
+## Basic layout elements
+
+
+The basic components of Magento page design are blocks and containers.
+
+A container exists for the sole purpose of assigning content structure to a page. A container has no additional content except the content of included elements. Examples of containers include the header, left column, main column, and footer.
+
+
+layout image
+
+
+## Layout files types and conventions
+
+#### Module and theme layout files
+
+The following terms are used to distinguish layouts provided by different application components:
+
+* Base layouts: Layout files provided by modules. Conventional location:
+	* Page configuration and generic layout files: `<module_dir>/view/frontend/layout`
+	* Page layout files: `<module_dir>/view/frontend/page_layout`
+* Theme layouts: Layout files provided by themes. Conventional location:
+	* Page configuration and generic layout files: `<theme_dir>/<Namespace>_<Module>/layout`
+	* Page layout files: `<theme_dir>/<Namespace>_<Module>/page_layout`
+
+
+### Create a theme extending file
+
+Rather than copy extensive page layout or page configuration code and then modify what you want to change, in the Magento system, you only need to create an extending layout file that contains the changes you want.
+
+To add an extending page configuration or generic layout file:
+
+```xml
+<theme_dir>
+ |__/<Namespace>_<Module>
+   |__/layout
+     |--<layout1>.xml
+     |--<layout2>.xml
+
+```
+
+For example, to customize the layout defined in `<Magento_Catalog_module_dir>/view/frontend/layout/catalog_product_view.xml`, you need to add a layout files with the same name in your custom theme, like following:
+
+`<theme_dir>/Magento_Catalog/layout/catalog_product_view.xml`
+
+```xml
+<theme_dir>
+ |__/<Namespace>_<Module>
+   |__/page_layout
+     |--<layout1>.xml
+     |--<layout2>.xml
+```
+
+
+### Override base layouts
+
+Overriding is not necessary if a block has a method that cancels the effect of the originally invoked method. In this case, you can customize the layout by adding a layout file where the canceling method is invoked.
+
+To add an overriding base layout file (to override a base layout provided by the module):
+Put a layout file with the same name in the following location:
+
+```xml
+<theme_dir>
+  |__/<Namespace_Module>
+    |__/layout
+      |__/override
+         |__/base
+           |--<layout1>.xml
+           |--<layout2>.xml
+```
+
+
+These files override the following layouts:
+
+- `<module_dir>/view/frontend/layout/<layout1>.xml`
+- `<module_dir>/view/frontend/layout/<layout2>.xml`
+
+
+### Override theme layouts
+
+To add an overriding theme file (to override a parent theme layout):
+
+```xml
+<theme_dir>
+  |__/<Namespace_Module>
+    |__/layout
+      |__/override
+         |__/theme
+            |__/<Parent_Vendor>
+               |__/<parent_theme>
+                  |--<layout1>.xml
+                  |--<layout2>.xml
+
+```
+
+These files override the following layouts:
+
+
+- `<parent_theme_dir>/<Namespace>_<Module>/layout/<layout1>.xml`
+- `<parent_theme_dir>/<Namespace>_<Module>/layout/<layout1>.xml`
+
+
+#### Tips!
+	- Changing block name or alias. The name of a block should not be changed, and neither should the alias of a block remaining in the same parent element.
+	- Changing handle inheritance. For example, you should not change the page type parent handle.
+
+
+Congrats! Now you have your first simple Magento 2 theme. You can try to create a complexible theme later.
+
