@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How to create Magento 2 theme Step by step
+title: How To Create Magento 2 Theme Ultimate Guide
 permalink: /kb/how-to-create-magento-2-theme.html
 published: true
 categories: magento-2-tutorial magento-2-frontend
