@@ -38,7 +38,7 @@ Magento/Framework/Config/etc/theme.xsd”>
 
 #### Folder structure
 
-```xml
+```
 app/design/frontend/mageplaza/
 ├── ultimate/
 │   ├── etc/
@@ -65,8 +65,8 @@ Creating a folder for the theme:
 * Creating a vendor folder `app/design/frontend/<vendor>` e.g: `app/design/frontend/mageplaza`
 * Create a theme folder `app/design/frontend/<vendor>/<theme>` e.g: `app/design/frontend/mageplaza/ultimate`
 
-```xml
-	app/design/frontend/
+```
+app/design/frontend/
 ├── mageplaza/
 │   │   ├──...ultimate/
 │   │   │   ├── ...
