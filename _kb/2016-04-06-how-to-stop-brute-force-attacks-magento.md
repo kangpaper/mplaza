@@ -3,7 +3,7 @@ layout: kb
 title: How To Stop Brute Force Attacks in Magento 1, 2
 permalink: /kb/how-to-stop-brute-force-attacks-magento.html
 published: true
-categories: magento-2 magento-2-tutorial magento-2-user-guide
+categories: magento-2 magento-2-tutorial magento-2-user-guide magento
 tags: magento brute-force security
 ---
 
@@ -58,7 +58,7 @@ The rule:
 In Magento 1, it use `/downloader` called **Magento Connect Manager** folder to install extension from Magento Connect. This is default path, it is easy for hacker to attack your Magento website. You can rename it but there is a effect way to protect the `downloader` folder, it is *IP whitelist*
 
 
-### for Apache
+### Apache
 Edit file `downloader/.htaccess` and add the folowing lines to the end:
 
 ```xml
@@ -69,7 +69,7 @@ allow from x.x.x.x
 x.x.x.x is your whitelist IP v4 address.
 
 
-### for Nginx
+### Nginx
 
 Open configuration file of your Magento website.
 E.g: `/etc/nginx/conf/mywebsite.conf`
@@ -119,7 +119,9 @@ You can follow the `Protect /downloader folder` in previously to disable that.
 
 Since Magento is used for e-commerce transactions, the data is often very sensitive. This is why it is recommended that all of your login details should pass through a secure connection.
 
+Go to `System > Configuration > Website`
 
+![enable ssl in magento admin](https://lh4.googleusercontent.com/rzWqHt4yibZFIyysSpBgT-xrHUbP4n-QdH5HCgekCqVqwe35ZQOTfeHBoZky9ZATV8n0a8HM7PvpxLPnHZYhfaa8Wrqw-qfsZo3KvIghA3N_xBPjxHH5EuwDjp2E6tygHt7PK6Hl)
 
 
 
