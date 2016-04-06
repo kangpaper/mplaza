@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="container">
 	<div class="row previews">
-		{% for post in site.kb.kb %}
+		{% for post in site.kb %}
 		<div class="col-lg-4 col-sm-6">
 			<div class="thumbnail">
 				
