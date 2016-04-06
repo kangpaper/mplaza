@@ -7,6 +7,11 @@ permalink: /kb/magento-2-tutorial/
 ---
 
 
+Magento 2 was released with improved performance and better code base than the previous version. In addition, Magento 2 supports new features to boost conversion rates more effectively, and business agility and productivity improvements. These Magento 2 tutorials cover back and front-end development, as well as administration guides to help you get up and running with Magento 2. For the whole eCommerce community, this is a real boom! Magento 1.x has been around for nearly 10 years and it’s very obvious that it needed either a major update or complete replacement.
+
+Are you Magento developers or merchant, you are going to learn more about Magento 2, yes it is place for you.
+
+
 
 <div class="container">
 	<div class="row previews">
