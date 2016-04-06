@@ -22,6 +22,8 @@ Session/default. You would then create a theme.xml file in this directory (it is
 best to copy it from `app/design/frontend/Magento/blank/theme.xml`), name your
 theme, and choose any parent. In this case, we want Magento 2’s Blank theme.
 
+![how to create magento 2 theme](https://lh4.googleusercontent.com/rC25rdFRLLZYkV4JI376EbWhoIzw2n7s1furHA-BqhS1VNYX8QY64cUuHldhNqA2fHbQ4bALASeo4xqwG5obUvYCvL5hXGQ7lQyIqvLiRWG3WVPBwlB66a2IZiISEgd7jvb9dYSn)
+
 So your theme.xml file should look something like this:
 
 ```xml
@@ -234,7 +236,8 @@ The basic components of Magento page design are blocks and containers.
 A container exists for the sole purpose of assigning content structure to a page. A container has no additional content except the content of included elements. Examples of containers include the header, left column, main column, and footer.
 
 
-layout image
+![magento 2 layout](https://lh5.googleusercontent.com/1qGHXaoKgz7pb_anKa21HABo_bo3w2YX-Hn87cAMDJrHJAbQyZVQLKsKmsDEqzCS2xon441mGg_ZMmqT_O8rKt0pAEwyT6wgd8CxKboqxwQd4SLR1IVqmdRsBtiHffNcAp3TlZKl)
+
 
 
 ## Layout files types and conventions
