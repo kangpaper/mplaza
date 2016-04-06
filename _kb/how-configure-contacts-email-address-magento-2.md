@@ -31,10 +31,9 @@ contains the form, and can be easily customized.
 img 1
 
 * Expand the `Email Options` section. Then, do the following:
-
-..* In the Send Emails to field, enter the email address where messages from the Contact Us form are sent.
-..* Set Email Sender to the store identity that appears as the sender of the message from the Contact Us form. For example: Custom Email 2.
-..* Set Email Template to the template that is used for messages sent from the Contact Us
+	* In the Send Emails to field, enter the email address where messages from the Contact Us form are sent.
+	* Set Email Sender to the store identity that appears as the sender of the message from the Contact Us form. For example: Custom Email 2.
+	* Set Email Template to the template that is used for messages sent from the Contact Us
 form.
 
 
