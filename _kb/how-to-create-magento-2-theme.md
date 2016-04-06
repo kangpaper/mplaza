@@ -39,8 +39,8 @@ Magento/Framework/Config/etc/theme.xsd”>
 #### Folder structure
 
 ```xml
-app/design/frontend/<Vendor>/
-├── <theme>/
+app/design/frontend/mageplaza/
+├── ultimate/
 │   ├── etc/
 │   │   ├── view.xml
 │   ├── web/
@@ -51,8 +51,8 @@ app/design/frontend/<Vendor>/
 │   ├── composer.json
 ```
 
-<Vendor> is theme vendor. e.g: mageplaza
-<theme> is theme name. e.g: ultimate
+`<Vendor>` is theme vendor. e.g: mageplaza
+`<theme>` is theme name. e.g: ultimate
 
 
 Ok, let's go
@@ -458,3 +458,5 @@ These files override the following layouts:
 
 Congrats! Now you have your first simple Magento 2 theme. You can try to create a complexible theme later.
 
+
+Ref: Devdocs.magento.com, Stackoverflow.com
