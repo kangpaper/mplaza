@@ -7,8 +7,6 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to install
 ---
 
-
-## What is Magento Marketplace ?
 Magento Connect (Magento Marketplace) is a marketplace that allows Magento community members and partners to
 share their open source or commercial contributions for Magento with the community. Typical
 contributions include:

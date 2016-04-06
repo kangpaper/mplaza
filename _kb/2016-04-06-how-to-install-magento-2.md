@@ -8,9 +8,10 @@ tags: magento-2 how-to install
 ---
 
 
-## How to install Magento 2 command line and interface
 
 **Magento** is an ecommerce platform built on open source technology which provides online merchants with a flexible shopping cart system, as well as control over the look, content and functionality of their online store. Magento offers powerful marketing, search engine optimization, and catalog-management tools. Ref. Wikipedia.
+
+## How to install Magento 2 command line and interface
 
 This installation guide will show you how to install Magento 2 latest version on your own server or shared hosting.
 
