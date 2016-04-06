@@ -1,7 +1,7 @@
 ---
 layout: kb
 permalink: /kb/how-to-stop-brute-force-attacks-magento.html
-published: false
+published: true
 categories: m2 m2-userguide
 tags: magento brute-force security
 ---

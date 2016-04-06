@@ -4,8 +4,7 @@ title: Knowledge base
 description: 
 permalink: /kb/
 
-redirect_from:
-  - /faq/
+
 ---
 
 <div class="container">
@@ -13,7 +12,6 @@ redirect_from:
 		{% for post in site.kb %}
 		<div class="col-lg-4 col-sm-6">
 			<div class="thumbnail">
-				
 				<div class="caption">
 					<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
 	                    <h3>{{ post.title }}</h3>
