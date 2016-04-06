@@ -52,6 +52,7 @@ app/design/frontend/mageplaza/
 ```
 
 `<Vendor>` is theme vendor. e.g: mageplaza
+
 `<theme>` is theme name. e.g: ultimate
 
 
@@ -159,7 +160,7 @@ app/design/<area>/mageplaza/ultimate/
 
 ```
 
-##### Tips
+#### Tips
 
 In Magento 2, theme or extension development, when you update any files in `app/design/<area>/mageplaza/ultimate/web` folder, you have to static folders which located at `pub/static` and `var/view_preprocessed` Otherwise, you still there is no change in frontend.
 
@@ -174,12 +175,10 @@ You can copy the `view.xml` file in parent theme such as **Blank theme** `app/de
 Ok, let update the image configuration for catalog product grid page.
 
 ```xml
-...
-    <image id="category_page_grid" type="small_image">
-        <width>250</width>
-        <height>250</height>
-    </image>
-...
+<image id="category_page_grid" type="small_image">
+    <width>250</width>
+    <height>250</height>
+</image>
 
 ```
 
