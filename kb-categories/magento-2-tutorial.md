@@ -1,5 +1,5 @@
 ---
-layout: kb
+layout: page
 title: Magento 2 Tutorial
 description: 
 permalink: /kb/magento-2-tutorial/
