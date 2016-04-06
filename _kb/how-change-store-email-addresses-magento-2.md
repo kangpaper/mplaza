@@ -34,9 +34,9 @@ hosting provider to create each email addresses that is needed.
 
 ![magento 2 store email addresses](https://lh5.googleusercontent.com/YBWoihCHcPJVx4JBgAv1dWpEzhdHwMoz17udL2m2LqnZMLHbl9qQO7Qfp95OyegJ6eAhI6-rlHEiYyYrqFo9tXO7RShV3qelD6x1sberh7e25wUxN31jiwWu20hw9FqZ2aCkCgBf)
 
-	- In the Sender Name field, type the name of the person to appear as the sender of any
+ - In the Sender Name field, type the name of the person to appear as the sender of any
 email messages that is associated with the General Contact identity.
-	- In the Sender Email field, type the associated email address.
+ - In the Sender Email field, type the associated email address.
 
 - Repeat this process for each store email addresses that you plan to use.
 
