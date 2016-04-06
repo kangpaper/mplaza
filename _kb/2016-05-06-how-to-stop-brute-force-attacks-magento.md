@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How To Stop Brute Force Attacks in Magento
+title: How To Stop Brute Force Attacks in Magento 1, 2
 permalink: /kb/how-to-stop-brute-force-attacks-magento.html
 published: true
 categories: m2 m2-userguide
@@ -30,6 +30,7 @@ You can see `<![CDATA[admin]]>`, now change it to your own admin url, e.g: secre
 
 Now flush Magento cache to take effect: `System -> Cache Management -> Flush Magento Cache`
 
+*Magento 2*: Not required.
 
 Secure your Magento admin account
 -----------------------------------
@@ -41,8 +42,10 @@ People usally use `admin` as first admin account. This is security issue for you
 
 Keep strong password
 ```````````````````````
+
 The best way to protect your Magento store against a brute-force attack is to – and advise other administrators to – use a strong password. 
 The rule:
+
 - Password lenght: > 8
 - Includes number
 - Includes chracters (Lowercase and Uppercase  Characters)
