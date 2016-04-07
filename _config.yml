@@ -14,7 +14,7 @@ paypal: "haitv282@gmail.com"
 
 google_verify: "mqeRPCxfPDdd8Ai589_r1ylvomMFyjYC0epneqbK74"
 bing_verify: 
-google_analytics:   
+google_analytics:  "UA-76130628-1" 
 
 # Social accounts
 google_plus: ""
