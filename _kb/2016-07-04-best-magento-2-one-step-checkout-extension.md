@@ -5,12 +5,7 @@ permalink: /kb/best-magento-2-one-step-checkout-extension.html
 published: true
 categories: magento-2 magento-extension-review
 tags: magento-2 extension review best
-extensions:
-	- vendor: Magestore
-	  title: "One Step Checkout Magento 2 - Simplify customer checkout process"
-	- vendor: Hungersoft
-	  title: "One Step Checkout [M2]"
-		
+
 
 ---
 
