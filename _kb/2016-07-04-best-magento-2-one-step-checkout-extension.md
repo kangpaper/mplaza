@@ -6,14 +6,14 @@ published: true
 categories: magento-2 magento-extension-review
 tags: magento-2 extension review best
 extensions:
-    - sku         : BL394D
-      quantity    : 4
-      description : Basketball
-      price       : 450.00
-    - sku         : BL4438H
-      quantity    : 1
-      description : Super Hoop
-      price       : 2392.00
+    - vendor         : BL394D
+      name    		 : 4
+      description    : Basketball
+      price          : 450.00
+    - vendor         : BL4438H
+      name    		 : 1
+      description 	 : Super Hoop
+      price       	 : 2392.00
 
 ---
 
