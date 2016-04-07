@@ -13,7 +13,7 @@ If you forget your password, a temporary password can be sent to the email addre
 
 * If you forget your password, click the `Forgot Your Password?` link.
 
-![magento 2 store email addresses](https://lh5.googleusercontent.com/QWQ7VkKQSet5zYrtvz08wxq2onO98l-rKl-h7AHZNKgjEh-mkvTnvDpciaFus9ZzAfRxFWRav6isXJRyH8QzjiIAPsjyHOAo1_0uaqzoPZmVbwfPOKUYyQA-yNOHsSSzDYht8YPT)
+![Forgot your password](https://lh5.googleusercontent.com/QWQ7VkKQSet5zYrtvz08wxq2onO98l-rKl-h7AHZNKgjEh-mkvTnvDpciaFus9ZzAfRxFWRav6isXJRyH8QzjiIAPsjyHOAo1_0uaqzoPZmVbwfPOKUYyQA-yNOHsSSzDYht8YPT)
 
 * Enter the Email Address that is associated with the Admin account.
 * Tap  Retrieve Password .
