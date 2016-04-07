@@ -17,8 +17,8 @@ For online stores, marketing solutions always bring the positive change of boost
 
 **Why is 72%?** and Why is Affiliate Marketing such important that the merchants need to focus on? Let solve the question together with this post to see the details about Affiliate Marketing helping you be ready for your store’s improvement.
 
-Affiliate Marketing - More sharings, More commissions
--------------------------------------------------------
+## Affiliate Marketing - More sharings, More commissions
+
 
 ![Affiliate Marketing](https://lh6.googleusercontent.com/h9X1B6L9Fus1LthHt1hq3oN1-YcfzwcZyJ2WNyQ9XLuvFerZiy19wQu7kSPZQe6LPOV7nLQ2C8z3LPwHT6I3P2eT0MMI8t3cPy3iAMq9juljd6WOyVclS7gwFRsd4VTHNcHDJoZI)
 
@@ -44,8 +44,8 @@ There is a similar method to Affiliate Marketing, which is Referral Marketing. I
 
 With the above comparison, you understand in detail partly about the working rule of Affiliate Marketing.
 
-Principal components in Affiliate Network
---------------------------------------------
+## Principal components in Affiliate Network
+
 
 Affiliate Marketing builds the network relying on the rights and responsibilities of Affiliates. The following diagram describes all:
 
@@ -59,7 +59,7 @@ Next, Affiliates will use available tools like links, banners, email from Affili
 
 Moreover, Affiliate Network will take over Merchants’ management Affiliate Program such as following and evaluating the results or solving the conflict.
 
-##Affiliate Marketing - Beneficial Relationships
+## Affiliate Marketing - Beneficial Relationships
 
 
 Differ other marketing techniques, Affiliate Marketing establishes the individual benefits for each participant: Merchant, Affiliate, and Referred Visitor.
