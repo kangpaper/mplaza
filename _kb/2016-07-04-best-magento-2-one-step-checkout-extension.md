@@ -12,10 +12,7 @@ extensions:
       price          : 299
       url			 : http://www.magestore.com/magento-2-one-step-checkout-extension.html
       icon			 : http://www.magestore.com/media/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/o/s/osc2.jpg
-      features		 : >
-      	Use Google Suggest to automatically fill in address info
-		Support 40+ payment methods 
-		Responsive and flexible checkout page design
+      features		 : "Use Google Suggest to automatically fill in address info. Support 40+ payment methods. Responsive and flexible checkout page design"
     - vendor         : Hungersoft
       name    		 : 1
       description 	 : Super Hoop
