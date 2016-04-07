@@ -5,7 +5,15 @@ permalink: /kb/best-magento-2-one-step-checkout-extension.html
 published: true
 categories: magento-2 magento-extension-review
 tags: magento-2 extension review best
-
+product:
+    - sku         : BL394D
+      quantity    : 4
+      description : Basketball
+      price       : 450.00
+    - sku         : BL4438H
+      quantity    : 1
+      description : Super Hoop
+      price       : 2392.00
 
 ---
 
