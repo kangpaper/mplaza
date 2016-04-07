@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How to upload Favicon in Magento 2
+title: How to Change Favicon in Magento 2
 permalink: /kb/how-upload-favicon-magento-2.html
 published: true
 categories: magento-2 magento-2-tutorial magento-2-manage-store magento-2-user-guide
