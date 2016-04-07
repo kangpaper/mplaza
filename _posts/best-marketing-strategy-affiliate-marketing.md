@@ -1,6 +1,10 @@
 ---
 layout: post
 title: The Best Marketing Strategy 2016: Affiliate Marketing 
+permalink: /blog/best-marketing-strategy-affiliate-marketing.html
+published: true
+categories: blog
+tags: affiliate marketing
 ---
 ==========================================================================================
 
