@@ -17,6 +17,10 @@ extensions:
       name    		 : 1
       description 	 : Super Hoop
       price       	 : 2392.00
+      url			 : ""
+      icon			 : ""
+      features		 : ""
+
     
 
 
