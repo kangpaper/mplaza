@@ -33,8 +33,26 @@
 
 		<div class="col-lg-12 col-md-12 preview-page-content">
 
-			<div class="content">
-				{{ content}}
+			<div class="content-wrapper">
+				<div class="row description">
+					{{ content }}
+				</div>
+
+				<div class="row content">
+				
+					{% for extension in page.extensions %}
+						<div class="row">	
+								<ul>
+									<li>{{ extension.title }}</li>
+									<li>{{ extension.description }}</li>
+									<li>Vendor: {{ extension.vendor }}</li>
+								</ul>
+						</div>
+						<hr class="small"> 
+					{% endfor %}
+				
+					
+				</div>
 			</div>
 
 
