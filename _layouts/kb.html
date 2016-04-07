@@ -64,6 +64,43 @@
 			<h4>Comments:</h4>
 			{% include disqus.html %}
 		</div>
+
+
+		<hr class="small">
+
+
+		<div class="col-lg-12 col-md-12" id="related-section">
+
+
+			<h2>You also may like</h2>
+
+			<ul>
+			{% for post in site.kb %}
+			<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+
+			<h2>Magento extensions</h2>
+
+			<ul>
+			{% for post in site.magento-extensions %}
+			<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+
+
+			<h2>Magento 2 extensions</h2>
+
+			<ul>
+			{% for post in site.magento2 %}
+			<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+			</ul>
+
+
+		</div>
 	</div>
 </div>
 
