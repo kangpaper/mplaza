@@ -1,5 +1,8 @@
-Is it necessary to create Affiliate marketing?
-================================================
+---
+layout: post
+title: Why Affiliate Marketing is Important
+categories: affiliate marketing
+---
 
 Affiliate marketing, an appropriate marketing solution for every eCommerce store? It may be the common question each business like you concern when they have known about Affiliate marketing and needed to find a way to improve their work.
 
