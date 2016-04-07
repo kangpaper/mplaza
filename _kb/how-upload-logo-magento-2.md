@@ -7,7 +7,6 @@ categories: magento-2 magento-2-tutorial magento-2-manage-store magento-2-user-g
 tags: magento-2 how-to manage store logo
 ---
 
-
 One of the first things you’ll want to do is to change the logo in the header, and upload a
 favicon for the browser. You’ll also want to update the copyright notice in the footer,.
 These are a few simple design tasks that you can take care of right away. While your store
