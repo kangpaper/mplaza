@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Best Marketing Strategy 2016: Affiliate Marketing 
-permalink: /blog/best-marketing-strategy-affiliate-marketing.html
+permalink: "/blog/best-marketing-strategy-affiliate-marketing.html"
 published: true
 categories: blog
 tags: affiliate marketing
 ---
-==========================================================================================
+
 
 For online stores, marketing solutions always bring the positive change of boosting sales. Thus, it is necessary to follow new marketing trend in order to prepare adequately for the next business cycle. Now, we are in the first months of 2016, ensure that almost eCommerce merchants will put particular attention on predicting that “What is Hot Trend?” and “What is Next ?”. And the best answer is Affiliate Marketing, which is highly appreciated by the experts and businesses, with the convincing proof is that the **Affiliate Budget is expected to increase by 72%**, according to CJ Advertisement Co., a full-service ad agency that exclusively serves personal injury brands.
 
@@ -58,20 +58,20 @@ Next, Affiliates will use available tools like links, banners, email from Affili
 
 Moreover, Affiliate Network will take over Merchants’ management Affiliate Program such as following and evaluating the results or solving the conflict.
 
-Affiliate Marketing - Beneficial Relationships
---------------------------------------------------
+##Affiliate Marketing - Beneficial Relationships
+
 
 Differ other marketing techniques, Affiliate Marketing establishes the individual benefits for each participant: Merchant, Affiliate, and Referred Visitor.
 
-* **For Merchant**
+### For Merchant
 
 Applying Affiliate Program means that the retailers are focusing on build a representative sales force professionally. The team sale will assist you to expand the awareness of your brand as well as achieve the target of your sales. Besides, the outstanding benefit is Affiliates may be on behalf of you to care new orders directly and carefully as one-one rule in Customer Care service.
 
-* **For Affiliate**
+### For Affiliate
 
 In Affiliate Marketing, Affiliates have a great influence on the result of the marketing campaign, so the rewards for Affiliates is worthy of concerning. Affiliates will receive the commission if they have the order from their friends who they have referred before. 
 
-* **For Referred Visitor**
+### For Referred Visitor
 
 Those who buy any products through Affiliate link, the best price is offered for them with a huge discount amount. Especially, they also have opportunities to become Affiliates and have a great chance to get more rights as normal.
 

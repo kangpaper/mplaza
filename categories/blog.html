@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Magento Blog Tutorial by Mageplaza
-description: 
-permalink: /blog/
+title: Blog
+pagetitle: Magento Blog Tutorial by Mageplaza
+description: "The Magento Blog posts"
+pagedescription: "The Magento Blog posts"
+permalink: "/blog/"
 
 redirect_from:
   - /blog-posts/
@@ -13,7 +15,7 @@ redirect_from:
 
 <div class="container">
 	<div class="row previews">
-		{% for post in site.categories.blog %}
+		{% for post in site.posts %}
 		<div class="col-lg-4 col-sm-6">
 			<div class="thumbnail">
 				<a href="{{ site.url }}{{ post.url }}" class="post-image-link">

@@ -25,6 +25,7 @@
 		<div class="container">
 			<ol class="breadcrumb">
 				<li><a href="{{ site.url }}/">Home</a></li>
+				<li><a href="{{ site.url }}/blog/">Blog</a></li>
 				<li class="active">{{ page.title }}</li>
 			</ol>
 		</div>
@@ -41,10 +42,10 @@
 					{% include social-buttons.html %}
 				</p>
 			</div>
-			<h4>Categories:</h4>
+			<h4>Tags:</h4>
 			<ul class="list-inline list-tags">
-				{% for tags in page.tags %}
-				<li><a href="/categories/{{ tags }}" class="btn btn-xs btn-primary">{{ tags }}</a></li>
+				{% for tag in page.tags %}
+				<li>{{ tag }}</li>
 				{% endfor %}
 			</ul>
 		</div>
