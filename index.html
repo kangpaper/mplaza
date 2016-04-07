@@ -54,7 +54,7 @@ redirect_from:
     </div>
 
 
-    <!-- <div class="row">
+    <div class="row">
          <div class="col-md-6">
             <div class="row-heading text-center">
                 <h3>Recent Guides</h3>
@@ -62,7 +62,7 @@ redirect_from:
             </div>
 
             <div class="row-content">
-                {% for post in site.categories.guide %}
+                {% for post in site.kb %}
                     <div class="post-list-item">
                         <a href="{{ site.url }}{{ post.url }}" class="post-image-link">
                             <h3>{{ post.title }}</h3>
@@ -75,7 +75,7 @@ redirect_from:
             </div>
 
             <div class="text-center btn-home">
-                <a href="{{ site.url }}/categories/guides" class="btn btn-outline">View All Guides</a>
+                <a href="{{ site.url }}/kb/" class="btn btn-outline">View All Guides</a>
             </div>
            
         </div>
@@ -102,12 +102,12 @@ redirect_from:
             </div>
 
             <div class="text-center btn-home">
-                <a href="{{ site.url }}/categories/blog" class="btn btn-outline">View All Posts</a>
+                <a href="{{ site.url }}/blog/" class="btn btn-outline">View All Posts</a>
             </div>
            
         </div>
 
-    </div> -->
+    </div>
 
    
 
