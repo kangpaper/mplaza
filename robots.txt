@@ -4,5 +4,19 @@ layout: null
 User-Agent: *
 Disallow: /wp-admin
 Disallow: /wp-content/
+Disallow: /widgets/feedback_widget/new
+Disallow: /freshwidget.css?ver=
+Disallow: /html2canvas.js?ver=
+Disallow: /loading.html?ver=
+Disallow: /categories/blog.html
+Disallow: /categories/guides.html
+Disallow: /categories/extensions.html
+Disallow: /categories/brute-force
+Disallow: /categories/magento
+Disallow: /categories/security
+Disallow: /m/
+Disallow: /mobile/
+Disallow: /cdn-cgi/l/email-protection
+
 
 Sitemap: {{ site.url }}/sitemap.xml
