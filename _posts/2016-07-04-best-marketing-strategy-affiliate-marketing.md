@@ -9,7 +9,7 @@ tags: affiliate marketing
 
 
 
-For online stores, marketing solutions always bring the positive change of boosting sales. Thus, it is necessary to follow new marketing trend in order to prepare adequately for the next business cycle. Now, we are in the first months of 2016, ensure that almost eCommerce merchants will put particular attention on predicting that “What is Hot Trend?” and “What is Next ?”. And the best answer is Affiliate Marketing, which is highly appreciated by the experts and businesses, with the convincing proof is that the **Affiliate Budget is expected to increase by 72%**, according to CJ Advertisement Co., a full-service ad agency that exclusively serves personal injury brands.
+For online stores, marketing solutions always bring the positive change of boosting sales. Thus, it is necessary to follow new marketing trend in order to prepare adequately for the next business cycle. Now, we are in the first months of 2016, ensure that almost eCommerce merchants will put particular attention on predicting that “What is Hot Trend?” and “What is Next ?”. And the best answer is [Affiliate](https://www.mageplaza.com/magento-affiliate-extension/) Marketing, which is highly appreciated by the experts and businesses, with the convincing proof is that the **Affiliate Budget is expected to increase by 72%**, according to CJ Advertisement Co., a full-service ad agency that exclusively serves personal injury brands.
 
 
 ![CJ Advertisement survey](https://lh6.googleusercontent.com/mzkSJMm_lB7L6fbT02tFtvXWBsck6AeBXNUrcOhQrRMr2GoFWMpauwXds4GppnPS75NW1CqZ6bk8nGGNdCP6FtRMwF665GQQSmqLxO8G9YRzvmIGJr7KrcvDQ70aRzy4E8hZBefO)
@@ -77,4 +77,6 @@ In Affiliate Marketing, Affiliates have a great influence on the result of the m
 Those who buy any products through Affiliate link, the best price is offered for them with a huge discount amount. Especially, they also have opportunities to become Affiliates and have a great chance to get more rights as normal.
 
 In summary, the outstanding benefits Affiliate Marketing brings to Merchants even Affiliates or Referred Visitors confirm that Affiliate Marketing is one of the best ways to make online money. And now may insist that Affiliate Marketing is the leading tendency to engage every relationship firmly, simultaneously, make a significant remark to improve your revenue. 
+
+If your store is running Magento platform, you can try [Magento affiliate extension](https://www.mageplaza.com/magento-affiliate-extension/)
 
