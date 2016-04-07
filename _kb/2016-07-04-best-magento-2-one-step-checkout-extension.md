@@ -22,7 +22,10 @@ extensions:
       price       	 : 2392.00
       url			 : ""
       icon			 : ""
-      features		 : ""
+      features		 : 
+      	Use Google Suggest to automatically fill in address info. 
+      	Support 40+ payment methods. 
+      	Responsive and flexible checkout page design
 
     
 
