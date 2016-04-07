@@ -10,7 +10,7 @@ tags: magento-2 how-to create account
 
 Magento Connect support you create a free Magento account from Magento Connect website. Your Magento account can be accessed from either the Magento website or from your store’s Admin. With own Magento account you can view, track your order or find any information that is related to the products or services you have purchased. Remember that, the email address that is used to open a Magento account can be associated with only one account.
 
-##`To create a Magento account:`
+## To create a Magento account:
 
 * Visit the Magento site at: `http://www.magento.com`
 * In the upper-right corner, choose `My Account`. Then under New Customers, tap `Register`.
@@ -32,10 +32,10 @@ capital letter, one number, and one special character or one lowercase letter.
 ![magento 2 store email addresses](https://lh4.googleusercontent.com/tik2KxbILFvI9AfhR404jx7EwkY21_7hegP6-lATVvckFPxVf4QK9etfvKjFa3CwYtAOhHmkWf4KPVKeUIZbHL0Oh78Vh0ogjjBcWP73BnI1m9kOCZCo2HqaEGX7p_D9honcNnCO)
 
 ## To log in to your Magento account:
-1. Go to the Magento site: `http://www.magento.com`
-2. In the upper-right corner, click `My Account`.
-3. Enter the `Email` address that is associated with your account. Then, enter your `Password`.
-4. When complete, tap `Login`.
+* Go to the Magento site: `http://www.magento.com`
+* In the upper-right corner, click `My Account`.
+* Enter the `Email` address that is associated with your account. Then, enter your `Password`.
+* When complete, tap `Login`.
 
 ## To receive a new password:
 
@@ -44,14 +44,14 @@ capital letter, one number, and one special character or one lowercase letter.
 You will receive an email from Magento with a temporary password that you can use to log
 into your account. Then, reset your password from the dashboard of your account.
 
-##`To reset your password:`
+## **To reset your password:**
 
-1. Log in to your Magento account.
-2. In the panel on the left, choose `Account Settings`. Then, tap `Change Password`
-3. Enter your `Current Password`.
+* Log in to your Magento account.
+* In the panel on the left, choose `Account Settings`. Then, tap `Change Password`
+* Enter your `Current Password`.
 If you forgot your password, enter the temporary password that was sent to you.
-4. Enter your `New Password`. Then, enter it again to confirm.
-5. When complete, tap `Submit`.
+* Enter your `New Password`. Then, enter it again to confirm.
+* When complete, tap `Submit`.
 
 ![magento 2 store email addresses](https://lh3.googleusercontent.com/-xuJqBqklQrNZToFud8pCXI0v7ybPz_3xGYIG7zy1JMm9KXpxL1Dep_lhBZQpF-R0QeyDy8jMBPmpic9b04k21vhGk4DZGxtib5LXOQ_JXW0rbDXvSKhKqZUGDfmKPhrZzJABnOx)
 
