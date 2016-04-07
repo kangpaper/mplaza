@@ -1,12 +1,12 @@
 Is it necessary to create Affiliate marketing?
-------------------------------------------------
+================================================
 
 Affiliate marketing, an appropriate marketing solution for every eCommerce store? It may be the common question each business like you concern when they have known about Affiliate marketing and needed to find a way to improve their work.
 
 Walking in your shoes, I also try to answer in my way by digging deeper the effects on the business efficiency. The more study, the more clearly I realize that it is not necessary to create an Affiliate program. However, Affiliate marketing is capable of making your existing troubles better and easier. Although it seems to be confused, let follow this post to understand why I say that.
 
 Affiliate Marketing draws more profits than you expect
-==========================================================
+-----------------------------------------------------------
 
 Let's imagine that your store is running as you have not heard about Affiliate marketing. You still continue to sell products as well as make a great effort to create fantastic promotion program to boost your sales. As you know, the purpose of advertising is giving the customers a rare opportunity to encourage more their purchases. Thus, it is counterproductive if the promotion is too much and frequent.
 
@@ -15,7 +15,7 @@ On the contrary, Affiliate marketing is an opposite solution. If you want to go 
 However, What is the reason to ensure Affiliates always try the best to work for you? and What is the motivation to persuade the customers to make a purchase through Affiliate’s referral? The questions are the highlights you only see here, the beneficial relationship in Affiliate marketing. The Affiliates will receive an amount of commissions which is the reward name while referred visitors will have favorite items with the significant discount and have rights to be an Affiliate to make money. Especially for you, the revenue comes from not only the sales of ordinary selling products but also the sales of Affiliates. As a result, Affiliate marketing has an influence on your turnover through the effectiveness of Affiliate network.
 
 How to build the robust Affiliate network?
-===========================================
+-------------------------------------------
 
 If you want to start with Affiliate marketing successfully, focusing on Affiliate network is imperative. In this post, three key points are recommended for you
 
@@ -34,7 +34,7 @@ Generate an individual award for Affiliate is the foundation of your Affiliate p
 In my opinion, one of the useful way to help you attract as many Affiliate as possible is increasing the reach of your Affiliate program, and this means you need to promote your own program. Some suggestions I offer to you, you capably advertise the program on social channels put a popup banner introducing the Affiliate program whenever there is a new registration. But don’t forget to take advantage of your available Affiliate channel from the existing Affiliates to promote. The more people are aware of it, the more new Affiliate members join in your Affiliate network.
 
 Is Affiliate Marketing necessary?
-==================================
+------------------------------------
 
 I said that it is not necessary but I can not refuse its benefits, which are waiting for you ahead:
 
