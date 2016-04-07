@@ -70,3 +70,6 @@ collections:
     output: true
   kb:
     output: true
+  reviews:
+    output: true
+
