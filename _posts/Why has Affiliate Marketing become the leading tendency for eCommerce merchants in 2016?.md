@@ -3,14 +3,16 @@ Why has Affiliate Marketing become the leading tendency for eCommerce merchants 
 
 For online stores, marketing solutions always bring the positive change of boosting sales. Thus, it is necessary to follow new marketing trend in order to prepare effectively for the next business cycle. Now, we are in the first months of 2016, ensure that almost eCommerce merchants will put a special attention on predicting that “What is Hot Trend?” and “What is Next ?”. And the best answer is Affiliate Marketing, which is highly appreciated by the experts and businesses, with the convincing proof is that the **Affiliate Budget is expected to increase by 72%**, according to CJ Advertisement Co., a full-service ad agency that exclusively serves personal injury brands.
 
-.. image:: https://lh6.googleusercontent.com/mzkSJMm_lB7L6fbT02tFtvXWBsck6AeBXNUrcOhQrRMr2GoFWMpauwXds4GppnPS75NW1CqZ6bk8nGGNdCP6FtRMwF665GQQSmqLxO8G9YRzvmIGJr7KrcvDQ70aRzy4E8hZBefO
+
+![CJ Advertisement survey](https://lh6.googleusercontent.com/mzkSJMm_lB7L6fbT02tFtvXWBsck6AeBXNUrcOhQrRMr2GoFWMpauwXds4GppnPS75NW1CqZ6bk8nGGNdCP6FtRMwF665GQQSmqLxO8G9YRzvmIGJr7KrcvDQ70aRzy4E8hZBefO)
+
 
 **Why is 72%?** and Why is Affiliate Marketing such important that the merchants need to focus on? Let solve the question together with this post to see the details about Affiliate Marketing helping you be ready for your store’s improvement.
 
 Affiliate Marketing - More sharings, More commissions
 ======================================================
 
-.. image:: https://lh6.googleusercontent.com/h9X1B6L9Fus1LthHt1hq3oN1-YcfzwcZyJ2WNyQ9XLuvFerZiy19wQu7kSPZQe6LPOV7nLQ2C8z3LPwHT6I3P2eT0MMI8t3cPy3iAMq9juljd6WOyVclS7gwFRsd4VTHNcHDJoZI
+![Affiliate Marketing](https://lh6.googleusercontent.com/h9X1B6L9Fus1LthHt1hq3oN1-YcfzwcZyJ2WNyQ9XLuvFerZiy19wQu7kSPZQe6LPOV7nLQ2C8z3LPwHT6I3P2eT0MMI8t3cPy3iAMq9juljd6WOyVclS7gwFRsd4VTHNcHDJoZI)
 
 According to common conception:
 
@@ -39,7 +41,7 @@ Main Components in Affiliate Network
 
 Affiliate Marketing builds the network relying on the rights and responsibilities of Affiliates. All are described by the following diagram:
 
-.. image:: https://lh4.googleusercontent.com/xBdWMvR53ZNnko3bDgDkH4OG0BPeUeTGGneVz6qaRk0kveCCmvWS0Ke0FwA9m_R-_cn4_RA_OXqt9tWhhT-hBOg1SSn9luMWFfmDESn1tAwGFHuCa-1pLE0DcnGW2eINdsxC2oca
+![How does Affiliate Marketing work](https://lh4.googleusercontent.com/xBdWMvR53ZNnko3bDgDkH4OG0BPeUeTGGneVz6qaRk0kveCCmvWS0Ke0FwA9m_R-_cn4_RA_OXqt9tWhhT-hBOg1SSn9luMWFfmDESn1tAwGFHuCa-1pLE0DcnGW2eINdsxC2oca)
 
 In the diagram, there are five components participating in process working of Affiliate Marketing, they are Merchants, Products, Affiliate Networks, Affiliates and Commissions.
 
@@ -54,15 +56,15 @@ Affiliate Marketing - Beneficial Relationships
 
 Differ other marketing techniques, Affiliate Marketing establishes the individual benefits for each participant: Merchant, Affiliate and Referred Visitor.
 
-**For Merchant**
+* **For Merchant**
 
 Applying Affiliate Program means that the merchants are focusing on build a representative sales force professionally. The team sale will assist you to expand the awareness of your brand as well as achieve the target of your sales. Besides, the outstanding benefit is Affiliates may be on behalf of you to care new orders directly and carefully as one-one rule in Customer Care service.
 
-**For Affiliate**
+* **For Affiliate**
 
 In Affiliate Marketing, Affiliates have a great influence on the result of marketing campaign, so the rewards for Affiliates is worthy to concern. Affiliates will receive commission if they have the order from their friends who they have referred before.
 
-**For Referred Visitor**
+* **For Referred Visitor**
 
 Those who buy any products through Affiliate link, the best price is offered for them with a huge discount amount. Especially, they also have an opportunities to become Affiliates and have a great chance to get more rights as normal.
 
