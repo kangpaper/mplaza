@@ -39,12 +39,12 @@ capital letter, one number, and one special character or one lowercase letter.
 
 ## To receive a new password:
 
-1. If you forget your password, click `Forgot Your Password`?
-2. Enter the `Email` Address that is associated with your account, and tap `Submit`.
+* If you forget your password, click `Forgot Your Password`?
+* Enter the `Email` Address that is associated with your account, and tap `Submit`.
 You will receive an email from Magento with a temporary password that you can use to log
 into your account. Then, reset your password from the dashboard of your account.
 
-## **To reset your password:**
+## To reset your password:
 
 * Log in to your Magento account.
 * In the panel on the left, choose `Account Settings`. Then, tap `Change Password`
