@@ -44,13 +44,16 @@
 						<div class="row">	
 								<ul>
 									<li class="name">
-										Vendor: {{ extension.name }}
+										{{ extension.name }}
 									</li>
 									<li>
 										<p class="description">{{ extension.description }}</p>
 									</li>
 									<li>Vendor: {{ extension.vendor }}</li>
-									<li>Price: {{ extension.price }}</li>
+									<li>Price: ${{ extension.price }}</li>
+									<li>
+										<p class="features">{{ extension.features }}</p>
+									</li>
 								</ul>
 						</div>
 						<hr class="small"> 
