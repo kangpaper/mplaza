@@ -43,8 +43,14 @@
 					{% for extension in page.extensions %}
 						<div class="row">	
 								<ul>
-									<li>{{ extension.sku }}</li>
-									<li>Vendor: {{ extension.description }}</li>
+									<li class="name">
+										Vendor: {{ extension.name }}
+									</li>
+									<li>
+										<p class="description">{{ extension.description }}</p>
+									</li>
+									<li>Vendor: {{ extension.vendor }}</li>
+									<li>Price: {{ extension.price }}</li>
 								</ul>
 						</div>
 						<hr class="small"> 
