@@ -9,7 +9,7 @@ tags: magento-2 how-to reset password admin
 
 If you forget your password, a temporary password can be sent to the email address that is associated with the account. Let do the following steps to reset your admin password in Magento 2.
 
-##To reset your password:
+## To reset your password:
 
 * If you forget your password, click the `Forgot Your Password?` link.
 
