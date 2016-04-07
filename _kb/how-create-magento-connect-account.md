@@ -15,7 +15,7 @@ Magento Connect support you create a free Magento account from Magento Connect w
 * Visit the Magento site at: `http://www.magento.com`
 * In the upper-right corner, choose `My Account`. Then under New Customers, tap `Register`.
 
-![magento 2 store email addresses](https://lh3.googleusercontent.com/N7zfPuYTNXsd45YcXD9LR8W0c9-vNWJfWRYsDeb9SvZKn27AY3Sin9fgAJlaHeNJ5HGh44XjfgXbVrAi1t8ctUVoDzMvDnCcT88WumYnE0cNH2SLgVIoro5NtsCZaA-mA1-epFpI)
+![create a magento account](https://lh3.googleusercontent.com/N7zfPuYTNXsd45YcXD9LR8W0c9-vNWJfWRYsDeb9SvZKn27AY3Sin9fgAJlaHeNJ5HGh44XjfgXbVrAi1t8ctUVoDzMvDnCcT88WumYnE0cNH2SLgVIoro5NtsCZaA-mA1-epFpI)
 
 * Under Personal Information, do the following:
   * Enter your `First Name`, `Last Name`, and `Email Address`.
@@ -29,7 +29,7 @@ Your password can be from eight to sixteen characters long, and must include at 
 capital letter, one number, and one special character or one lowercase letter.
   * When complete, tap `Submit`. Your account dashboard appears.
 
-![magento 2 store email addresses](https://lh4.googleusercontent.com/tik2KxbILFvI9AfhR404jx7EwkY21_7hegP6-lATVvckFPxVf4QK9etfvKjFa3CwYtAOhHmkWf4KPVKeUIZbHL0Oh78Vh0ogjjBcWP73BnI1m9kOCZCo2HqaEGX7p_D9honcNnCO)
+![create a new account 2](https://lh4.googleusercontent.com/tik2KxbILFvI9AfhR404jx7EwkY21_7hegP6-lATVvckFPxVf4QK9etfvKjFa3CwYtAOhHmkWf4KPVKeUIZbHL0Oh78Vh0ogjjBcWP73BnI1m9kOCZCo2HqaEGX7p_D9honcNnCO)
 
 ## To log in to your Magento account:
 * Go to the Magento site: `http://www.magento.com`
@@ -53,6 +53,6 @@ If you forgot your password, enter the temporary password that was sent to you.
 * Enter your `New Password`. Then, enter it again to confirm.
 * When complete, tap `Submit`.
 
-![magento 2 store email addresses](https://lh3.googleusercontent.com/-xuJqBqklQrNZToFud8pCXI0v7ybPz_3xGYIG7zy1JMm9KXpxL1Dep_lhBZQpF-R0QeyDy8jMBPmpic9b04k21vhGk4DZGxtib5LXOQ_JXW0rbDXvSKhKqZUGDfmKPhrZzJABnOx)
+![reset your password](https://lh3.googleusercontent.com/-xuJqBqklQrNZToFud8pCXI0v7ybPz_3xGYIG7zy1JMm9KXpxL1Dep_lhBZQpF-R0QeyDy8jMBPmpic9b04k21vhGk4DZGxtib5LXOQ_JXW0rbDXvSKhKqZUGDfmKPhrZzJABnOx)
 
 Ref: Magento 2 user guide
