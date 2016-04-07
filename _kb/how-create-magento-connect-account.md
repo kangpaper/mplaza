@@ -12,32 +12,32 @@ Magento Connect support you create a free Magento account from Magento Connect w
 
 ##`To create a Magento account:`
 
-1. Visit the Magento site at: `http://www.magento.com`
-2. In the upper-right corner, choose `My Account`. Then under New Customers, tap `Register`.
+* Visit the Magento site at: `http://www.magento.com`
+* In the upper-right corner, choose `My Account`. Then under New Customers, tap `Register`.
 
 ![magento 2 store email addresses](https://lh3.googleusercontent.com/N7zfPuYTNXsd45YcXD9LR8W0c9-vNWJfWRYsDeb9SvZKn27AY3Sin9fgAJlaHeNJ5HGh44XjfgXbVrAi1t8ctUVoDzMvDnCcT88WumYnE0cNH2SLgVIoro5NtsCZaA-mA1-epFpI)
 
-3. Under Personal Information, do the following:
-a. Enter your `First Name`, `Last Name`, and `Email Address`.
-b. Set `My Company Primarily` to the best description of what your company does. Then, set `My Role` to the best description of what you do for the company.
-4. Under Login Information, do the following:
-a. Enter a `Screen Name` to identify you in the `Magento Community Forums`.
+* Under Personal Information, do the following:
+  * Enter your `First Name`, `Last Name`, and `Email Address`.
+  * Set `My Company Primarily` to the best description of what your company does. Then, set `My Role` to the best description of what you do for the company.
+* Under Login Information, do the following:
+  * Enter a `Screen Name` to identify you in the `Magento Community Forums`.
 Your screen name can be from four to fifteen characters long, can include numbers and the
 underscore, but must start with a letter.
-b. Enter a `Password` for your account. Then, enter it again to confirm.
+  * Enter a `Password` for your account. Then, enter it again to confirm.
 Your password can be from eight to sixteen characters long, and must include at least one
 capital letter, one number, and one special character or one lowercase letter.
-c. When complete, tap `Submit`. Your account dashboard appears.
+  * When complete, tap `Submit`. Your account dashboard appears.
 
 ![magento 2 store email addresses](https://lh4.googleusercontent.com/tik2KxbILFvI9AfhR404jx7EwkY21_7hegP6-lATVvckFPxVf4QK9etfvKjFa3CwYtAOhHmkWf4KPVKeUIZbHL0Oh78Vh0ogjjBcWP73BnI1m9kOCZCo2HqaEGX7p_D9honcNnCO)
 
-##`To log in to your Magento account:`
+## To log in to your Magento account:
 1. Go to the Magento site: `http://www.magento.com`
 2. In the upper-right corner, click `My Account`.
 3. Enter the `Email` address that is associated with your account. Then, enter your `Password`.
 4. When complete, tap `Login`.
 
-##`To receive a new password:`
+## To receive a new password:
 
 1. If you forget your password, click `Forgot Your Password`?
 2. Enter the `Email` Address that is associated with your account, and tap `Submit`.
