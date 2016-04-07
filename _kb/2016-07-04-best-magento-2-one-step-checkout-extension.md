@@ -8,7 +8,7 @@ tags: magento-2 extension review best
 extensions:
 - magestore:
 	vendor: Magestore
-	title: One Step Checkout Magento 2 - Simplify customer checkout process
+	title: "One Step Checkout Magento 2 - Simplify customer checkout process"
 - hungersoft:
 	vendor: Hungersoft
 	title: "One Step Checkout [M2]"
