@@ -1,5 +1,5 @@
 ---
-layout: kb
+layout: review
 title: Best Magento 2 One Step Checkout Extension
 permalink: /kb/best-magento-2-one-step-checkout-extension.html
 published: true
