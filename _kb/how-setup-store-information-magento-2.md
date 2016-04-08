@@ -26,3 +26,4 @@ Setup store information in order to provides the basic information that will be 
   * If applicable, enter the `VAT Number` of your store. To verify the number, click the `Validate VAT Number` button.
 * When complete, tap `Save Config`.
 
+Ref: Magento 2 user guide
