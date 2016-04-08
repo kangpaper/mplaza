@@ -43,7 +43,7 @@ The convenience of shopping online help you have your favorite items while you a
 
 Online shopping allows you find items that are not available or sell out in the physical store. Besides, you can buy products which don’t relate together at the same time as clothes and foods.
 
-## What is “the hidden pebbles” doing shopping online not perfect?
+## "Hidden pebbles” does shopping online not perfect
 
 The shopping online is still called as the smart method to serve the daily consumption of human. However, in the virtual space, it is not hard for us to realize the disadvantage which is opposite to its glory.
 
