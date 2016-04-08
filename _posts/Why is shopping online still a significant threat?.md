@@ -63,16 +63,10 @@ Instead of coming to the physical shop to buy products, store-owners must ship t
 
 * High risk
 
-  * Product
-  
-  When you buy products from any website, touching and feeling it is impossible, and you can just see and read information the shop-owners post on the site. Thus, you don’t know it is true or false, which is difficult for you to have right decision.
-  * Money
+  * Product: When you buy products from any website, touching and feeling it is impossible, and you can just see and read information the shop-owners post on the site. Thus, you don’t know it is true or false, which is difficult for you to have right decision.
+  * Money: A payment that is quite usual method is using a credit card. Therefore, you may have risk in transferring money.
+  * Delivery problems: Sometimes you can face to failed shipping.
  
-  A payment that is quite usual method is using a credit card. Therefore, you may have risk in transferring money.
-  * Delivery problems
-  
-  Sometimes you can face to failed shipping.
-  
 * Changing and returning
 
 Because of not feeling product directly, you can be unsatisfied when you receive. And you want to change or return them, which is a little complicated to both buyers and sellers.
