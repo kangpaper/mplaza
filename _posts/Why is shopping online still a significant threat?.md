@@ -7,12 +7,11 @@ Nowadays, the internet is becoming popular, and new shopping method is informed 
 
 ![shopping online](https://lh5.googleusercontent.com/CnAWVrP-IGGl5WcOordnDq2PX70B-Pg2D7hYPn_hmRixCnmgakQwJIac-f2_aAHDHwgxwBHlQ_kKjgml5HaihpTonS1qkejTn4oDmip2L7oDLAJLmAFj_X3cM2Inq6Groae6AVy2)
 
-The outstanding benefits of shopping online are expected
------------------------------------------------------------
+## The outstanding benefits of shopping online are expected
 
 The shopping online not only supplies to consumers many advantages but also makes human of society more civilized, particularly as:
 
-**For Sellers**
+### For Sellers
 
 * Expanding size of customers
 
@@ -26,7 +25,7 @@ Instead of spending too money to pay for traditional stores although some costs 
 
 Not similar to traditional business, sellers can know competitor's’ price to give the best price for themselves and their customers.
 
-**For Customers**
+### For Customers
 
 * Better prices
 
@@ -44,14 +43,13 @@ The convenience of shopping online help you have your favorite items while you a
 
 Online shopping allows you find items that are not available or sell out in the physical store. Besides, you can buy products which don’t relate together at the same time as clothes and foods.
 
-What is “the hidden pebbles” doing shopping online not perfect?
------------------------------------------------------------------
+## What is “the hidden pebbles” doing shopping online not perfect?
 
 The shopping online is still called as the smart method to serve the daily consumption of human. However, in the virtual space, it is not hard for us to realize the disadvantage which is opposite to its glory.
 
 Continue to approach in the view of sellers and customers, let’s see!
 
-**For Sellers**
+### For Sellers
 
 * Careful in building confidences
 
@@ -61,7 +59,7 @@ Different from the traditional shopping, shopping online gives you the typical a
 
 Instead of coming to the physical shop to buy products, store-owners must ship them by themselves, or they can hire shippers and pay money for it. This means the sellers must carry an extra business cost.
 
-**For Customers**
+### For Customers
 
 * High risk
 
