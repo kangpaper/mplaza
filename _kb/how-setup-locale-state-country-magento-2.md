@@ -11,7 +11,7 @@ tags: magento-2 how-to setup locale state country
 
 Setup your store information on Locale Options that determines the timezone, your language and the days of  the work week in your area. Besides, others can identify your country, tax rate and guest some needed information related to your locale.
 
-![locale options](https://lh5.googleusercontent.com/UzzWUaAmiqM-XwxGsr62ScC_7ehmq4GFgzk14-RzRqkuA9b04rccN8Bav-m-8E6ZqiQqAVwAnpUbNevZ_abyifxvLS7B4UPGnf9hDXGogFUiRCE3iNpshqBwV5csKCgGGA-9ENWB)
+![locale options](https://lh5.googleusercontent.com/yXS9YcXv4dbVgM-_GKS4guCSude0SU6Qi60LGvnkj3d-Q0zlMYDD5s8tRPwebLVVgSVsvrtoVB4SGKYpJOwrzc2YI0x8wvowIJvRxC3tCbL2CQdjcjDmvxfludeQlSzVQGe6UGNH)
 
 ## To set the store locale:
 
@@ -29,7 +29,7 @@ Setup your store information on Locale Options that determines the timezone, you
 
 Standard address format is different for every country, so fulfill the state information is optional. In many countries, the state, province, or region is a required part of a postal address that is used for shipping and billing information, to calculate tax rates, and so on. On state options you can setup state is required for which countries.
 
-![state options](https://lh4.googleusercontent.com/xbXbqujpJJLGyJA5hh0cjveb4NnmXWVGWoGwIA8ktFoP7wMNBF-fq7SdD3YtW8hmRx8EY0ZXYrHm_MJsDY44hAWsfPufsgqqQmRWzobOiKS1ZkGv8D9Z4vrDNJlC4kbFcDwzTmB6)
+![state options](https://lh5.googleusercontent.com/0ek4sy1Npt3bgcM6KH1Xp7gl9LPt2fc_7B2BabnlKMK7a-YvHMQHBmVRrA7HKfH-PtwMQF1MSOIZIiyup_Ib_-F37-SC3wSzKJrGBasAEjzYWPXD6dfXV7nAumC9-kEYa1kMYx2b)
 
 ## To set up the state options:
 
@@ -46,7 +46,7 @@ Standard address format is different for every country, so fulfill the state inf
 
 The Country Options determines the country where your business is located, and which countries you accept payment. 
 
-![country options](https://lh4.googleusercontent.com/9dHG8cMTAHQsAnb0GhtEz5sMKu6JaplDTulN2Q2yuIc-L0Jh2Eo9xEUS369t-jyGlFSt8wh_kuF1zxpngfL9tD729oHx3M4kCSt5C-lA1GDTa_iRJ31TQcO-YYgWrsR99Rko8vuk)
+![country options](https://lh5.googleusercontent.com/lxlzs7N0XQsoWVWGl6JNrZZ4FcbuzV9F_N3tZi6OOaW_wP7wccE2b8aMTMqNaqtKq_CvPo_h72xpAuIKcBlLr-YfqgtN9IeLdOrLpbtpqHhgs-fyBPnWHpeGLpw8siA5HVN_8st-)
 
 ## To set the country options for your store:
 
