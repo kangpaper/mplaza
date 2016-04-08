@@ -1,7 +1,7 @@
 ---
 layout: kb
 title: Magento 2 Layout, Block & Template Ultimate Guides
-permalink: /kb/magento-2-block-block-template.html
+permalink: /kb/magento-2-layout-block-template.html
 published: true
 categories: magento-2 magento-2-tutorial magento-2-frontend
 tags: magento-2 how-to block template layout
