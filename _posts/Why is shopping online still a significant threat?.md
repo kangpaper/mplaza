@@ -5,6 +5,8 @@ In the past, when the internet did not develop as now, almost exchanges of human
 
 Nowadays, the internet is becoming popular, and new shopping method is informed - shopping online. The shopping online is a form of e-commerce which allows customers to buy products or services directly from sellers through the internet using web browser regardless of distance and time.
 
+![shopping online](https://lh5.googleusercontent.com/CnAWVrP-IGGl5WcOordnDq2PX70B-Pg2D7hYPn_hmRixCnmgakQwJIac-f2_aAHDHwgxwBHlQ_kKjgml5HaihpTonS1qkejTn4oDmip2L7oDLAJLmAFj_X3cM2Inq6Groae6AVy2)
+
 The outstanding benefits of shopping online are expected
 -----------------------------------------------------------
 
