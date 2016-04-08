@@ -16,12 +16,12 @@ Pay your attention on the following guides to configure a simple product by the 
 
 ## Process Overview
 
-      Step 1: `Select the Product Type`
-      Step 2: `Select the Product Template` (Optional)
-      Step 3: `Complete the Required Fields`
-      Step 4: `Complete the Remaining Product Details`
-      Step 5: `Publish the Product`
-      Step 6: `View the Product in Your Store`
+      Step 1: Select the Product Type
+      Step 2: Select the Product Template (Optional)
+      Step 3: Complete the Required Fields
+      Step 4: Complete the Remaining Product Details
+      Step 5: Publish the Product
+      Step 6: View the Product in Your Store
 
 ## Step 1: `Choose the Product Type`
 
