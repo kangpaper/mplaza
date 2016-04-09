@@ -18,6 +18,7 @@ The vital link between the merchants and the own Affiliates which is the primary
 ### Make referral tools available to use
 
 If an Affiliate joins in your Affiliate network, there are obviously many similar choices outside he has interested. Because of that, your Affiliate Marketer are overloaded by a ton of products from different niches. A sincere advice for you is standing apart from the crowd by all means in your power and attracting the potential Affiliates’ attention on you. Providing as plenty of resources as possible to assist them to promote you up or run your program smoothly. Since then, they can make money quickly. Some suggestions are mentioned if you have no ideas:
+
 * Referral link
 
 * Graphic banners 
