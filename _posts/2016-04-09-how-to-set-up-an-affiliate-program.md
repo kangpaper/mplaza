@@ -40,7 +40,7 @@ This page will describe your Affiliate program in detail, and you can share open
 
 ### Be ready for Human Resource in Affiliate Network
 
-The success of Affiliate program depends mostly on the team working for you. It is necessary to equip a powerful Affiliate Network before you starting up the Affiliate program. But how to build a robust Affiliate Network? You will find a fantastic answer in the blog “Why Affiliate Marketing is important?” 
+The success of Affiliate program depends mostly on the team working for you. It is necessary to equip a powerful Affiliate Network before you starting up the Affiliate program. But how to build a robust Affiliate Network? You will find a fantastic answer in the blog [Why Affiliate Marketing is important?](https://www.mageplaza.com/blog/why-affiliate-marketing-important.html) 
 
 ## Starting the stage of success
 
