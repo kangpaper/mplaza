@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why is Shopping Online a significant threat?
+title: Why is Shopping Online a significant threat
 permalink: "/blog/why-is-shopping-online-a-significant-threat.html"
 published: true
 categories: blog
