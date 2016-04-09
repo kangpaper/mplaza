@@ -1,4 +1,4 @@
-Why is shopping online still a significant threat?
+Why is shopping online a significant threat?
 ====================================================
 
 In the past, when the internet did not develop as now, almost exchanges of human are dealt together directly. For example, going to a physical shop to buy clothes or going to the airport to book ticket… By this way, they trust in goods they bought. 
