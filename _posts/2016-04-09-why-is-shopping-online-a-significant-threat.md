@@ -1,5 +1,11 @@
-Why is shopping online a significant threat?
-====================================================
+---
+layout: post
+title: Why is Shopping Online a significant threat?
+permalink: "/blog/why-is-shopping-online-a-significant-threat.html"
+published: true
+categories: blog
+tags: shopping online, benefits of shopping online, advantages and disadvantages of shopping online
+---
 
 In the past, when the internet did not develop as now, almost exchanges of human are dealt together directly. For example, going to a physical shop to buy clothes or going to the airport to book ticket… By this way, they trust in goods they bought. 
 
