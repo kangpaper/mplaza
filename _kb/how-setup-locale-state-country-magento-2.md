@@ -7,7 +7,6 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to setup locale state country
 ---
 
-# Locale Options
 
 Setup your store information on Locale Options that determines the timezone, your language and the days of  the work week in your area. Besides, others can identify your country, tax rate and guest some needed information related to your locale.
 
