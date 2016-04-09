@@ -1,3 +1,6 @@
 .featurette-divider{margin:80px 0;}
 .featurette-heading{font-weight:300;line-height:1;letter-spacing:-1px;}
 .modal-backdrop.fade.in{z-index:0 !important;}
+.sb-page-header h1, .sb-page-header p{
+	margin-right: 0px !important;
+}
