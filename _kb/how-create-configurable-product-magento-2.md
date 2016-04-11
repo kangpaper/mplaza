@@ -74,4 +74,4 @@ A placeholder appears until an image is uploaded. If you prefer, you can later a
 
 This is a good time to save your work. In the next step, you’ll set up the configurations for each variation of the product.
 * In the upper-right corner, click `Save`.
-* Continue with `Adding Configurations`.
+* Continue with `Adding Configurations`. 
