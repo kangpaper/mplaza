@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to set up an Affiliate program
+title: Common Mistakes to Avoid Affiliate Program
 permalink: "/blog/common-mistakes-to-avoid-in-affiliate-program.html"
 published: true
 categories: blog
