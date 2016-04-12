@@ -7,7 +7,7 @@ categories: blog
 tags: affiliate program, mistakes in affiliate program, setup affiliate program, startup affiliate program
 ---
 
-Regardless of products or services you are selling, starting up an Affiliate program will help you develop a new stream of income. Why do I say that? Affiliate program allows you to seek to a potential sales team who have a long-term cooperation with you depending on the beneficial relationship. That helps you possibly achieve the higher profits while the sales people can make money when referred visitor creates an order.
+Regardless of products or services you are selling, starting up an Affiliate program will help you develop a new stream of income. Why do I say that? Affiliate program allows you to seek to a potential sales team who have a long-term cooperation with you basing on the beneficial relationship. That helps you possibly achieve the higher profits while the sales people can make money when referred visitor creates an order.
 
 However, the achievement Affiliate program brings will be enormous if there are not regrettable mistakes from eCommerce business when starting and running Affiliate program. Here are five common mistakes you should have avoided. If you are committing anyone of them, you may be owning an ineffective Affiliate program.
 
