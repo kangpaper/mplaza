@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to set up an Affiliate program
+title: How to Setup an Affiliate Program
 permalink: "/blog/how-to-set-up-an-affiliate-program.html"
 published: true
 categories: blog
