@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Mistakes to Avoid Affiliate Program
+title: Common mistakes to avoid Affiliate program
 permalink: "/blog/common-mistakes-to-avoid-in-affiliate-program.html"
 published: true
 categories: blog
