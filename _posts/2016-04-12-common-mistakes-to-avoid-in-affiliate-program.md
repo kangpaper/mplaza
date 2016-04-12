@@ -11,7 +11,7 @@ Regardless of products or services you are selling, starting up an Affiliate pro
 
 However, the achievement Affiliate program brings will be enormous if there are not regrettable mistakes from eCommerce business when starting and running Affiliate program. Here are five common mistakes you should have avoided. If you are committing anyone of them, you may be owning an ineffective Affiliate program.
 
-1. Lack of visibility
+### Lack of visibility
 
 An Affiliate program may be a significant promotion you are launching, so it is necessary to advertise it and enhance the awareness of that you have started one and how they can earn commissions.
 
@@ -21,19 +21,19 @@ To make your Affiliate program visibility, you can place a banner in the corner 
 
 Your program doesn't do well if they don’t know it exists. Another way for you is generating your explainer page, which will show the rights and responsibilities of participants in Affiliate program. Ensure the shoppers don’t want to work with the ambiguity.
 
-## Paying not enough commissions
+### Paying not enough commissions
 
 In the competitive market, many businesses take advantages of Affiliate program to draw more and more revenues. Thus, you are in danger of being ignored unless you seek to stand out, and the offered bonus for Affiliates plays an important role of that. You shouldn’t have paid the uncompetitive or high enough commission. For example, most people aren’t going to sell something for a 10 percent commission, or just a dollar or so. All of them are hoping to get 20 dollars at least if not more per sale. The greater commissioned products will naturally attract better affiliates.
 
-## Make marketing materials unavailable
+### Make marketing materials unavailable
 
 It is rare if someone create their graphic by themselves, then promote your products up. That should be your work including referral link, banner advertising, marketing graphic, affiliate widget. Plus, you can also track their efficient directly as well as have a prompt change to get the highest result.
 
-## Not Communicating with your Affiliates
+### Not Communicating with your Affiliates
 
 The conversation will bring more benefits than you think. This makes Affiliates happy with your concerns to work better while you can sound what the audience review and what products they want and need. Why do you try talking more with your Affiliates now?
 
-## Not Taking Care Of Your Affiliates like Business Partners
+### Not Taking Care Of Your Affiliates like Business Partners
 
 This is the common mistake of eCommerce businesses when working with your sales people. You are treating members as they’re employees instead of the trading partners they are. They’d love working how they want and when they want, so avoid making too many rules and ask them to jump through because you can lose lots of good affiliates without prediction.
 
