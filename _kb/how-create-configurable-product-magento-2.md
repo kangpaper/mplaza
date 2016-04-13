@@ -41,6 +41,7 @@ You can create a Configurable Product in Magento 2 through many variations and t
 ## Step 2: `Select the Product Template`
 
 To choose Product Template, you can follow one of two ways: 
+
 * Enter directly the name of the template that you want to choose in the `Search` box
 * Click in the list and choose the template that you want to use.
 Remember that, a Configurable Product require the option of available fields must include at least one drop-down attribute. 
