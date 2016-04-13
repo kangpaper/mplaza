@@ -74,6 +74,7 @@ A placeholder appears until an image is uploaded. If you prefer, you can later a
 ## Step 5: `Save and Continue`
 
 This is a good time to save your work. In the next step, you’ll set up the configurations for each variation of the product.
+
 * In the upper-right corner, click `Save`.
 * Continue with `Adding Configurations`. 
 
@@ -202,9 +203,7 @@ As soon as the product is online, tap the arrow in the `Admin` in the upper-righ
 ## THINGS TO REMEMBER
 
 * A configurable product is a simple product with many options chosen from drop-down list.
-
 * A value of a drop-down list is based on an attribute of the “Dropdown” input type. The drop-down attributes must be included in the attribute set, which is then used as a template for the configurable product. 
-
 * Store Admin can set other thumbnail image in the shopping cart from the configurable product record, or from the product variation. 
 
 
