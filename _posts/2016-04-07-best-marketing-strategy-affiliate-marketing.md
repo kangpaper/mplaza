@@ -9,7 +9,7 @@ tags: affiliate marketing
 
 For online stores, marketing solutions always bring the positive change of boosting sales. Thus, it is necessary to follow new marketing trend in order to prepare adequately for the next business cycle. Now, we are in the first months of 2016, ensure that almost eCommerce merchants will put particular attention on predicting that “What is Hot Trend?” and “What is Next ?”. And the best answer is [Affiliate](https://www.mageplaza.com/magento-affiliate-extension/) Marketing, which is highly appreciated by the experts and businesses, with the convincing proof is that the **Affiliate Budget is expected to increase by 72%**, according to CJ Advertisement Co., a full-service ad agency that exclusively serves personal injury brands.
 
-![CJ Advertisement survey](https://lh6.googleusercontent.com/mzkSJMm_lB7L6fbT02tFtvXWBsck6AeBXNUrcOhQrRMr2GoFWMpauwXds4GppnPS75NW1CqZ6bk8nGGNdCP6FtRMwF665GQQSmqLxO8G9YRzvmIGJr7KrcvDQ70aRzy4E8hZBefO)
+![CJ-advertisement-survey](https://lh6.googleusercontent.com/mzkSJMm_lB7L6fbT02tFtvXWBsck6AeBXNUrcOhQrRMr2GoFWMpauwXds4GppnPS75NW1CqZ6bk8nGGNdCP6FtRMwF665GQQSmqLxO8G9YRzvmIGJr7KrcvDQ70aRzy4E8hZBefO)
 
 
 Why is 72%? and Why is Affiliate Marketing such important that the merchants need to focus on? Let solve the question together with this post to see the details about Affiliate Marketing helping you be ready for your store’s improvement.
@@ -17,7 +17,7 @@ Why is 72%? and Why is Affiliate Marketing such important that the merchants nee
 ## Affiliate Marketing - More sharings, More commissions
 
 
-![Affiliate Marketing](https://lh6.googleusercontent.com/h9X1B6L9Fus1LthHt1hq3oN1-YcfzwcZyJ2WNyQ9XLuvFerZiy19wQu7kSPZQe6LPOV7nLQ2C8z3LPwHT6I3P2eT0MMI8t3cPy3iAMq9juljd6WOyVclS7gwFRsd4VTHNcHDJoZI)
+![affiliate-marketing](https://lh6.googleusercontent.com/h9X1B6L9Fus1LthHt1hq3oN1-YcfzwcZyJ2WNyQ9XLuvFerZiy19wQu7kSPZQe6LPOV7nLQ2C8z3LPwHT6I3P2eT0MMI8t3cPy3iAMq9juljd6WOyVclS7gwFRsd4VTHNcHDJoZI)
 
 According to common conception:
 
@@ -46,7 +46,7 @@ With the above comparison, you understand in detail partly about the working rul
 
 Affiliate Marketing builds the network relying on the rights and responsibilities of Affiliates. The following diagram describes all:
 
-![How does Affiliate Marketing work](https://lh4.googleusercontent.com/xBdWMvR53ZNnko3bDgDkH4OG0BPeUeTGGneVz6qaRk0kveCCmvWS0Ke0FwA9m_R-_cn4_RA_OXqt9tWhhT-hBOg1SSn9luMWFfmDESn1tAwGFHuCa-1pLE0DcnGW2eINdsxC2oca)
+![how-does-affiliate-marketing-work](https://lh4.googleusercontent.com/xBdWMvR53ZNnko3bDgDkH4OG0BPeUeTGGneVz6qaRk0kveCCmvWS0Ke0FwA9m_R-_cn4_RA_OXqt9tWhhT-hBOg1SSn9luMWFfmDESn1tAwGFHuCa-1pLE0DcnGW2eINdsxC2oca)
 
 In the picture, five elements are participating in process working of Affiliate Marketing, they are Merchants, Products, Affiliate Networks, Affiliates, and Commissions.
 
