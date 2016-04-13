@@ -120,14 +120,13 @@ The images, pricing and quantity will be set in this step while you can choose o
    * Choose the desire image from your browse.
 
 ![use-same-image-for-all-SKUs](https://lh6.googleusercontent.com/FNS-abPQs4DhZuwNfUIP_HEaCorkU1SDnlNO7a5_fVl_n4X9BjiBVsadFI3bMcPhB0Rw4muYH8cN1oQdIbLgT9hfRIGepm8IRNim1iAPHznOIzqr5NI3RlnG8fiGm6xsfPOaOH7U)
-
   #### Method 2: `Apply Unique Images for Each SKU`
 
    * Select `Apply unique images by attribute to each SKU`.
    * Select the attribute, for example: color. If your shopper choose a specific color, the image will appear.
    * Allow uploading differents image for each attribute, either browse to the images or drag them to the box. If want to delete the image, tap the bin icon.
   
-![unique-image-per-SKU](https://lh3.googleusercontent.com/HWX0L8WmpVBhQV9zsV78nozP8vrW8_XO-WNWc0e27qkXybahNrq2qcvmiWCwXJd01VBBAL80DO8uOm44WkN32qJx_RW1ec37BBPT5D6FPDuFZr2F7eaDTo16Kp0ss_VliYEdHe3N)
+  ![unique-image-per-SKU](https://lh3.googleusercontent.com/HWX0L8WmpVBhQV9zsV78nozP8vrW8_XO-WNWc0e27qkXybahNrq2qcvmiWCwXJd01VBBAL80DO8uOm44WkN32qJx_RW1ec37BBPT5D6FPDuFZr2F7eaDTo16Kp0ss_VliYEdHe3N)
   
   ### `Configure the Prices`
 
@@ -136,7 +135,7 @@ The images, pricing and quantity will be set in this step while you can choose o
    * Select `Apply single price to all SKUs`.
    * Enter the `Price`.
 
-![same-price-for-all-SKUs](https://lh6.googleusercontent.com/Yv16qRcKgQyoreAUQYiybhjMXad10I-edHPIuVAEQ9L_gv3glhWWSEDoBBrQDwL4MojFCCAZ9CEADRAeKIvOQb6OGD5AfhqpP62NZtQgbUeWgzbOrpPqgMxQ8Nxln3aAT06KGO1l)
+  ![same-price-for-all-SKUs](https://lh6.googleusercontent.com/Yv16qRcKgQyoreAUQYiybhjMXad10I-edHPIuVAEQ9L_gv3glhWWSEDoBBrQDwL4MojFCCAZ9CEADRAeKIvOQb6OGD5AfhqpP62NZtQgbUeWgzbOrpPqgMxQ8Nxln3aAT06KGO1l)
 
   #### Method 2: `Apply a Unique Price for Each SKU`
 
@@ -144,7 +143,7 @@ The images, pricing and quantity will be set in this step while you can choose o
    * Select the attribute you want to offer a specific price.
    * Enter the `Price`.
  
-![unique-price-per-SKU](https://lh6.googleusercontent.com/29ZmZpPwYTFaOsDJb-RsaXPd4If4Kg9ZFfcsup0gmZTdQAJHrl-nb4qQrTQXp2rR10ZFFYb2F6PbQfH9PCVNFLj8p0vDSmNiE_S4tA_nlkao-DPskb8p2UWsY8l4OyZrSWGraG6w)
+  ![unique-price-per-SKU](https://lh6.googleusercontent.com/29ZmZpPwYTFaOsDJb-RsaXPd4If4Kg9ZFfcsup0gmZTdQAJHrl-nb4qQrTQXp2rR10ZFFYb2F6PbQfH9PCVNFLj8p0vDSmNiE_S4tA_nlkao-DPskb8p2UWsY8l4OyZrSWGraG6w)
 
    ### `Configure the Quantity`
 
