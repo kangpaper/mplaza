@@ -119,7 +119,8 @@ The images, pricing and quantity will be set in this step while you can choose o
    * Select `Apply single set of images to all SKUs`.
    * Choose the desire image from your browse.
 
-![use-same-image-for-all-SKUs](https://lh6.googleusercontent.com/FNS-abPQs4DhZuwNfUIP_HEaCorkU1SDnlNO7a5_fVl_n4X9BjiBVsadFI3bMcPhB0Rw4muYH8cN1oQdIbLgT9hfRIGepm8IRNim1iAPHznOIzqr5NI3RlnG8fiGm6xsfPOaOH7U)
+  ![use-same-image-for-all-SKUs](https://lh6.googleusercontent.com/FNS-abPQs4DhZuwNfUIP_HEaCorkU1SDnlNO7a5_fVl_n4X9BjiBVsadFI3bMcPhB0Rw4muYH8cN1oQdIbLgT9hfRIGepm8IRNim1iAPHznOIzqr5NI3RlnG8fiGm6xsfPOaOH7U)
+
   #### Method 2: `Apply Unique Images for Each SKU`
 
    * Select `Apply unique images by attribute to each SKU`.
