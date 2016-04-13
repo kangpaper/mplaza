@@ -112,16 +112,16 @@ The images, pricing and quantity will be set in this step while you can choose o
 
 * Choose the configuration options that apply.
 
-### `Configure the Images`
+  ### `Configure the Images`
 
-#### Method 1: `Apply a Single Set of Images to All SKUs`
+  #### Method 1: `Apply a Single Set of Images to All SKUs`
 
    * Select `Apply single set of images to all SKUs`.
    * Choose the desire image from your browse.
 
 ![use-same-image-for-all-SKUs](https://lh6.googleusercontent.com/FNS-abPQs4DhZuwNfUIP_HEaCorkU1SDnlNO7a5_fVl_n4X9BjiBVsadFI3bMcPhB0Rw4muYH8cN1oQdIbLgT9hfRIGepm8IRNim1iAPHznOIzqr5NI3RlnG8fiGm6xsfPOaOH7U)
 
-#### Method 2: `Apply Unique Images for Each SKU`
+  #### Method 2: `Apply Unique Images for Each SKU`
 
    * Select `Apply unique images by attribute to each SKU`.
    * Select the attribute, for example: color. If your shopper choose a specific color, the image will appear.
@@ -129,16 +129,16 @@ The images, pricing and quantity will be set in this step while you can choose o
   
 ![unique-image-per-SKU](https://lh3.googleusercontent.com/HWX0L8WmpVBhQV9zsV78nozP8vrW8_XO-WNWc0e27qkXybahNrq2qcvmiWCwXJd01VBBAL80DO8uOm44WkN32qJx_RW1ec37BBPT5D6FPDuFZr2F7eaDTo16Kp0ss_VliYEdHe3N)
   
-### `Configure the Prices`
+  ### `Configure the Prices`
 
-#### Method 1: `Apply the Same Price to All SKUs`
+  #### Method 1: `Apply the Same Price to All SKUs`
 
    * Select `Apply single price to all SKUs`.
    * Enter the `Price`.
 
 ![same-price-for-all-SKUs](https://lh6.googleusercontent.com/Yv16qRcKgQyoreAUQYiybhjMXad10I-edHPIuVAEQ9L_gv3glhWWSEDoBBrQDwL4MojFCCAZ9CEADRAeKIvOQb6OGD5AfhqpP62NZtQgbUeWgzbOrpPqgMxQ8Nxln3aAT06KGO1l)
 
-#### Method 2: `Apply a Unique Price for Each SKU`
+  #### Method 2: `Apply a Unique Price for Each SKU`
 
    * Select `Apply unique prices by attribute to each SKU`.
    * Select the attribute you want to offer a specific price.
@@ -146,16 +146,16 @@ The images, pricing and quantity will be set in this step while you can choose o
  
 ![unique-price-per-SKU](https://lh6.googleusercontent.com/29ZmZpPwYTFaOsDJb-RsaXPd4If4Kg9ZFfcsup0gmZTdQAJHrl-nb4qQrTQXp2rR10ZFFYb2F6PbQfH9PCVNFLj8p0vDSmNiE_S4tA_nlkao-DPskb8p2UWsY8l4OyZrSWGraG6w)
 
-### `Configure the Quantity`
+   ### `Configure the Quantity`
 
-#### Method 1: `Apply the Same Quantity to All SKUs`
+   #### Method 1: `Apply the Same Quantity to All SKUs`
 
    *  Select `Apply single quantity to each SKU`.
    *  Enter the `Quantity`.
  
 ![same-quantity-for-al-SKUs](https://lh3.googleusercontent.com/PYfgKSgaQfx2JyG8c4nAeczOszi2fFDxyjLfKdBtTW_0sNyjHkhcTyBd9xagZ2_pcM0W-glslvkvuJ0Y37L7WpLyplb3S0kQwf-vNSsAwLXcbsFKywD7rzX0U3qAdO5LjYUJgWWK)
 
-#### Method 2: `Apply a Unique Quantity by Attribute`
+   #### Method 2: `Apply a Unique Quantity by Attribute`
 
    *  Select `Apply unique quantity by attribute to each SKU`.
    *  Enter the `Quantity`
@@ -198,7 +198,7 @@ As soon as the product is online, tap the arrow in the `Admin` in the upper-righ
 
 ![customer-view](https://lh6.googleusercontent.com/UfYyq-GxxQmdZJFWZy4uBj6YgWQqzBpStt7ReFAAL_VfZxfa6Jc_PIeFPAyPeXeB_ayluCWg4zNqzPow8jfMscDDTr_87ag68olsJW2M-sXmULS0pgJGfIcACGpR7xoxat0r9MYf)
 
-# Important Notes
+## THINGS TO REMEMBER
 
 * A configurable product is a simple product with many options chosen from drop-down list.
 
