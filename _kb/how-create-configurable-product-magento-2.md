@@ -146,21 +146,21 @@ The images, pricing and quantity will be set in this step while you can choose o
  
   ![unique-price-per-SKU](https://lh6.googleusercontent.com/29ZmZpPwYTFaOsDJb-RsaXPd4If4Kg9ZFfcsup0gmZTdQAJHrl-nb4qQrTQXp2rR10ZFFYb2F6PbQfH9PCVNFLj8p0vDSmNiE_S4tA_nlkao-DPskb8p2UWsY8l4OyZrSWGraG6w)
 
-   ### `Configure the Quantity`
+  ### `Configure the Quantity`
 
-   #### Method 1: `Apply the Same Quantity to All SKUs`
+  #### Method 1: `Apply the Same Quantity to All SKUs`
 
    *  Select `Apply single quantity to each SKU`.
    *  Enter the `Quantity`.
  
-![same-quantity-for-al-SKUs](https://lh3.googleusercontent.com/PYfgKSgaQfx2JyG8c4nAeczOszi2fFDxyjLfKdBtTW_0sNyjHkhcTyBd9xagZ2_pcM0W-glslvkvuJ0Y37L7WpLyplb3S0kQwf-vNSsAwLXcbsFKywD7rzX0U3qAdO5LjYUJgWWK)
+  ![same-quantity-for-al-SKUs](https://lh3.googleusercontent.com/PYfgKSgaQfx2JyG8c4nAeczOszi2fFDxyjLfKdBtTW_0sNyjHkhcTyBd9xagZ2_pcM0W-glslvkvuJ0Y37L7WpLyplb3S0kQwf-vNSsAwLXcbsFKywD7rzX0U3qAdO5LjYUJgWWK)
 
-   #### Method 2: `Apply a Unique Quantity by Attribute`
+  #### Method 2: `Apply a Unique Quantity by Attribute`
 
    *  Select `Apply unique quantity by attribute to each SKU`.
    *  Enter the `Quantity`
 
-![unique-quantity-per-SKU](https://lh5.googleusercontent.com/1wKIY16XUoMEDjv_3B5DOSrkEcbEhrSYsRvXeXh5rb3AZZLc3Y7y2nl7x44rYoy8NaiJAVYXyz9EJRkd7y_ZATNmq47bKpQGjZy1nKdYrZtaVGtVuQoz3U5yDhHIbHQOC3WabI_G)
+  ![unique-quantity-per-SKU](https://lh5.googleusercontent.com/1wKIY16XUoMEDjv_3B5DOSrkEcbEhrSYsRvXeXh5rb3AZZLc3Y7y2nl7x44rYoy8NaiJAVYXyz9EJRkd7y_ZATNmq47bKpQGjZy1nKdYrZtaVGtVuQoz3U5yDhHIbHQOC3WabI_G)
 
 * Tap `Next` in the upper-right corner to continue.
 
