@@ -100,7 +100,7 @@ Follow 7 steps to know how to configure multiple colors and multiple sizes for e
 * Add a new value by clicking `Create New Value`. Enter the value of the new input, then tap the Enter arrow.
 * Do the same to each attribute you have chosen before.
 
-The order of attributes can be rearranged by dragging-dropping to a new position.
+  The order of attributes can be rearranged by dragging-dropping to a new position.
 
 * In the upper-right corner, tap `Next`.
 
@@ -116,16 +116,16 @@ The images, pricing and quantity will be set in this step while you can choose o
 
 #### Method 1: `Apply a Single Set of Images to All SKUs`
 
-  * Select `Apply single set of images to all SKUs`.
-  * Choose the desire image from your browse.
+   * Select `Apply single set of images to all SKUs`.
+   * Choose the desire image from your browse.
 
 ![use-same-image-for-all-SKUs](https://lh6.googleusercontent.com/FNS-abPQs4DhZuwNfUIP_HEaCorkU1SDnlNO7a5_fVl_n4X9BjiBVsadFI3bMcPhB0Rw4muYH8cN1oQdIbLgT9hfRIGepm8IRNim1iAPHznOIzqr5NI3RlnG8fiGm6xsfPOaOH7U)
 
 #### Method 2: `Apply Unique Images for Each SKU`
 
-  * Select `Apply unique images by attribute to each SKU`.
-  * Select the attribute, for example: color. If your shopper choose a specific color, the image will appear.
-  * Allow uploading differents image for each attribute, either browse to the images or drag them to the box. If want to delete the image, tap the bin icon.
+   * Select `Apply unique images by attribute to each SKU`.
+   * Select the attribute, for example: color. If your shopper choose a specific color, the image will appear.
+   * Allow uploading differents image for each attribute, either browse to the images or drag them to the box. If want to delete the image, tap the bin icon.
   
 ![unique-image-per-SKU](https://lh3.googleusercontent.com/HWX0L8WmpVBhQV9zsV78nozP8vrW8_XO-WNWc0e27qkXybahNrq2qcvmiWCwXJd01VBBAL80DO8uOm44WkN32qJx_RW1ec37BBPT5D6FPDuFZr2F7eaDTo16Kp0ss_VliYEdHe3N)
   
@@ -133,16 +133,16 @@ The images, pricing and quantity will be set in this step while you can choose o
 
 #### Method 1: `Apply the Same Price to All SKUs`
 
-  * Select `Apply single price to all SKUs`.
-  * Enter the `Price`.
+   * Select `Apply single price to all SKUs`.
+   * Enter the `Price`.
 
 ![same-price-for-all-SKUs](https://lh6.googleusercontent.com/Yv16qRcKgQyoreAUQYiybhjMXad10I-edHPIuVAEQ9L_gv3glhWWSEDoBBrQDwL4MojFCCAZ9CEADRAeKIvOQb6OGD5AfhqpP62NZtQgbUeWgzbOrpPqgMxQ8Nxln3aAT06KGO1l)
 
 #### Method 2: `Apply a Unique Price for Each SKU`
 
-  * Select `Apply unique prices by attribute to each SKU`.
-  * Select the attribute you want to offer a specific price.
-  * Enter the `Price`.
+   * Select `Apply unique prices by attribute to each SKU`.
+   * Select the attribute you want to offer a specific price.
+   * Enter the `Price`.
  
 ![unique-price-per-SKU](https://lh6.googleusercontent.com/29ZmZpPwYTFaOsDJb-RsaXPd4If4Kg9ZFfcsup0gmZTdQAJHrl-nb4qQrTQXp2rR10ZFFYb2F6PbQfH9PCVNFLj8p0vDSmNiE_S4tA_nlkao-DPskb8p2UWsY8l4OyZrSWGraG6w)
 
@@ -150,15 +150,15 @@ The images, pricing and quantity will be set in this step while you can choose o
 
 #### Method 1: `Apply the Same Quantity to All SKUs`
 
-  *  Select `Apply single quantity to each SKU`.
-  *  Enter the `Quantity`.
+   *  Select `Apply single quantity to each SKU`.
+   *  Enter the `Quantity`.
  
 ![same-quantity-for-al-SKUs](https://lh3.googleusercontent.com/PYfgKSgaQfx2JyG8c4nAeczOszi2fFDxyjLfKdBtTW_0sNyjHkhcTyBd9xagZ2_pcM0W-glslvkvuJ0Y37L7WpLyplb3S0kQwf-vNSsAwLXcbsFKywD7rzX0U3qAdO5LjYUJgWWK)
 
 #### Method 2: `Apply a Unique Quantity by Attribute`
 
-  *  Select `Apply unique quantity by attribute to each SKU`.
-  *  Enter the `Quantity`
+   *  Select `Apply unique quantity by attribute to each SKU`.
+   *  Enter the `Quantity`
 
 ![unique-quantity-per-SKU](https://lh5.googleusercontent.com/1wKIY16XUoMEDjv_3B5DOSrkEcbEhrSYsRvXeXh5rb3AZZLc3Y7y2nl7x44rYoy8NaiJAVYXyz9EJRkd7y_ZATNmq47bKpQGjZy1nKdYrZtaVGtVuQoz3U5yDhHIbHQOC3WabI_G)
 
