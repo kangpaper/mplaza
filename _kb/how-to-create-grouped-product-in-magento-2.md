@@ -64,7 +64,7 @@ Gather many simple standalone products into a group which is called as Group Pro
 
 * Write some product description if you need.  Then, tap `Submit`. You can also use the `WYSIWYG Editor` for additional control.
 
-![create-grouped-product](https://lh5.googleusercontent.com/aXCwJiA2bDoWpPODYZQsl-c_8UFkvxlpf-42TGOJML3VvM9WeEXAlvLfGLlq4CWuPdvr7oNkQnctmgOk7Fc2RYWjeUrItN9iaViisN7fHBzL3gAfHpPilGY_m1hEK18xBbzIKgi9)
+![create-grouped-product](https://lh6.googleusercontent.com/QeiGlevMQXXxvC-q_1zVkLKN9cyCtA-amWCQKgGpfTTC7avf27Hv1dSZvUqm8-fn3Ue-AttSeP86jXMmvqxlS3FjDpquTtMC3vRHaSblbnL_-hm6dC9NOSIYWbpUM-O6SdqhAc7g)
 
 ## Step 5: `Add the Grouped Products`
 
