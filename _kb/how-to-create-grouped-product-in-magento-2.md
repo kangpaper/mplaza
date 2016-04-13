@@ -72,7 +72,7 @@ Gather many simple standalone products into a group which is called as Group Pro
 * Find the products  by filtering at the top row of the grid. Then `Search`.
 * Mark the checkbox of products that you want to add to the group
 
-![add-product-to-group](https://lh4.googleusercontent.com/hHgZREgnzfthMa4fTjHJSN7GsmjJ5UCQyIWEAH_4mI3F_Gzl8VIOGIKrGVfvTmYSNsxLKq2wuHujmmnlRjWA6ObdBhuXvU2hazVBAcvquz9PI_ltpeWF4Ua8xzJ2U0k4j5taQ6Og)
+![add-product-to-group](https://lh5.googleusercontent.com/HvHdgf45sZL-_LJK0QAdXBkqF1Y14Rm89y4gzfPNbMw4GtkLKOvaMjd88nIAu5KqgfZZbkin63Yh5f_qZ5dIy5tJNEyqNNfES5V3ktpWnINz3fA-_T2M9UkSmXTXw-vsPtkQfP3t)
 
 * Tap  Add Selected Products  to add them to the grouped product. Then follow any of the options:
   * To set a default quantity, enter the number in the `Default Qty` field.
