@@ -9,6 +9,8 @@ tags: magento-2 how-to create grouped product
 
 Gather many simple standalone products into a group which is called as Group Product. It is possible to base on the variation of simple product to create a set of different products. Each product can be shown and sold separately or together in the group as need, however, they are definitely listed separately in the shopping cart.
 
+![grouped-product](https://lh6.googleusercontent.com/jBHFJVvni7mxP9NCjRNqTPtxqqbAYpXBUfUiErYGgvMGgX1lcpdpmnSfItRX2x9pCOn2n-252cCk8Ygryw2KHsSBXICrD5XG3Wqc4emSuzK_WFt4Kl12d2GQqRFqUS57zMex2x__)
+
 ## Process Overview
      
      Step 1: Select the Product Type
