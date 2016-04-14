@@ -192,7 +192,7 @@ Approve to set a different image for each variation in the shopping cart thumbna
 * In the `Configurable Product Image`, select “Product Thumbnail Itself”.
 * Tap `Save Config` to complete.
 
-![shopping-cart-configurable-product](https://lh5.googleusercontent.com/U7xTOF7oOaSFiLoqMDeLSb_U8QQ_91qhXMolA8TbsWyw3segcLRf9yYLwc8_HBgpC3jN-Zhu4KuPZnAzZRspPUGl9Dc122IFSobuTZ_aLSyn6dgE_XThSd1F2zx2bPcdJ7e57ijW)
+![shopping-cart-configurable-product](https://lh4.googleusercontent.com/7u-YraoumfnMcuHGHobv8JRvkW663XStc7Lpn4C7EFMO03r7tB0hMt9ETzdrnUeEGyraf9gh1p5Z1Y91ebAJhLgX1uiGCJmbCLAvYiBFatS_x2TlogRdzojDmY9XIWLxLOLqX9wm)
 
 ## Step 7: `Final, check your result by view the Products in your store`
 
