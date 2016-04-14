@@ -1,3 +1,11 @@
+---
+layout: kb
+title: How to create Downloadable Product in Magento 2
+permalink: /kb/how-to-create-dowloadable-product-in-magento-2.html
+published: true
+categories: magento-2 magento-2-tutorial
+tags: magento-2 how-to create downloadable product
+---
 
 A downloadable product is a type of product that allow shoppers to get it as a file, such as an eBook, music, video, software application, or update. You can put an album on sale and sell each song individual. In addition, you can use a downloadable product to deliver an electronic version of your product catalog. 
 
