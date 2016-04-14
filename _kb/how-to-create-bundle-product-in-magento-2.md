@@ -123,7 +123,7 @@ On the `Admin` menu, choose `Customer View`.
 ![save-close-bundle-product](https://lh3.googleusercontent.com/_chtQXrVhInGrcnBFC3LHcWh1_d24tAhndFcf-xl8pA7yo9qpvg79PcvES0s7NgNF8Msi2xVfsMdvLmRGLlToErkVg6M8aTa1SYSmNzAOnXxrflsxg6wd7d5CLhXveObdI7N5pjQ)
 
 ## THINGS TO REMENBER
-* Store Admin can create a new bundle product by himself
+* Store Admin can create a new bundle product by himself.
 * Bundle items can be simple or virtual products without custom options. 
 * The Price, SKU and Weight of the bundle product can be either “Fixed” or “Dynamic”.
 * The Quantity can be a preset or user-defined value. 
