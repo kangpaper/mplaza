@@ -1,4 +1,9 @@
 
+A downloadable product is a type of product that allow shoppers to get it as a file, such as an eBook, music, video, software application, or update. You can put an album on sale and sell each song individual. In addition, you can use a downloadable product to deliver an electronic version of your product catalog. 
+
+In the settings of the downloadable product, you can require customers to get link only when they have already logged in, or you will send the download link via email and allow them to share with anyone needing. To learn more details about the process of creating a downloadable product, pay your attention on the following instruction with the basic fields. After you complete the required settings and save the product, you can add images and complete the remaining product information as needed.
+
+![downloadable-product](https://lh6.googleusercontent.com/Wd751W2HnWrl8ViLWEOePz1rmWZ123f2AxWjblxA2fkWcmmoDCQXqRDNxYHlKHCX1z8Xs_2o_R1I3YdSu0Dx9YNmaVKYc5Z4qJ_E46wTxUTcgVO8JY7eA3jMPbby2rXD1TLX2h8v)
 
 ## Process Overview
      
@@ -15,7 +20,7 @@
 * On the Admin sidebar, tap `Products > Inventory > Catalog`.
 * In the upper-right corner of the `Add Product` menu, select `Downloadable Product`.
 
-![downloadable-product](https://lh6.googleusercontent.com/evPH0iIHPckloJ-ukj-NiHQZJS7B3kVq7fMsPBdsptA2C0w2SlyttTvA4g15t7xehPQDZwH6EQU65CDOfGGolFjJUIGLWOmX-i1SQTnTthd5xrDyqCqSCE2q9d1cY_oLC9zzcK-P)
+![downloadable-product-type](https://lh6.googleusercontent.com/evPH0iIHPckloJ-ukj-NiHQZJS7B3kVq7fMsPBdsptA2C0w2SlyttTvA4g15t7xehPQDZwH6EQU65CDOfGGolFjJUIGLWOmX-i1SQTnTthd5xrDyqCqSCE2q9d1cY_oLC9zzcK-P)
 
 ## Step 2: `Select the Product Template` (Optional)
 
