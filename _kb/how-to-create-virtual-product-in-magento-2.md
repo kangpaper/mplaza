@@ -38,7 +38,7 @@ The corresonding form will be shown to configure.
 ![choose-product-template](https://lh6.googleusercontent.com/bexZnAhiL8zv5f9c4HF5lWp66dB9PLY4rvuKN-4D0Eu2755bRVmKD43Usvry46S4iJ4p3EZOO-N6UhSywWRtMPYW9Sv3ZKASg-OkRFRSk5O6L82622e9rDaPwZrRYlfrXRKNQqjz)
 
 ## Step 3: `Fill out the Required Fields`
-* In the `Product Detaill` section, need to do:
+* In the `Product Detail` section, need to do:
   * Enter the `Name`.
   * Use the default SKU for the product, or offer another value.
   * Enter the `Price`
