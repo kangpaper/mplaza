@@ -13,7 +13,7 @@ A bundle product includes customizable product that you can build for your own. 
 
 Particular to the Bundle Product, when your shoppers click on Customize and Add to Cart button, the selection of options in the bundle will be shown instantly. They can choose only one attribute including SKU, Size, Price or Weight for each option.
 
-     `Minimum Advertised Price (MAP) is not available for Bundle products with dynamic pricing.`
+     Minimum Advertised Price (MAP) is not available for Bundle products with dynamic pricing.
 
 ![customizing-bundle-product](https://lh4.googleusercontent.com/AzZUk13lNAoVTkrdOnNpf3rHV8AtfW_JsmmOvcXflyB7hpDoD1EGfaynYY05lOW3xo6YCyeePcZ0AYCPwf54sGyMMQJnjnk8demaG16JxDXQfCxobR-olus7mbrQQ6tXcaSGLaoI)
 
