@@ -16,7 +16,7 @@ Gather many simple standalone products into a group which is called as Group Pro
      Step 1: Select the Product Type
      Step 2: Select the Product Template (Optional)
      Step 3: Fill out the Required Fields
-     Step 4: Fill out the Remaining Product Detial
+     Step 4: Fill out the Remaining Product Detail
      Step 5: Add the Grouped Product
      Step 6: Generate the Product
      Step 7: Configure the Shopping Cart Thumbnails (Optional)
@@ -42,13 +42,13 @@ Gather many simple standalone products into a group which is called as Group Pro
 
 ## Step 3: `Fill out the Required Fields`
 
-* In the `Product Detial` section, need to do:
+* In the `Product Detail` section, need to do:
   * Enter the `Name`.
   * Use the default `SKU` for the product, or offer another value.
   
 * By now the product has been not yet ready to publish, let switch to the **Off** for `Product Online`.
 
-## Step 4: `Fill out the Remaining Product Detials`
+## Step 4: `Fill out the Remaining Product Details`
 
 * To add an image for the product group, follow one of two options:
   * Drag and drop an image from your desktop on the `Camera` tile in the Images and Videos box.
@@ -70,7 +70,7 @@ Gather many simple standalone products into a group which is called as Group Pro
 
 ## Step 5: `Add the Grouped Products`
 
-* At the bottom of the Product Detials page, expand the `Grouped Products` section. Then, tap `Add Products to Group`.
+* At the bottom of the Product Details page, expand the `Grouped Products` section. Then, tap `Add Products to Group`.
 * Find the products  by filtering at the top row of the grid. Then `Search`.
 * Mark the checkbox of products that you want to add to the group
 
