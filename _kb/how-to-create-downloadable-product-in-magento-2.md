@@ -66,7 +66,7 @@ The corresonding form will be shown to configure.
 
 The Downloadable Information is divided into two sections. The first section is link for the download, and the second section describes each sample file. The default value for many of these options can be set in the configuration.
 
-   ### `Link`
+### `Link`
   
   * In the `Links` section, enter the `Title`- a heading for the download links you want to use.
   * Set `Links can be purchased separately` to offer single or multiple download link.
@@ -84,7 +84,7 @@ The Downloadable Information is divided into two sections. The first section is 
   ![link-detial](https://lh5.googleusercontent.com/DrUJEW4vo1dOy-kyuTQOKi8qMO8JshsZi6ImcqHviLseJS8UeoSfEkfCsfSQPdbqBNoaAhEJxMLOs1kka3p--Wsv9If23G5khtZo_H8RoFnA4iAF-futA4DPaTrn0_XH-asSKQIK)
   * Click `Add New Link` again and repeat these steps if need to add others.
   
-   ### `Samples`
+### `Samples`
   
   * In the `Samples` section, enter the `Title`- a heading for the samples as you need to use.
   * Tap `Add New Link` to fill the sample information.
