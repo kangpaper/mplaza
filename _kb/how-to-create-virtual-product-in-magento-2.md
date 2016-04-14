@@ -9,6 +9,8 @@ tags: magento-2 how-to create virtual product
 
 Virtual products are the represent product as non-tangible items as memberships, services, warranties, or subscriptions. The virtual products can be purchased separately or together with some product types like Grouped Product and Bundle Product.
 
+![virtual-product](https://lh4.googleusercontent.com/249mYiCUYbSdF5WIifjlW0CPgLEz9Sovq_IL1KgTfUBB_gX-wmls49-_kj8-4IWffc0oYn_CSfQHGKekXs42PKjR7XDhnwQKSwHyP-YMNyHe1eDoHekQ4zUcs6oZDrHHhvPhRgJF)
+
 ## Process Overview
 
      Step 1: Select the Product Type
