@@ -47,7 +47,7 @@ Follow one of two ways to select the product template:
  
  ## Step 3: `Fill out the Require Fields`
  
- * In the `Product Detial` section, need to do:
+ * In the `Product Detail` section, need to do:
   * Enter the `Name`.
   * Use the default `SKU` for the product, or offer another value. Then set the type of value to **Dynamic** or **Fixed**.
   * To set the product `Price`, need to do:
@@ -59,7 +59,7 @@ Follow one of two ways to select the product template:
 * By now the product has been not yet ready to publish, let switch to the **Off** for `Product Online`.
 * Tap `Save` to finish this step.
 
-## Step 4: `Fill out the Remaining Product Detials`
+## Step 4: `Fill out the Remaining Product Details`
 
 * To add an image for the product group, follow one of two options:
   * Drag and drop an image from your desktop on the `Camera` tile in the Images and Videos box.
