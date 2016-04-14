@@ -27,6 +27,7 @@ Virtual products are the represent product as non-tangible items as memberships,
 ## Step 2: `Select the Product Template`
 
 Follow one of two ways to select the product template:
+
  * In the `Search` box, enter needed name of the template.
  * In the list, select one of the templates you want to use
 The corresonding form will be shown to configure.
@@ -63,7 +64,7 @@ The corresonding form will be shown to configure.
 ![product-detial](https://lh6.googleusercontent.com/SHJgW45Bk3USdUtf0YdwB87rltKGxal5N66x8SrPLfkDDsZ57WXsaOZg37C-hxbJHOMO7-YwcxeqCwgN2m51EKBedoZtAsF5BVDKTQkjCGJ2O_j8l69fYMifCWmK2RWhESiU63wJ)
 
 ## Step 5: `Generate the Product`
-* Set the Product Online switch to the “On” position whenever you are ready to publish the product in the catalog.
+* Set the Product Online switch to the **On** position whenever you are ready to publish the product in the catalog.
 * Then `Save & Close` on the `Save` menu.
 
 ![product-detial](https://lh3.googleusercontent.com/KRyMbyriioQWxOgHbKgOqNJ-FspkryLQaS6_A0Ct3ufZU-qaIEZ-IZO2x6MM78KpFKejBBP0zfqzpc5N7HT4bBjXTWxe43AxV-ZKcKlG8mWTUNH4gKBA9ejoSRgJlwJZiAmAR1Ma)
