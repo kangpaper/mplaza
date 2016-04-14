@@ -39,7 +39,7 @@ The corresonding form will be shown to configure.
 ## Step 3: `Fill out the Required Fields`
 
 * In the `Product Detial` section, need to do:
-  * Enter the Name.
+  * Enter the `Name`.
   * Use the default SKU for the product, or offer another value.
   * Enter the `Price`
  
