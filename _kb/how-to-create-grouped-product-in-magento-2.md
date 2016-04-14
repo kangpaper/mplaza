@@ -16,7 +16,7 @@ Gather many simple standalone products into a group which is called as Group Pro
      Step 1: Select the Product Type
      Step 2: Select the Product Template (Optional)
      Step 3: Fill out the Required Fields
-     Step 4: Complete the Remaining Product Detial
+     Step 4: Fill out the Remaining Product Detial
      Step 5: Add the Grouped Product
      Step 6: Generate the Product
      Step 7: Configure the Shopping Cart Thumbnails (Optional)
@@ -25,7 +25,7 @@ Gather many simple standalone products into a group which is called as Group Pro
 ## Step 1: `Select the Product Type`
 
 * On the Admin sidebar, tap `Products > Inventory > Catalog`.
-* In the upper-right corner of the `Add Product` menu, select Grouped Product.
+* In the upper-right corner of the `Add Product` menu, select `Grouped Product`.
 
 ![choose-grouped-product](https://lh3.googleusercontent.com/pSbNR0czWjYrWphrTyVD_RYaXIHzRsvbgjf539dUJxtA-vVzSCzZncATRMXAnVfPwSDxeQ84ucbvRzuwu_J_2gp8QwBRvzb0SfyiQX-ECl64IyhFUbXPmov9Tc6Xgdy0OtRdz5Ib)
 
@@ -43,8 +43,8 @@ Gather many simple standalone products into a group which is called as Group Pro
 ## Step 3: `Fill out the Required Fields`
 
 * In the `Product Detial` section, need to do:
-  * Enter the Name.
-  * Use the default SKU for the product, or offer another value.
+  * Enter the `Name`.
+  * Use the default `SKU` for the product, or offer another value.
   
 * By now the product has been not yet ready to publish, let switch to the **Off** for `Product Online`.
 
@@ -85,7 +85,7 @@ Gather many simple standalone products into a group which is called as Group Pro
 ## Step 6: `Generate the Product`
 
 * Set the Product Online switch to the “On” position whenever you are ready to publish the product in the catalog.
-* Then `Save & Close` on the `Save` menu 
+* Then `Save & Close` on the `Save` menu.
 
 ![save-close](https://lh5.googleusercontent.com/6bvETmIvsXR7VssJDwNHsLZWm7pkoUjJbkW8i_otxCeT8DPMsGk6wM4a1iQjDdRGbBJF-RNziGf4XMiiWEsclLJR8kHMhrf6tljRTQKwNX5ufPt3aU0ehYgFVjz37dQR9xR7l0n9)
 
