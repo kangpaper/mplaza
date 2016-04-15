@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How to create simple product in Magento 2
+title: How to create Simple Product in Magento 2
 permalink: /kb/how-create-simple-product-magento-2.html
 published: true
 categories: magento-2 magento-2-tutorial
