@@ -23,14 +23,14 @@ Pay your attention on the following guides to configure a simple product by the 
       Step 5: Publish the Product
       Step 6: View the Product in Your Store
 
-## Step 1: `Choose the Product Type`
+## Step 1: Choose the Product Type
 
 * On the Admin sidebar, click `Products`. Then under `Inventory`, select `Catalog`.
 * In the upper-right corner on the `Add Product` menu, select `Simple Product`.
 
 ![add simple product](https://lh6.googleusercontent.com/KHyAeGIbHbyjPpLeJW7Ims9T5IRauiexpZ-8gZomoYKp89XbMQkuyMSHl5NCWp6Iv1PRHx_y-nZrK-xa4bqJ-6Uxx7TfnJXqRfYW1jzGRUsrQh9L7Gh3cv5O6nDw1SbFIAY9T9mb)
 
-## Step 2: `Choose the Product Template` (Optional)
+## Step 2: Choose the Product Template (Optional)
 
 To choose the product template, do one of the following:
   * In the `Search` box, enter the name of the template.
@@ -39,7 +39,7 @@ The form is updated to reflect the template.
 
 ![select template](https://lh5.googleusercontent.com/E6BR3_g9ttnKVLleRY3WZBmjMG3_EbYxlCticOt-th-m07cUnLOEpHBX84ezlkkP1ZvdPObgVPQ7fmX0a6L0-glAD6SI19tx8kDYb7cZe1aO2kkBKoDtrKSU5dRmnlBZwKKGviOH)
 
-## Step 3: `Complete the Required Fields`
+## Step 3: Complete the Required Fields
 
 * In the `Product Details` section. do the following:
   * Enter the product `Name`.
@@ -49,7 +49,7 @@ The form is updated to reflect the template.
 * Click `Save`, and continue with the next step.
 You can save the product settings after complete all the required fields complete.
 
-## Step 4: `Complete the Remaining Product Details`
+## Step 4: Complete the Remaining Product Details
 
 * Set `Tax Class` to one of the following:
   * None
@@ -73,14 +73,14 @@ A `placeholder` appears until a product image is uploaded.
 
 ![product detail](https://lh4.googleusercontent.com/v3FXI3lHDDXQzqxbA87M_Wg8-g24L8WkEgUA4lWdq77X8tiXaQI4RmClDXAzqrdAvxHQP2LE_QMbRZ3tbKIhEFH0XJYVRh8o7INLou_HO9caPsgn7q3SePXh3OW4i9TlNgjBUDXn)
 
-## Step 5: `Publish the Product`
+## Step 5: Publish the Product
 
 * If you are ready to publish the product in the catalog, set the `Product Online` switch to the “On” position.
 * When complete, on the `Save` menu, select `Save & Close`.
 
 ![save close](https://lh5.googleusercontent.com/dJ5LapJASKIKyOGmHsOW_yDEH_MfZUiBwT_rlQHUMfGU37ejJqouh68zEn5cPRO8YuaxhMv6LJHZLK66O3Cw1DDJ-F8SZhtfOZsTM7WOf_UqywRPOoNDCXdx5Nit1yBdylA8CKym)
 
-## Step 6: `View the Product in Your Store`
+## Step 6: View the Product in Your Store
 
 In the upper-right corner on the `Admin` menu, select `Customer View`
 
