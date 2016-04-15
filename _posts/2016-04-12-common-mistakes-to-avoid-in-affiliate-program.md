@@ -37,6 +37,6 @@ The conversation will bring more benefits than you think. This makes Affiliates 
 
 This is the common mistake of eCommerce businesses when working with your sales people. You are treating members as they’re employees instead of the trading partners they are. They’d love working how they want and when they want, so avoid making too many rules and ask them to jump through because you can lose lots of good affiliates without prediction.
 
-# Starting an Aff program is right for your store
+## Starting an Aff program is right for your store
 
 Setting up an Affiliate program is the smart strategy in the long-term of your online business. The five mistakes are listed you need to check and avoid even if you are starting or running the program. Hope your Affiliate program are always on the right foot, which will arm you to achieve the desired results in the future.
