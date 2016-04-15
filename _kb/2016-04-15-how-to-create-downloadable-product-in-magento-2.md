@@ -23,14 +23,14 @@ In the settings of the downloadable product, you can require customers to get li
      Step 6: Generate the Product
      Step 7: View the Product in Your Store
 
-## Step 1: `Select the Product Type`
+## Step 1: Select the Product Type
 
 * On the Admin sidebar, tap `Products > Inventory > Catalog`.
 * In the upper-right corner of the `Add Product` menu, select `Downloadable Product`.
 
 ![downloadable-product-type](https://lh6.googleusercontent.com/evPH0iIHPckloJ-ukj-NiHQZJS7B3kVq7fMsPBdsptA2C0w2SlyttTvA4g15t7xehPQDZwH6EQU65CDOfGGolFjJUIGLWOmX-i1SQTnTthd5xrDyqCqSCE2q9d1cY_oLC9zzcK-P)
 
-## Step 2: `Select the Product Template` (Optional)
+## Step 2: Select the Product Template (Optional)
 
 There is the same data called `Downloadable` that is a special field for the downloadable product.  Follow one of two ways to select the product template:
 
@@ -41,7 +41,7 @@ The corresonding form will be shown to configure.
  
 ![choose-downloadable-product-type](https://lh5.googleusercontent.com/HCx1cmiDdw-1XrDSMEq2nNvnv-Zg2yquqbjR5af8RLbLKrvClMjUO6knuo3wTZJ5C0WV9M_piTl4OoQsiS9UV614mpmW9Tx2kVBzjty_Ecsp2t2QyrL04u0eV5cu6QTXxCBH62QX)
 
-## Step 3: `Fill out the Required Fields`
+## Step 3: Fill out the Required Fields
 
 * In the `Product Detial` section, need to do:
   * Enter the `Name`.
@@ -50,7 +50,7 @@ The corresonding form will be shown to configure.
 * By now the product has been not yet ready to publish, let switch to the **Off** for `Product Online`.
 * Tap `Save` to finish this step.
 
-## Step 4: `Fill out the Remaining Product Details`
+## Step 4: Fill out the Remaining Product Details
 
 * Set `Tax Class` to **None** or **Taxable Goods**
 
@@ -75,11 +75,11 @@ The corresonding form will be shown to configure.
 
 ![downloadable-product-detials](https://lh4.googleusercontent.com/uEz_kIso-wWtpGLbEsCz_Bs96UsKdWiK8a-TS3xNq3OAOadO6D7Jqaf2BuX767kEdL3uRjOKkA4ukamDVtrwMfm3KaymDGiUU7MErSsAvKmeHPOiA7NSP2zWnnl4TfO-xwBRZPFP)
 
-## Step 5: `Fill out the Downloadable Information`
+## Step 5: Fill out the Downloadable Information
 
 The Downloadable Information is divided into two sections. The first section is link for the download, and the second section describes each sample file. The default value for many of these options can be set in the configuration.
 
-### `Link`
+### Link
   
   * In the `Links` section, enter the `Title`- a heading for the download links you want to use.
   * Set `Links can be purchased separately` to offer single or multiple download link.
@@ -97,7 +97,7 @@ The Downloadable Information is divided into two sections. The first section is 
   ![link-detial](https://lh5.googleusercontent.com/DrUJEW4vo1dOy-kyuTQOKi8qMO8JshsZi6ImcqHviLseJS8UeoSfEkfCsfSQPdbqBNoaAhEJxMLOs1kka3p--Wsv9If23G5khtZo_H8RoFnA4iAF-futA4DPaTrn0_XH-asSKQIK)
   * Click `Add New Link` again and repeat these steps if need to add others.
   
-### `Samples`
+### Samples
   
   * In the `Samples` section, enter the `Title`- a heading for the samples as you need to use.
   * Tap `Add New Link` to fill the sample information.
@@ -111,13 +111,13 @@ The Downloadable Information is divided into two sections. The first section is 
   * Click `Add New Link` again and repeat these steps if need to add others.
   * Change the order of the samples by dragging to new position with the sort icon.
 
-## Step 6: `Generate the Product`
+## Step 6: Generate the Product
 * Set the Product Online switch to the **On** position whenever you are ready to publish the product in the catalog.
 * Then `Save & Close` on the `Save` menu.
 
 ![save-close](https://lh3.googleusercontent.com/KRyMbyriioQWxOgHbKgOqNJ-FspkryLQaS6_A0Ct3ufZU-qaIEZ-IZO2x6MM78KpFKejBBP0zfqzpc5N7HT4bBjXTWxe43AxV-ZKcKlG8mWTUNH4gKBA9ejoSRgJlwJZiAmAR1Ma)
 
-## Step 7: `View the Product in Your Store`
+## Step 7: View the Product in Your Store
 
 On the `Admin` menu, choose `Customer View`.
 
