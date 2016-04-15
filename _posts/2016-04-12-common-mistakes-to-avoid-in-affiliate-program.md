@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Common Mistakes to Avoid in Affiliate Program
+title: "Common Mistakes to Avoid in Affiliate Program"
 permalink: "/blog/common-mistakes-to-avoid-in-affiliate-program.html"
 published: true
 categories: blog
-tags: affiliate program, mistakes in affiliate program, setup affiliate program, startup affiliate program
+tags: ["affiliate program"  "mistakes in affiliate program" "setup affiliate program" "startup affiliate program"]
 ---
 
 Regardless of products or services you are selling, starting up an Affiliate program will help you develop a new stream of income. Why do I say that? Affiliate program allows you to seek to a potential sales team who have a long-term cooperation with you basing on the beneficial relationship. That helps you possibly achieve the higher profits while the sales people can make money when referred visitor creates an order.
