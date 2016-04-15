@@ -36,7 +36,7 @@ redirect_from:
 
 
     <div class="row previews">
-    <h2>Magento 2 guides</h2>
+    <h2>Magento guides</h2>
         {% for post in site.kb %}
         {% if post.categories contains "magento" %}
                 <div class="col-lg-12 col-sm-12">

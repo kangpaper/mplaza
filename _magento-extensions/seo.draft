@@ -10,7 +10,7 @@ version: 1.0.0
 user-version: no
 categories: magento marketing
 permalink: "/magento-adwords-conversion-tracking/"
-publish: false
+published: false
 
 sort_order: 99
 screenshots:
