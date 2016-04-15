@@ -22,14 +22,14 @@ Gather many simple standalone products into a group which is called as Group Pro
      Step 7: Configure the Shopping Cart Thumbnails (Optional)
      Step 8: View the Product in Your Store
 
-## Step 1: `Select the Product Type`
+## Step 1: Select the Product Type
 
 * On the Admin sidebar, tap `Products > Inventory > Catalog`.
 * In the upper-right corner of the `Add Product` menu, select `Grouped Product`.
 
 ![choose-grouped-product](https://lh3.googleusercontent.com/pSbNR0czWjYrWphrTyVD_RYaXIHzRsvbgjf539dUJxtA-vVzSCzZncATRMXAnVfPwSDxeQ84ucbvRzuwu_J_2gp8QwBRvzb0SfyiQX-ECl64IyhFUbXPmov9Tc6Xgdy0OtRdz5Ib)
 
-## Step 2: `Select the Product Template` (Optional)
+## Step 2: Select the Product Template (Optional)
 
  Follow one of two ways to select the product template:
  
@@ -40,7 +40,7 @@ Gather many simple standalone products into a group which is called as Group Pro
 
 ![choose-grouped-product](https://lh3.googleusercontent.com/TTkyBio6G5svrXiBgD-_LDV_KNCOr_8YMKD2E614ol589LbbPnmR6lf90aQcAd6HxPgMkbhsxVcLlcQz21AkzeutaynWpV3evFPa13U7nVnQIOL6XkTxv3CidqEPKkRsTs3GMCoM)
 
-## Step 3: `Fill out the Required Fields`
+## Step 3: Fill out the Required Fields
 
 * In the `Product Detail` section, need to do:
   * Enter the `Name`.
@@ -48,7 +48,7 @@ Gather many simple standalone products into a group which is called as Group Pro
   
 * By now the product has been not yet ready to publish, let switch to the **Off** for `Product Online`.
 
-## Step 4: `Fill out the Remaining Product Details`
+## Step 4: Fill out the Remaining Product Details
 
 * To add an image for the product group, follow one of two options:
   * Drag and drop an image from your desktop on the `Camera` tile in the Images and Videos box.
@@ -68,7 +68,7 @@ Gather many simple standalone products into a group which is called as Group Pro
 
 ![create-grouped-product](https://lh6.googleusercontent.com/QeiGlevMQXXxvC-q_1zVkLKN9cyCtA-amWCQKgGpfTTC7avf27Hv1dSZvUqm8-fn3Ue-AttSeP86jXMmvqxlS3FjDpquTtMC3vRHaSblbnL_-hm6dC9NOSIYWbpUM-O6SdqhAc7g)
 
-## Step 5: `Add the Grouped Products`
+## Step 5: Add the Grouped Products
 
 * At the bottom of the Product Details page, expand the `Grouped Products` section. Then, tap `Add Products to Group`.
 * Find the products  by filtering at the top row of the grid. Then `Search`.
@@ -82,14 +82,14 @@ Gather many simple standalone products into a group which is called as Group Pro
   
   ![product-in-group](https://lh6.googleusercontent.com/F4qM7mfFbsuzL_GePAOwMb4-Z9Fgz_RbnyuG4m5EHebUhs_PT9DNSAy8tYLaxHh8y8ZmipcdpX7RWDjaFPIGUAxg3chhQGxkIQ5TKudwFbYkHNGJntfCbkjxJMBTpBVISP0hgXW9)
   
-## Step 6: `Generate the Product`
+## Step 6: Generate the Product
 
 * Set the Product Online switch to the “On” position whenever you are ready to publish the product in the catalog.
 * Then `Save & Close` on the `Save` menu.
 
 ![save-close](https://lh5.googleusercontent.com/6bvETmIvsXR7VssJDwNHsLZWm7pkoUjJbkW8i_otxCeT8DPMsGk6wM4a1iQjDdRGbBJF-RNziGf4XMiiWEsclLJR8kHMhrf6tljRTQKwNX5ufPt3aU0ehYgFVjz37dQR9xR7l0n9)
 
-## Step 7: `Configure the Shopping Cart Thumbnails` (Optional)
+## Step 7: Configure the Shopping Cart Thumbnails (Optional)
 
 Approve to set a different image for each variation in the shopping cart thumbnail if you need.
 
@@ -100,7 +100,7 @@ Approve to set a different image for each variation in the shopping cart thumbna
 
 ![grouped-product-image](https://lh6.googleusercontent.com/d8B4p2cQbCyjL9TOfurIZwKLfe9lbx8JoLS5G1hz7zBlPPJM5quoQv-buJt6vMyBYzsJ-ur02jcLXDoIuFCM-nruhYm59zb6n60-qnDiCL9MCHtCxqbZcBb7FSpdEMv8l_Yh_8WL)
 
-## Step 8: ` View the Product in Your Store`
+## Step 8: View the Product in Your Store
 
 On the `Admin` menu, choose `Customer View`.
 
