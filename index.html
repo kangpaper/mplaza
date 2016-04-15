@@ -57,12 +57,12 @@ redirect_from:
     <div class="row">
          <div class="col-md-6">
             <div class="row-heading text-center">
-                <h3>Recent Guides</h3>
-                <p class="lead">Follow up our Guides</p>
+                <h3>Recent Knowledge Base</h3>
+                <p class="lead">Follow up our Knowledge bases</p>
             </div>
 
             <div class="row-content">
-                {% for post in site.kb %}
+                {% for post in site.kb | sort: 'date', 'last' %}
                     <div class="post-list-item">
                         <a href="{{ site.url }}{{ post.url }}" class="post-image-link">
                             <h4>{{ post.title }}</h4>
