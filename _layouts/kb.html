@@ -116,8 +116,7 @@
 
 			{% for post in posts %}
 				{% for category in post.categories %}
-					{% for siteKb in site.kb %}
-						{% for kbCategory in siteKb.categories %}
+						{% for kbCategory in page.categories %}
 							{% if category = kbCategory %}
 								<div class="col-lg-12 col-sm-12">
 									<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
@@ -127,7 +126,6 @@
 								</div>
 							{% endif %}
 						{% endfor %}
-					{% endfor %}
 
 				{% endfor %}
 					 
