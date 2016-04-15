@@ -69,7 +69,7 @@
 		<hr class="small">
 
 
-		<div class="col-lg-12 col-md-12" id="related-section">
+		<div class="row col-lg-12 col-md-12" id="related-section">
 
 
 			<h3>You also may like</h3>
@@ -106,23 +106,35 @@
 
 
 
-	<div class="row">
+		<div class="row">
 
-		<h3>Related knowledged base</h3>
+			<h3>Related knowledged base</h3>
 
-		
-
-		{% for post in site.related_posts %}
-			<div class="col-lg-12 col-sm-12">
-				<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
-	                <h2>{{ post.title }}</h2>
-	            </a>
-	            <p>{{ post.excerpt | strip_html }}</p>
-			</div>	 
-	 
-		{% endfor %}
 			
-	</div>
+
+			{% assign posts = site.kb limit:5 %}
+
+			{% for post in posts %}
+				{% for category in post.categories %}
+					{% for siteKb in site.kb %}
+						{% for kbCategory in siteKb.categories %}
+							{% if category = kbCategory %}
+								<div class="col-lg-12 col-sm-12">
+									<a href="{{ site.url }}{{ post.url }}" class="post-image-link">
+						                <h2>{{ post.title }}</h2>
+						            </a>
+						            <p>{{ post.excerpt | strip_html }}</p>
+								</div>
+							{% endif %}
+						{% endfor %}
+					{% endfor %}
+
+				{% endfor %}
+					 
+		 
+			{% endfor %}
+				
+		</div>
 
 
 	</div>
