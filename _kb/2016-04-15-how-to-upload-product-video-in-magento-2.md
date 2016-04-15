@@ -2,7 +2,7 @@
 layout: kb
 title: How to upload Product Videos in Magento 2
 permalink: /kb/how-to-upload-product-videos-in-magento-2.html
-published: false
+published: true
 categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to upload product videos
 ---
