@@ -7,7 +7,7 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to upload images watermarks
 ---
 
-If you don’t want anyone but you use the original product image you have already published, set the product watermarks for each image to identify them as yours. Many types of image are supported here as .jpg (jpeg), .gif, or .png image. An example for the product watermark settings:
+If you don’t want anyone but you use the original product image you have already published, set the image watermarks for each image to identify them as yours. Many types of image are supported here as .jpg (jpeg), .gif, or .png image. An example for the image watermark settings:
 
 * Size: 200x300 
 * Opacity: 40
