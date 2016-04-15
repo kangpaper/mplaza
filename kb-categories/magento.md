@@ -18,7 +18,7 @@ permalink: /kb/magento/
 	                    <h2>{{ post.title }}</h2>
 	                </a>
 
-	                <p>{{ post.excerpt }}</p>
+	                <p>{{ post.excerpt | strip_html }}</p>
 				</div>	 
 			{% endif %}
 		{% endfor %}

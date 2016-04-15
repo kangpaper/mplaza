@@ -19,7 +19,7 @@ permalink: /kb/magento-2-user-guide/
 	                    <h2>{{ post.title }}</h2>
 	                </a>
 
-	                <p>{{ post.excerpt }}</p>
+	                <p>{{ post.excerpt | strip_html }}</p>
 				</div>	 
 			{% endif %}
 		{% endfor %}
