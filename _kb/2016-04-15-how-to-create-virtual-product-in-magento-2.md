@@ -20,13 +20,13 @@ Virtual products are the represent product as non-tangible items as memberships,
      Step 5: Generate the Product
      Step 6: View the Product in Your Store
 
-## Step 1: `Select the Product Type`
+## Step 1: Select the Product Type
 * On the Admin sidebar, tap `Product > Inventory > Catalog`.
 * In the upper-right corner on the `Add Product` menu, choose `Virtual Product`.
 
 ![choose-virtual-product](https://lh6.googleusercontent.com/OkiXR-kaZOyTLfHcy4qOYMJ7UlAhbEHcqDbQaB9jCiRqvb4vO9ClLr3iMPHQlK7ZZKQLhGybQ7PMdw4n_RB1y9HKWdw0mkXnFUaBwOEV5KubilZBSO80Fwkif5ORzOkkOfKqkBMI)
 
-## Step 2: `Select the Product Template`
+## Step 2: Select the Product Template
 
 Follow one of two ways to select the product template:
 
@@ -37,7 +37,7 @@ The corresonding form will be shown to configure.
 
 ![choose-product-template](https://lh6.googleusercontent.com/bexZnAhiL8zv5f9c4HF5lWp66dB9PLY4rvuKN-4D0Eu2755bRVmKD43Usvry46S4iJ4p3EZOO-N6UhSywWRtMPYW9Sv3ZKASg-OkRFRSk5O6L82622e9rDaPwZrRYlfrXRKNQqjz)
 
-## Step 3: `Fill out the Required Fields`
+## Step 3: Fill out the Required Fields
 * In the `Product Detail` section, need to do:
   * Enter the `Name`.
   * Use the default SKU for the product, or offer another value.
@@ -45,7 +45,7 @@ The corresonding form will be shown to configure.
 * By now the product has been not yet ready to publish, let switch to the **Off** for `Product Online`.
 * Tap `Save` to finish this step.
 
-## Step 4: `Fill out the Remaining Product Details`
+## Step 4: Fill out the Remaining Product Details
 * To set `Tax Class`, follow one of the options:
   * None
   * Taxable Goods
@@ -68,13 +68,13 @@ The corresonding form will be shown to configure.
 
 ![product-detaill](https://lh6.googleusercontent.com/SHJgW45Bk3USdUtf0YdwB87rltKGxal5N66x8SrPLfkDDsZ57WXsaOZg37C-hxbJHOMO7-YwcxeqCwgN2m51EKBedoZtAsF5BVDKTQkjCGJ2O_j8l69fYMifCWmK2RWhESiU63wJ)
 
-## Step 5: `Generate the Product`
+## Step 5: Generate the Product
 * Set the Product Online switch to the **On** position whenever you are ready to publish the product in the catalog.
 * Then `Save & Close` on the `Save` menu.
 
 ![save-close](https://lh3.googleusercontent.com/KRyMbyriioQWxOgHbKgOqNJ-FspkryLQaS6_A0Ct3ufZU-qaIEZ-IZO2x6MM78KpFKejBBP0zfqzpc5N7HT4bBjXTWxe43AxV-ZKcKlG8mWTUNH4gKBA9ejoSRgJlwJZiAmAR1Ma)
 
-## Step 6: `View the Product in Your Store`
+## Step 6: View the Product in Your Store
 
 On the `Admin` menu, choose `Customer View`.
 
