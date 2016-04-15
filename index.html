@@ -62,7 +62,7 @@ redirect_from:
             </div>
 
             <div class="row-content">
-                {% for post in site.kb | sort: 'date', 'last' %}
+                {% for post in site.kb limit: 10 | sort: 'date', 'last' %}
                     <div class="post-list-item">
                         <a href="{{ site.url }}{{ post.url }}" class="post-image-link">
                             <h4>{{ post.title }}</h4>
