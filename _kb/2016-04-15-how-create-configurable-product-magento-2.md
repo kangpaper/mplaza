@@ -133,7 +133,7 @@ The images, pricing and quantity will be set in this step while you can choose o
   
   ### Configure the Prices
 
-  #### Method 1: `Apply the Same Price to All SKUs`
+  #### Method 1: Apply the Same Price to All SKUs
 
    * Select `Apply single price to all SKUs`.
    * Enter the `Price`.
