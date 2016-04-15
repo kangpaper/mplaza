@@ -63,7 +63,7 @@ redirect_from:
 
             <div class="row-content">
                 {% assign sorted_kbs = (site.kb | sort: 'date' 'last') %}
-                {% for post in sorted_kbs limit: 10  %}
+                {% for post in sorted_kbs limit: 20 %}
                     <div class="post-list-item">
                         <a href="{{ site.url }}{{ post.url }}" class="post-image-link">
                             <h4>{{ post.title }}</h4>
