@@ -1,0 +1,23 @@
+---
+layout: kb
+title: "How to Setup Tier Price in Magento 2"
+permalink: "/kb/how-to-setup-tier-price-in-magento-2.html"
+published: true
+categories: magento-2 magento-2-tutorial
+tags: magento-2 how-to setup tier price 
+---
+
+## Set up a tier price
+* Open the product in edit mode.
+* In the basic settings panel, `Advanced Settings > Advanced Pricing`.
+* In the Tier Price section, tap `Add Tier` and do the following:
+
+![set-up-tier-pricing](https://lh6.googleusercontent.com/FalOQ0YW97AHtJyulacRmsBIZ2UlLF10tWRMJwFAz2MLPBmMV6lHyb3WuMQSy75M0-kC3kc16n8DSnjgTARGA9zJsMpetIrBm9z2BLAXOPx7-whhl0S9L4Gpk_deshF6WnUvpY8x)
+
+  * If your store has multiple websites, choose the `Website` where the tier pricing applies.
+  * Select the `Customer Group` who receive the discounted price.
+  * In the `Quantity` field, enter the quantity that must be ordered to receive the tier price.
+  * In the `Item Price` field, enter the adjusted price of the item.
+    
+    Enable to add as many tiers as you need by clicking on `Add Tier` and repeat these steps.
+* Tap `Save` to complete.
