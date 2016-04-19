@@ -21,7 +21,7 @@ redirect_from:
                     <img src="{{ site.url }}{{ post.image }}" alt="{{ post.description }}">
                 </a>
                 <div class="caption">
-                    <h4>{{ post.title }}</h4>
+                     <a href="{{ site.url }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
 
                     <p>
                         <button type="button" class="btn btn-primary">{% if post.price == 0 %}FREE{% else %} ${{ post.price }}{% endif %}</button>
