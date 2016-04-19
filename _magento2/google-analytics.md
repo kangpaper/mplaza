@@ -10,7 +10,6 @@ version: 1.0.0
 user-version: no
 categories: magento marketing
 permalink: "/magento-2-google-analytics-pro/"
-
 sort_order: 15
 screenshots:
   - /assets/img/extensions-images/m2-google-analytics/right-now.png
@@ -18,7 +17,6 @@ screenshots:
   - /assets/img/extensions-images/m2-google-analytics/report.png
   - /assets/img/extensions-images/m2-google-analytics/segment.png
   - /assets/img/extensions-images/m2-google-analytics/country.png
-
 demo: 
 download: 
 price: 0
@@ -27,7 +25,7 @@ review_count: 1
 ---
 
  
-<h2>Google Analytics Pro</h2>
+<h2>Magento 2 Google Analytics Pro</h2>
 Google Analytics is the free Google service and almost webmasters rely on its role in evaluating the effectiveness of online marketing campaign specifically as the traffic to website and conversion rate into customers in exact period of time. 
 
 Google Analytics extension is provided in order to help Magento stores use Google Analytics functionality more easily and conveniently. 
