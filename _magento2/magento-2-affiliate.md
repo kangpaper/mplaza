@@ -1,8 +1,8 @@
 ---
 layout: extension
-title: Magento 2 Affiliate Extension
+title: "Magento 2 Affiliate Extension"
 description: "Magento Affiliate extension is one of the most effective marketing solution for selling online. Creating affiliate program on your website, it helps you to boost traffic, leads, sales or higher SEO rankings."
-meta-title: Magento 2 Affiliate Extension
+meta-title: "Magento 2 Affiliate Extension"
 meta-description: "Magento Affiliate extension is one of the most effective marketing solution for selling online. Creating affiliate program on your website, it helps you to boost traffic, leads, sales or higher SEO rankings."
 image: "/assets/img/extensions/magento-2-affiliate.png"
 version: "1.0.0"
@@ -74,14 +74,14 @@ Pay-Per-Click (PPC) advertising: Running Google Adwords campaigns to promote our
 ## Manage affiliates
 
 Store owner easily manages affiliate accounts on the backend. A table will be shown very clearly about account information as customer email, group, balance, total commission, total paid, etc.
-You can also create a new affiliate account on the backend by click to &ldquo; Add account&rdquo; button and assign the affiliate to the specific group.
+You can also create a new affiliate account on the backend by click to Add account button and assign the affiliate to the specific group.
 
 ## Multiple payment methods
 Affiliate Payment plugin gives you the ability to use many payment methods like PayPal, offline payment, to pay commission for your affiliates.
 Affiliates are allowed to withdraw their commission or use their store credit for paid order on that site. Admin can configure the maximum or minimum of the withdrawal amount. And set the limited time to allow affiliate cancel their withdrawal request.
 
 ## Transactions history
-It is extremely easy to track and monitor the affiliate&rsquo;s transactions that included the order number, commission, date time.
+It is extremely easy to track and monitor the affiliate's transactions that included the order number, commission, date time.
 
 ## Refer friends in Magento 2 Affiliate
 Allow Affiliates easily connect and share on many popular social networks like Facebook, Twitter, Google+ or via email, and simply broadcast referral link to earn the attractive amounts of commission.
@@ -90,7 +90,7 @@ Allow Affiliates easily connect and share on many popular social networks like F
 The store owner can upload differently customized banners and affiliates can place affiliate banners on their websites, blogs or any social networks, then they can earn commission for referrals. A banner can be visible on specific customer groups, store views, assigned to specific links and affiliate groups. In the Statistics ​tab, you can view statistic of this banner (the number of clicks, impression).
 
 ## Email notifications
-Email confirmation and notification for both admin and clients (new members, update Affiliate information, new programs, balance change, withdraw &hellip;)
+Email confirmation and notification for both admin and clients (new members, update Affiliate information, new programs, balance change, withdraw )
 
 
 
