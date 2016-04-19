@@ -11,11 +11,7 @@ The Search Engine Optimization in the basic settings of each product contains pr
 
 ![seo](https://lh5.googleusercontent.com/elK9YdjVoaw7D1ewyKUnTd1BETDxG_6p4UpsqnfJXDCz3gUyvQTKztEOffSe4ezoqNHzdicUQPuasNqjqMsnT6gkcg-H1bEWq6RtiTOm4o2fRm__uCbXodk5jzLuz8mOeSX_kOsk)
 
-* URL Key 
-  Allow customers to access directly the online address of the product. The URL key is added to the base URL of the store, and appears in the address bar of a browser. Especially, by default the URL for Magento product can be based on the product name.
-* Meta Title
-  The title appears in the title bar and tab of your browser, and is also used as the title on a search engine results page.
-* Meta Keywords
-  The keywords related to the product are listed. But it is neccessary to consider which keywords are relevant for customers to find the product.
-* Meta Description
-  A brief overview of the page for search results listings. An ideal length is between 150-160 characters in length, with a maximum of 255 characters. 
+* `URL Key` allows customers to access directly the online address of the product. The URL key is added to the base URL of the store, and appears in the address bar of a browser. Especially, by default the URL for Magento product can be based on the product name.
+* `Meta Title` will title appears in the title bar and tab of your browser, and is also used as the title on a search engine results page.
+* `Meta Keywords` lists the keywords related to the product. But it is neccessary to consider which keywords are relevant for customers to find the product.
+* `Meta Description` is a brief overview of the page for search results listings. An ideal length is between 150-160 characters in length, with a maximum of 255 characters. 
