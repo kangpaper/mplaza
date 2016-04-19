@@ -28,11 +28,13 @@ rating: 95
 review_count: 3
 ---
 
-## Affiliate marketing is an effective marketing strategy
 
 This is the process of earning a commission by promoting services or products of other companies.
 Once affiliates refer a sale to you, they get paid a commission.
 There are few numbers to prove that Affiliate Marketing is real effectively process to increase merchant sale and this marketing method growing up significantly.
+
+## Affiliate marketing is an effective marketing strategy
+
 
 ## WHY BE OUR AFFILIATE MATTER?
 
