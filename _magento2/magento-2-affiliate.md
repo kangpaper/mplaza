@@ -27,6 +27,7 @@ price: 0
 rating: 95
 review_count: 3
 ---
+
 <h2>Affiliate marketing is an effective marketing strategy</h2>
 
 This is the process of earning a commission by promoting services or products of other companies.
