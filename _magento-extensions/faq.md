@@ -1,9 +1,9 @@
 ---
 layout: extension
 title: FAQ
-description: "FAQ allows customers to find answered questions on articles list."
-meta-title: "Magento FAQ Knowledge Base Extension"
-meta-description: "FAQ allows customers to find answered questions on articles list."
+description: "Magento 2 FAQ allows customers to find answered questions on articles list."
+meta-title: "Magento 2 Magento 2 FAQ Knowledge Base Extension"
+meta-description: "Magento 2 FAQ allows customers to find answered questions on articles list."
 meta-keywords: ""
 image: "/assets/img/extensions/faq.jpg"
 version: 1.0.0
@@ -19,7 +19,6 @@ screenshots:
   - /assets/img/extensions-images/faq/product_edit_tag.png
   - /assets/img/extensions-images/faq/select_associated_products.png
   - /assets/img/extensions-images/faq/tab_product_view.png
-  - /assets/img/extensions-images/faq/tab_product_view.png
 
 demo: 
 download: https://www.magentocommerce.com/magento-connect/knowledge-base-5.html
@@ -29,12 +28,12 @@ review_count: 1
 
 ---
 
-FAQ
---------
+Magento 2 FAQ
+-----------------
 
-FAQ allows customers to find answered questions on articles list. FAQ is an effective way to improve customer experience and reduce customer related enquiries. Point your customers with questions to instant service resource so they can find all the necessary information to make a confident purchase in your store.
+Magento 2 FAQ allows customers to find answered questions on articles list. Magento 2 FAQ is an effective way to improve customer experience and reduce customer related enquiries. Point your customers with questions to instant service resource so they can find all the necessary information to make a confident purchase in your store.
 
-FAQ is a perfect way and a feature rich resolution to help your customers find solutions for their needs in a fully independent support resource that is easy to manage. It is an effective knowledge sharing point, which allows your customers to self-service the solutions to their problems before contacting the helpdesk team.
+Magento 2 FAQ is a perfect way and a feature rich resolution to help your customers find solutions for their needs in a fully independent support resource that is easy to manage. It is an effective knowledge sharing point, which allows your customers to self-service the solutions to their problems before contacting the helpdesk team.
 
 This extension will help you organize better all Questions & Answers, by grouping them into special categories and assign them tags, for better indexing. Answers can be easily edited, and photos can be integrated in these answers.
 
