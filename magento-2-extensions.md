@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <div class="container">
-	<div class="row previews">
+	<!-- <div class="row previews">
 		{% for post in site.magento2 %}
 		<div class="col-lg-4 col-sm-6">
             <div class="thumbnail">
@@ -29,7 +29,7 @@ redirect_from:
         </div>  
 		{% endfor %}
 	</div>
-
+ -->
 
 
 
