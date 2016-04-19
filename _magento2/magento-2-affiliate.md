@@ -37,38 +37,38 @@ There are few numbers to prove that Affiliate Marketing is real effectively proc
 
 ## WHY BE OUR AFFILIATE MATTER?
 
-Affiliate marketing is considered to be one of the world's fastest growing and best internet marketing techniques to earn money online and I will explain why:
+Affiliate marketing is considered to be one of the world's fastest growing and best internet marketing techniques to earn money online and I will explain why
 
-    - Cost effective: Marketing on the internet is cheap and you don't have to worry about the production cost as the product is already developed by the seller. You don't need a physical business location or hire employees either.
-    
-    - Global Market:Online marketing gives you the opportunity to reach people all over the world easily.
-    
-    - No Fees: You don't need to pay anything to join affiliate programs.
-    
-    - No Storage No Shipping:You don't need to worry about storage, packing or shipment of the product. They are all taken care of by us.
-    
-    - No customer support:You don't need to provide any customer support or deal with consumer complaints as we do that for you.
-    
-    - Passive income:A regular job can give you a fixed income as long as you continue to work. Depending on your marketing skill Affiliate marketing can create a steady flow of income even when you are not in front of your computer.
-    
-    - Work from home:If you make enough money then you don't have to worry about going to work at the same time every day or getting stuck in traffic. You can work in the comfort of your own home.
-    
+- Cost effective: Marketing on the internet is cheap and you don't have to worry about the production cost as the product is already developed by the seller. You don't need a physical business location or hire employees either.
+
+- Global Market:Online marketing gives you the opportunity to reach people all over the world easily.
+
+- No Fees: You don't need to pay anything to join affiliate programs.
+
+- No Storage No Shipping:You don't need to worry about storage, packing or shipment of the product. They are all taken care of by us.
+
+- No customer support:You don't need to provide any customer support or deal with consumer complaints as we do that for you.
+
+- Passive income:A regular job can give you a fixed income as long as you continue to work. Depending on your marketing skill Affiliate marketing can create a steady flow of income even when you are not in front of your computer.
+
+- Work from home:If you make enough money then you don't have to worry about going to work at the same time every day or getting stuck in traffic. You can work in the comfort of your own home.
+
 
 
 ## THERE ARE SOME SIMPLE WAYS TO MAKE MONEY WITH OUR PROGRAMS
 
-    - Share your refer links with your friends on Social networks such as Facebook, Twitter, Google+
-    
-    - Youtube: This is one of the most marketing tools nowsaday. Just upload a simple review video of products. To become your videos more popular, sahre them on Social networks: Facebook, Twitter, Google+
-    
-    - Email: If you have a list of subscribers or opted in to receive email offers from you. You can tell them about our website. Note: do not spam in any way.
-    
-    - Write a product review on Article Directories. Writing a new of our products and let them know how good it is. Submit your article reviews to article directories such as EzineArticles , GoArticles.
-    
-    - Post your review post of our products to your blogs. You can create a free blog at Blogger.com, Wordpress.com, Blog.com
-    
-    - Post a press release at PRWeb.com, that include your product review of our products with your refer link (try using Deep link generator). You may get thousands of vistiros with a small fee per post.
-    
+- Share your refer links with your friends on Social networks such as Facebook, Twitter, Google+
+
+- Youtube: This is one of the most marketing tools nowsaday. Just upload a simple review video of products. To become your videos more popular, sahre them on Social networks: Facebook, Twitter, Google+
+
+- Email: If you have a list of subscribers or opted in to receive email offers from you. You can tell them about our website. Note: do not spam in any way.
+
+- Write a product review on Article Directories. Writing a new of our products and let them know how good it is. Submit your article reviews to article directories such as EzineArticles , GoArticles.
+
+- Post your review post of our products to your blogs. You can create a free blog at Blogger.com, Wordpress.com, Blog.com
+
+- Post a press release at PRWeb.com, that include your product review of our products with your refer link (try using Deep link generator). You may get thousands of vistiros with a small fee per post.
+
 
 Pay-Per-Click (PPC) advertising: Running Google Adwords campaigns to promote our products with your refer links. You can generate income with our affiliate program.
 
