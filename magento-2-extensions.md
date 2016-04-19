@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-	<!-- <div class="row previews">
+	<div class="row previews">
 		{% for post in site.magento2 %}
 		<div class="col-lg-4 col-sm-6">
             <div class="thumbnail">
@@ -32,11 +32,11 @@ redirect_from:
         </div>  
 		{% endfor %}
 	</div>
- -->
 
 
 
-<!-- 
+
+
     <div class="row previews">
     <h2>Magento 2 guides</h2>
         {% for post in site.kb %}
@@ -51,7 +51,7 @@ redirect_from:
         {% endfor %}
          
         {% endfor %}
-    </div> -->
+    </div>
 
 
 </div>
