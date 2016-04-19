@@ -1,5 +1,5 @@
 ---
-layout: extension
+layout: magento2
 title: "Magento 2 Reward Points"
 description: "A proper answer from Magento 2 Reward Points extension helping create a powerful loyalty program to enhance the customer experience on your store by earning and spending unlimited reward points."
 meta-title: "Magento 2 Reward Points Extension - Loyalty program system"

@@ -1,5 +1,5 @@
 ---
-layout: extension
+layout: magento2
 title: M2 Google Analytics Pro
 description: "Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store"
 meta-title: "Magento 2 Google Analytics Extension"

@@ -1,5 +1,5 @@
 ---
-layout: extension
+layout: magento2
 title: "Magento 2 Affiliate Extension"
 description: "Magento 2 Affiliate extension is one of the most effective marketing solution for selling online. Creating affiliate program on your website, it helps you to boost traffic, leads, sales or higher SEO rankings."
 meta-title: "Magento 2 Affiliate Extension"

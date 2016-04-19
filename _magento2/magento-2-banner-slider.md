@@ -1,5 +1,5 @@
 ---
-layout: extension
+layout: magento2
 title: "Magento 2 Banner Slider"
 description: "Magento 2 Banner slider for Magento is jQuery banner Slider you can create Unlimited beautiful responsive banner Slider"
 meta-title: "Magento 2 Banner Slider Extension"
