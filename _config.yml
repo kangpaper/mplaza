@@ -24,13 +24,13 @@ disqus_shortname: "mageplaza"
 subcriber_url: "http://t.us3.list-manage1.com/subscribe/post?u=531af730d34352cf489&amp;id=0416bef2d9"
 
 # Build Settings
-markdown: kramdown
+# markdown: kramdown
 encoding: UTF-8
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
   # toc_levels: 1..6
   # enable_coderay: true
 
@@ -49,8 +49,8 @@ permalink: "/:title.html"
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-future: true
-highlighter: rouge
+# future: true
+# highlighter: rouge
 
 # gems:
   # - jekyll-redirect-from
