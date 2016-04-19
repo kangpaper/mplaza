@@ -29,3 +29,84 @@
     </div>
     <!-- /.container -->
 </nav>
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "{{ site.url }}",
+      "logo": "{{ site.url }}/assets/img/logo.jpg"
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Organization",
+      "url" : "{{ site.url }}",
+      "contactPoint" : [{
+        "@type" : "ContactPoint",
+        "telephone" : "{{ site.phone }}",
+        "contactType" : "Customer service"
+      }]
+    }
+</script>
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "{{ site.name }}",
+  "url" : "{{ site.url }}",
+  "sameAs" : [
+    "https://www.facebook.com/mageplaza/",
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "{{ site.url }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ site.url }}/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "WebSite",
+  "name" : "Mageplaza",
+  "alternateName" : "{{ site.name }}",
+  "url" : "{{ site.url }}"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Restaurant",
+  "@id": "{{ site.phone }}",
+  "name": "{{ site.name }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2835 Barnes Street",
+    "addressLocality": "Florida",
+    "addressRegion": "FL",
+    "postalCode": "32805",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.0625,
+    "longitude": -95.677068
+  },
+  "url": "{{ site.url }}",
+  "telephone": "{{ site.phone }}"
+}
+</script>
