@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How to Setup Advanced Pricing, Tier Pricing in Magento 2
+title: "How to Setup Advanced Pricing, Tier Pricing in Magento 2"
 permalink: /kb/how-to-setup-advanced-pricing-tier-pricing-in-magento-2.html
 published: true
 categories: magento-2 magento-2-tutorial

@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How to setup store information: phone number, address, VAT number in Magento 2
+title: "How to setup store information: phone number, address, VAT number in Magento 2"
 permalink: /kb/how-setup-store-information-magento-2.html
 published: true
 categories: magento-2 magento-2-tutorial

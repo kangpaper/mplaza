@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How to remove / manage message inbox in Magento 2
+title: "How to remove / manage message inbox in Magento 2"
 permalink: /kb/how-remove-manage-message-inbox-magento-2.html
 published: true
 categories: magento-2 magento-2-tutorial
