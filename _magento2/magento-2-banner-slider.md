@@ -10,9 +10,9 @@ user-version: no
 categories: magento banner
 permalink: "/magento-2-banner-slider-extension/"
 screenshots:
-  - "/assets/img/extensions-images/magento-2-affiliate/admin.png"
-  - "/assets/img/extensions-images/magento-2-affiliate/demo.png"
-  - "/assets/img/extensions-images/magento-2-affiliate/demo_2.png"
+  - "/assets/img/extensions-images/magento-2-banner-slider/admin.png"
+  - "/assets/img/extensions-images/magento-2-banner-slider/demo.png"
+  - "/assets/img/extensions-images/magento-2-banner-slider/demo_2.png"
 
 sort_order: 16
 demo: 
@@ -23,7 +23,7 @@ review_count: 3
 ---
 
 
-<p>Banner slider is an banner slider extension for Magneto that enables you to create image carousel slider, image scroller and video LightBox. The extension supports images, YouTube, Vimeo, mp4 and webm videos. It's fully responsive, works on iPhone, iPad, Android, Firefox, Chrome, Safari, Opera and Internet Explorer.</p>
+<p>Magento 2 Banner slider extension is an banner slider extension for Magneto that enables you to create image carousel slider, image scroller and video LightBox. The extension supports images, YouTube, Vimeo, mp4 and webm videos. It's fully responsive, works on iPhone, iPad, Android, Firefox, Chrome, Safari, Opera and Internet Explorer.</p>
 <p>Fully written in jQuery, touch enabled extension based on OWL Carousel that lets you create beautiful responsive carousel slider.</p>
 
 
