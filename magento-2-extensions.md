@@ -10,6 +10,9 @@ redirect_from:
 ---
 
 <div class="container">
+
+
+
 	<!-- <div class="row previews">
 		{% for post in site.magento2 %}
 		<div class="col-lg-4 col-sm-6">
