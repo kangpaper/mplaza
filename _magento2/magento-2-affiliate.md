@@ -10,15 +10,15 @@ user-version: no
 categories: magento affiliate
 permalink: "/magento-2-affiliate-extension/"
 screenshots:
-  - /assets/img/extensions-images/magento-2-affiliate/affiliates.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/campaigns.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/configuration.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/edit-campaign.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/frontend.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/menu.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/refer-friends.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/transactions.jpg
-  - /assets/img/extensions-images/magento-2-affiliate/withdrawal.jpg
+  - "/assets/img/extensions-images/magento-2-affiliate/affiliates.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/campaigns.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/configuration.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/edit-campaign.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/frontend.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/menu.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/refer-friends.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/transactions.jpg"
+  - "/assets/img/extensions-images/magento-2-affiliate/withdrawal.jpg"
 
 sort_order: 15
 demo: 
