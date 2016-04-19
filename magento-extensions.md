@@ -35,22 +35,5 @@ redirect_from:
 
 
 
-    <div class="row previews">
-    <h2>Magento guides</h2>
-        {% for post in site.kb %}
-        {% if post.categories contains "magento" %}
-                <div class="col-lg-12 col-sm-12">
-                    <a href="{{ site.url }}{{ post.url }}" class="post-image-link">
-                        <h2>{{ post.title }}</h2>
-                    </a>
-
-                    <p>{{ post.excerpt | strip_html }}</p>
-                </div>   
-        {% endfor %}
-         
-        {% endfor %}
-    </div>
-
-
 
 </div>
