@@ -1,9 +1,0 @@
----
-layout: kb
-title: How To Migrate Upgrade Magento 1 to Magento 2 - Completed Guides
-permalink: /kb/how-migrate-upgrade-magento-1-magento-2.html
-published: false
-categories: magento-2 magento-2-tutorial
-tags: magento-2 how-to migrate magento-1
----
-
