@@ -15,8 +15,6 @@ In Magento forum, you can see there are many people had same problem.
 
 
 
-
-
 ## You did not sign in correctly or your account is temporarily disabled.
 
 
