@@ -12,6 +12,8 @@ After Install Magento 2 package, you may face with the folder permissions error 
 
 In Magento Community forum, there are many people had the same problem. 
 
+![Your web server is set up incorrectly and allows unauthorized access to sensitive files](https://lh4.googleusercontent.com/49NFne2labL6uS3EShJDZpEiVNz64EHu_-jfw-kO5QgArEP1wTs4XXNmwWgJbsm5_Ni9MfHYgmteWA45p_dqj88Ejp_IWN_qwOFAMZNemRSd5F0hPzRBQGj6anyNSVPRvWY_7VqK)
+
 When look into Magento 2 Code Core, you can see class `Magento\AdminNotification\Model\System\Message\Security` function `getText()` It return the following message: 
 
 ```
