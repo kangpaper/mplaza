@@ -10,6 +10,7 @@ tags: magento-2 how-to account disabled
 When you try to login to your Magento admin, you got this message ``You did not sign in correctly or your account is temporarily disabled`` . You don't know that you are not using username or password. In this guide, we will show to how to resolve this sign in problem "You did not sign in correctly or your account is temporarily disabled".
 
 In Magento forum, you can see there are many people had same problem.
+
 ![You did not sign in correctly or your account is temporarily disabled](https://lh4.googleusercontent.com/MxzGBZWUuJL1-8cZdlv8jP4pUvsGOQ0gbWAaVcrM-B-NHnJ31UDOp7e5mHFyL2Z0p-L4AJlxy-spME255OzZVu2tqPPqZy8cTvBy_wXu5cSFvX1V0UQiaiAc_KXYGsDBx6RYiPRn)
 
 
