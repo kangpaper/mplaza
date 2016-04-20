@@ -46,7 +46,7 @@ People usally use `admin` as first admin account. This is security issue for you
 The best way to protect your Magento store against a brute-force attack is to – and advise other administrators to – use a strong password. 
 The rule:
 
-- Password lenght: > 8
+- Password length: > 8
 - Includes number
 - Includes chracters (Lowercase and Uppercase  Characters)
 - Include Symbols: optional
