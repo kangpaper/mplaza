@@ -31,4 +31,4 @@ With Tier Pricing config, you can give a certain group or store view a special o
     
     Enable to add as many tiers as you need by clicking on `Add Tier` and repeat these steps. For exxample, you set up 2 tiers for a product while tier 1 requests for 2 products in an order and tier 2 needs for 5 items. If your customer have 4 items in the cart, the offer for tier 1 will apply for that order. Only when the number of product in the cart is 5, the customer will get the discounted price in the tier 2 instead of the discount in the tier 1.
 
-* Hit `Save` button to finish.
+* Hit the `Save` button to finish.
