@@ -125,3 +125,13 @@ Go to `System > Configuration > Website`
 
 
 
+```php
+
+<?php
+
+echo 'Magento';
+
+Mage::getModel('catalog/product')->getCollection();
+
+?>
+```
