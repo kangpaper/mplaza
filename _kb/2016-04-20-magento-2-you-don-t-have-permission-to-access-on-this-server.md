@@ -1,7 +1,7 @@
 ---
 layout: kb
 title: "Magento 2 You Don't Have Permission To Access / On This Server"
-permalink: /kb/magento-2-you-don-t-have-permission-to-access-on-this-server.html
+permalink: /kb/magento-2-you-do-not-have-permission-to-access-on-this-server.html
 published: true
 categories: magento-2 magento-2-error
 tags: magento-2 server web permission access
