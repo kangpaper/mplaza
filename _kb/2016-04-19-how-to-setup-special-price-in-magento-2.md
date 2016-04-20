@@ -20,4 +20,4 @@ Suggest the special price for any product at your store, only need to enter the 
 
 ![set-up-special-pricing](https://lh6.googleusercontent.com/oTIC8BTVwCzlNuwtnDt-THkQjjuCy4CaiWCFI4z8xS3ayo-I_Fb2aVgbya_xQrmaLdHqzzss1LoRdAvtep1P_TiSwYDUn5ga1N3t7RRm6WFpgAovwJoZRdNrj2Qk4Z7F1vGVA6qS)
 
-
+* Hit the `Save` button to finish.
