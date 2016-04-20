@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: Exception printing is disabled by default for security reasons Magento 1, 2
+title: Exception printing is disabled by default for security reasons Magento 2
 permalink: /kb/exception-printing-is-disabled-by-default-for-security-reasons-magento-1-2.html
 published: true
 categories: magento-2 magento-2-error
