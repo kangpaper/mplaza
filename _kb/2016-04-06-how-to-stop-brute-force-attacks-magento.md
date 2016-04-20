@@ -124,14 +124,3 @@ Go to `System > Configuration > Website`
 ![enable ssl in magento admin](https://lh4.googleusercontent.com/rzWqHt4yibZFIyysSpBgT-xrHUbP4n-QdH5HCgekCqVqwe35ZQOTfeHBoZky9ZATV8n0a8HM7PvpxLPnHZYhfaa8Wrqw-qfsZo3KvIghA3N_xBPjxHH5EuwDjp2E6tygHt7PK6Hl)
 
 
-
-~~~ php
-
-<?php
-
-echo 'Magento';
-
-Mage::getModel('catalog/product')->getCollection();
-
-?>
-~~~
