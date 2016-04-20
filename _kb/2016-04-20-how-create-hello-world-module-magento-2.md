@@ -40,12 +40,14 @@ In this step, we will add registration.php as following guide:
 
 Contents would be: 
 
+~~~ php
   <?php
   \Magento\Framework\Component\ComponentRegistrar::register(
       \Magento\Framework\Component\ComponentRegistrar::MODULE,
       'Excellence_Hello',
       __DIR__
   );
+~~~
 
 ### Step 4: Enable the module
 
