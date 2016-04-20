@@ -1,10 +1,10 @@
 ---
-layout: _drafts
-title: Magento2 – HelloWorld – Module Development Part1
-permalink: /_drafts/how-create-magento-connect-account.html
+layout: kb
+title: How to Create Module in Magento 2 - Helloworld development series - Completed Guide
+permalink: /kb/how-create-hello-world-module-magento-2.html
 published: true
 categories: magento-2 magento-2-tutorial
-tags: magento-2 how-to create account
+tags: magento-2 how-to development helloworld
 ---
 
 
