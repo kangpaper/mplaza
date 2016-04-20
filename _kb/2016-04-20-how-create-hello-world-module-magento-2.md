@@ -18,7 +18,7 @@ Name of the module is defined as “VendorName_ModuleName”. First part is name
 For example: Magento_Helloworld, Mageplaza_Helloworld. Focus on following guide to create the folders:
 
 ~~~ php
-  app/code/Excellence/Hello
+  app/code/Mageplaza/Hello
 ~~~ 
 
 ### Step2: Add module.xml
@@ -26,14 +26,14 @@ For example: Magento_Helloworld, Mageplaza_Helloworld. Focus on following guide 
 Then, it is necessary to add the module.xml file
 
 ~~~ php
-  app/code/Excellence/Hello/etc/module.xml
+  app/code/Mageplaza/Hello/etc/module.xml
 ~~~
 
 Contents would be:
 ~~~ xml
   <?xml version="1.0"?>
   <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-  <module name="Excellence_Hello" setup_version="0.0.1"/>
+  <module name="Mageplaza_Hello" setup_version="0.0.1"/>
   </config>
 ~~~
 
@@ -42,7 +42,7 @@ Contents would be:
 In this step, we will add registration.php as following guide:
 
 ~~~ php
-  app/code/Excellence/Hello/registration.php
+  app/code/Mageplaza/Hello/registration.php
 ~~~
 
 Contents would be: 
@@ -51,7 +51,7 @@ Contents would be:
   <?php
   \Magento\Framework\Component\ComponentRegistrar::register(
       \Magento\Framework\Component\ComponentRegistrar::MODULE,
-      'Excellence_Hello',
+      'Mageplaza_Hello',
       __DIR__
   );
 ~~~
@@ -69,12 +69,12 @@ After create the module if you run the command as:
 You should see the module is disable now: 
 
   List of disabled modules: 
-  ``Excellence_Hello``
+  ``Mageplaza_Hello``
  
 Follow exact guide to enable the module right now, let run the command as: 
 
 ~~~ php
-  php bin/magento module:enable Excellence_Hello
+  php bin/magento module:enable Mageplaza_Hello
 ~~~
 
 Or other way, you can access the file: 
@@ -87,7 +87,7 @@ You will see a long list of modules there, just add your module as well
 
 ~~~ php
   ...
-  'Excellence_Hello' => 1, 
+  'Mageplaza_Hello' => 1, 
   ....
 ~~~
 
@@ -118,7 +118,7 @@ Route’s in magento are divided into 3 parts: Route_id, controller and action a
 To add route, it is necessary to add routes.xml file
 
 ~~~ xml
-  Excellence/Hello/etc/frontend/routes.xml
+  Mageplaza/Hello/etc/frontend/routes.xml
 ~~~
 
 since this is a frontend route, we added it in frontend/ folder else we need to add it to adminhtml/ folder
@@ -129,8 +129,8 @@ Content would be:
   <?xml version="1.0"?>
   <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/App/etc/routes.xsd">
     <router id="standard">
-        <route id="excellence" frontName="excellence">
-            <module name="Excellence_Hello" />
+        <route id="mageplaza" frontName="mageplaza">
+            <module name="Mageplaza_Hello" />
         </route>
     </router>
   </config>  
@@ -140,23 +140,23 @@ You should define ID and FrontName is the same because some mistakes maybe occur
 
 After define the first part of the route, the URL will be displayed as: 
   
-  ``www.magentostore.com/excellence/*``
+  ``www.magentostore.com/mageplaza/*``
 
 Then, you will continue define our controller, action
 
 Your URL now should be as: 
 
-  ``www.magentostore.com/excellence/hello/world``
+  ``www.magentostore.com/mageplaza/hello/world``
 
 The folder you need to create is: 
 
-  ``Excellence/Hello/Controller/Hello/World.php``
+  ``Mageplaza/Hello/Controller/Hello/World.php``
 
 That folder should contain the following content:
 
 ~~~ php
   <?php
-  namespace Excellence\Hello\Controller\Hello;
+  namespace Mageplaza\Hello\Controller\Hello;
  
   class World extends \Magento\Framework\App\Action\Action
   {
@@ -174,5 +174,6 @@ That folder should contain the following content:
   }
 
 ~~~
+
 After finish all steps, the output “Hello World” should be displayed in your browser when you open the URL.
 We hope our guide is very useful and effective for you.
