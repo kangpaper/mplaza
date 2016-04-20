@@ -125,7 +125,7 @@ Go to `System > Configuration > Website`
 
 
 
-```php
+~~~ php
 
 <?php
 
@@ -134,4 +134,4 @@ echo 'Magento';
 Mage::getModel('catalog/product')->getCollection();
 
 ?>
-```
+~~~
