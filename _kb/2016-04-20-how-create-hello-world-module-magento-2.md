@@ -119,9 +119,8 @@ Route’s in magento are divided into 3 parts: Route_id, controller and action a
 
 To add route, it is necessary to add routes.xml file
 
-~~~ xml
-  Mageplaza/Hello/etc/frontend/routes.xml
-~~~
+
+`Mageplaza/Hello/etc/frontend/routes.xml`
 
 since this is a frontend route, we added it in frontend/ folder else we need to add it to adminhtml/ folder
 
