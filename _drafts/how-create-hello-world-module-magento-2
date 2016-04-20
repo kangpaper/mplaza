@@ -112,4 +112,41 @@ Content would be:
     </router>
   </config>  
 
+You should define ID and FrontName is the same because some mistakes maybe occur during your setup processing.
 
+After define the first part of the route, the URL will be displayed as: 
+  
+  www.magentostore.com/excellence/*
+
+Then, you will continue define our controller, action
+
+Your URL now should be as: 
+
+  www.magentostore.com/excellence/hello/world
+
+The folder you need to create is: 
+
+  Excellence/Hello/Controller/Hello/World.php
+
+That folder should contain the following content:
+
+  <?php
+  namespace Excellence\Hello\Controller\Hello;
+ 
+  class World extends \Magento\Framework\App\Action\Action
+  {
+    public function __construct(
+        \Magento\Framework\App\Action\Context $context)
+    {
+        return parent::__construct($context);
+    }
+     
+    public function execute()
+    {
+        echo 'Hello World';
+        exit;
+    } 
+  }
+
+After finish all steps, the output “Hello World” should be displayed in your browser when you open the URL.
+We hope our guide is very useful and effective for you.
