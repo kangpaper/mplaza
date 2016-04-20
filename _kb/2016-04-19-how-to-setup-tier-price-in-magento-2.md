@@ -18,7 +18,7 @@ With Tier Pricing config, you can give a certain group or store view a special o
 ![tier-pricing-on-product-page](https://lh5.googleusercontent.com/624TxbXhDO5Sx52Y-QZJJDxDxkAsJNQi5GgxyicSL6smWh-6KGfKyjfpjNNUKpbSc-AAVXtVqgvdyQZrohuPVwSvkCsmneFTE52Jt8yuwe3Sijd74--os2M2Zsg_Q_pZMeNydW6q)
 
 ## Set up a tier price
-* Open the product in edit mode.
+* Click on `Edit` link on the Product Management.
 * In the basic settings panel, `Advanced Settings > Advanced Pricing`.
 * In the Tier Price area, click `Add Tier` and do the following:
 
