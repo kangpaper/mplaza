@@ -196,7 +196,7 @@ If you are running a promotion program, you really want the more people know, th
 
 #### 3. Make it fun 
 
-Like some big businesses, let your Magento 2 Reward Points program become more exciting by making it fun as a racing game. "Everyone is competitive at heart," says Web Sun, thus, you can let them race together whether who is the winner with the highest points. For a particular example, Mr. Green Bubble, another tea and tapioca shop in Oakland, Calif., placed a small whiteboard near the cash register that acts as a leaderboard for keeping track of the customers who've earned the most points. This is the great idea for your loyalty program in the feature.
+Like some big businesses, Magento 2 Reward Points is become more exciting by making it fun as a racing game. "Everyone is competitive at heart," says Web Sun, thus, you can let them race together whether who is the winner with the highest points. For a particular example, Mr. Green Bubble, another tea and tapioca shop in Oakland, Calif., placed a small whiteboard near the cash register that acts as a leaderboard for keeping track of the customers who've earned the most points. This is the great idea for your loyalty program in the feature.
 
 
 ## 9 Steps to create an effective customer loyalty program
@@ -272,7 +272,7 @@ Research technology to choose one which allows you to extend your reach perfectl
 
 #### Implement the loyalty program
 
-**Set up rules and guidelines for your customer loyalty program. **
+**Set up rules and guidelines for your customer loyalty program**
 
 Rules should focus on customer's benefit over company sales and be matched with your goals.
 You can use your analytics before to choose right target customer groups for each rule in campaign.
