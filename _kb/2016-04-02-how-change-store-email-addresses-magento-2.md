@@ -24,14 +24,13 @@ messages and appear as the sender of email messages that are sent from your stor
 </div>
 
 <div temprop="suggestedAnswer acceptedAnswer" itemscope="" itemtype="http://schema.org/Answer">
-<i itemprop="text">Changing Store Email Addresses is one of important tasks when you start selling on Magento 2. To change store email address you can do the following steps:</i>
+	<i itemprop="text">Changing Store Email Addresses is one of important tasks when you start selling on Magento 2. To change store email address you can do the following steps:</i>
 
-<ul>
-	<li>- Step 1: Set Up the Email Addresses for Your Domain</li>
-	<li>- Step 2: Configure the Email Addresses for Your Store</li>
-	<li>- Step 3: Update the Sales Email Configuration</li>
-</ul>
-
+	<ul>
+		<li>- Step 1: Set Up the Email Addresses for Your Domain</li>
+		<li>- Step 2: Configure the Email Addresses for Your Store</li>
+		<li>- Step 3: Update the Sales Email Configuration</li>
+	</ul>
 
 </div>
 
