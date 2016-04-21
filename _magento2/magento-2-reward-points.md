@@ -14,7 +14,7 @@ screenshots:
 sort_order: 15
 demo: 
 download: 
-price: 199
+price: 399
 rating: 98
 review_count: 2
 ---
