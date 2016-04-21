@@ -17,6 +17,7 @@ permalink:  "/magento-2-free-extensions/"
                         </a>
                         <div class="caption">
                              <a href="{{ site.url }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                             <p>{{ post.description }}</p>
                             <p>
                                 <button type="button" class="btn btn-primary">{% if post.price == 0 %}FREE{% else %} ${{ post.price }}{% endif %}</button>
                                 <a href="{{ site.url }}{{ post.url }}" class="btn btn-default">View details</a>
