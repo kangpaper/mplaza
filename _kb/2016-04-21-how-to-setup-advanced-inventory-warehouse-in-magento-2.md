@@ -29,7 +29,10 @@ The Advanced Inventory supports both a short and long configuration form for eac
   * Enter the number of the products out of stock in the `Out-of-Stock Threshold` field.
   * Ehter the number of the Minimum and Maximum Qty Allowed in Shopping Cart in the correspoding field.
 * In the `Qty Uses Decimals` field, choose **Yes** if the quantity of your products maybe a decimal number. Then, choose **Yes** in the `Multiple Boxes for Shipping` field if you allow dividing the deliveried products into many boxes.
-* Consider the `Backorders` from CMS Block: No Backorder, Allow Qty Below 0, or Allow Qty Below 0 and Notify Customer.
+* Consider the `Backorders` from CMS Block: 
+  * No Backorder - not permit any backorder if product is out of stock
+  * Allow Qty Below 0 - permit backorder even the quantity is less than 0
+  * Allow Qty Below 0 and Notify Customer - permit backorders even the quantity is less than 0 and notify that customer can still place the order
 * In the `Notify for Quantity Below` field, enter the number of the level that need to notify for the Quantity Below.
 * In the `Enable Qty Increment` field, choose **Yes** if you need, then enter the number of items for the incremal sale. Suppose that you offer the number 4, the required quantities in cart is 4, 8, or 16. 
 * Choose **In Stock** in the `Stock Availability` field if the product is available in stock.
