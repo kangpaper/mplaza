@@ -1,8 +1,8 @@
 ---
 layout: kb
 title: "How to change Store Email Addresses in Magento 2?"
+description: "Changing Store Email Addresses is one of important tasks when you start selling on Magento 2. To change store email address you can do the following steps"
 permalink: /kb/how-change-store-email-addresses-magento-2.html
-page-description: "Changing Store Email Addresses is one of important tasks when you start selling on Magento 2. To change store email address you can do the following steps"
 published: true
 categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to configure store email
