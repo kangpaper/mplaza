@@ -13,6 +13,8 @@ To make the shopping easier, you can let customers see the availability of the p
 
 The Stock Options might be active for a entire of the products in the catalog and the quantity in stock is updated continuously. Moreover, the Stock Options help you drive more new clients shopping at your store not just those who buy a huge quantity of the products, you enable to set the maximum for an order instead of taking the whole from your inventory.
 
+![stock-option](https://lh4.googleusercontent.com/Xjbw-XWrVmwYwhtx7nre9QGbB_nHUFFikdS5KMvW7fQ--A9AdQMXoVR1wxNDip8naMpahL6xMwBo3ekYvdmK_n9-Go4sQ9oeER3sDBGlyMCIRPA2HI8LEflMgcrP5HIG9jeVIJD3)
+
 * On the Admin panel, `Stores > Settings > Configuration`.
 * On the left-panel, `Catalog > Inventory`.
 * In the `Stock Options` section, 
