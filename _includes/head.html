@@ -4,7 +4,9 @@
 <meta name="google-site-verification" content="{{ site.google-site-verification }}" />
 
 <title>{% if page.meta-title %} {{ page.meta-title }} {% else %} {{ page.title }}  {% endif %} &#8211; {{ site.title }}</title>
+{% if page.description %}
 <meta name="description" content="{% if page.meta-description %}{{ page.meta-description }}{% else %}{{ page.description }}{% endif %}">
+{% endif %}
 
 {% if page.meta-keywords %}<meta name="keywords" content="{{ page.meta-keywords }}">{% endif %}
 
