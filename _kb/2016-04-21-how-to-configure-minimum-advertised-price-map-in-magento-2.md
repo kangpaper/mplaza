@@ -43,7 +43,7 @@ You can set MAP configuration for all your products or any specific item as you 
 #### Method 1: Apply MAP for all your products
 * To make the actual price visible to shoppers, choose **On Gesture**, **In Cart** or **Before Order Confirmation** in the `Display Actual Price` field.
 * Write the `Default Popup Text Message` in the required box.
-* Write the clear explanation about the phrase "What's This in the `Default "What's This" Text Message`.
+* Write the clear explanation about the phrase "What's this?" in the `Default "What's This" Text Message`.
 * Hit the `Save Config` button to finish.
 
 #### Method 2: Set up MAP for one product
