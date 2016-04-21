@@ -113,7 +113,7 @@ Importer plugin reduces the risk of losing Magento data to zero when you change 
 
 #### 1. What are name of points I should call? 
 
-There are so many options you can name for points such as pounds, cash, dollars, cents, etc or you can call creatively as stars, flowers, rewards, etc. Remember that maybe it is the smart way to impress your customers.
+There are so many options you can name for points such as pounds, cash, dollars, cents, etc or you can call creatively as stars, flowers, rewards, etc. Remember that maybe it is the smart way to impress your customers.erience in building loyalty program with the live
 
 #### 2. Can I create 2 or more programs at the same time? 
 
@@ -122,28 +122,31 @@ Yes, you can do that
 #### 3. Can I try creating a loyalty program with Magento 2 Reward Points extension? 
 
 Of course, yes. You will have great experience in building loyalty program with the live demo extension.
+
 #### 4. What languages does Reward Points support? 
 
 Free to set up languages for your store, it may be English, French, German or etc.
+
 #### 5. What is product sold by only points? 
 
 It is called as Point-Only, this means your customer cannot buy such products by any way unless he has enough points to pay for it. Point-Only is the typical functionality for your loyalty program and is the great way to encourage them to come back your site regularly.
+
 #### 6. What is a milestone program? 
 
 Actually, milestone is a tiered/level program you can create if installing Magento 2 Reward Points extension. Different tiers/levels such as Platinum, Gold, Silver come with different benefits, and the higher tier customer reach, the more reward he will gets.
+
 #### 7. How to track customer's point transaction? 
 
 From Magento Admin Panel, you can see the details of transaction including created time, used point, point balance and status.
+
 #### 8. If there are available 2 earing rules, how does the module process? 
 
 In case you create many rules, Reward Points base the priority you set for each rule whether which rule is applied first.
+
 #### 9. How often will you update the module? 
 
 Whenever there is a new version, we will update and you can download it by going to My Account &gt; My Download Products.
 
-
-
-### Reward Points whitepaper
 
 
 
@@ -178,7 +181,7 @@ The bonus system is the first thing customers are curious about your loyalty pro
 
 The number of people who know as well as go together with your program have a great influence on your success.
 
-## How make your reward points effectively
+## How make your reward points effectively?
 
 Be active to make your loyalty program more friendly when any person approaches to learn it. Your creation can determine your customer's emotion about the loyalty program.
 Basing on 3 major points, ready for 3 useful tips to develop your loyalty program effectively.
@@ -190,6 +193,7 @@ It is necessary to update your special rewards frequently and keep the loyalty p
 #### 2. Make it hot 
 
 If you are running a promotion program, you really want the more people know, the more profits you can earn. If you have a reward program, why don't you focus on that? Remember that the more people you call, the more repeat customers you will get, the more effectiveness your loyalty program can gain. Seriously, you need to promote your program via email newsletter or social channels, simultaneously, generate a good explainer page for the program, which shows simply that how the loyalty program works, and how members will earn and spend points. All of them need to be visible to your shoppers. In summary, the explainer page is the must-have point to own the successful loyalty program.
+
 #### 3. Make it fun 
 
 Like some big businesses, let your Magento 2 Reward Points program become more exciting by making it fun as a racing game. "Everyone is competitive at heart," says Web Sun, thus, you can let them race together whether who is the winner with the highest points. For a particular example, Mr. Green Bubble, another tea and tapioca shop in Oakland, Calif., placed a small whiteboard near the cash register that acts as a leaderboard for keeping track of the customers who've earned the most points. This is the great idea for your loyalty program in the feature.
@@ -223,15 +227,19 @@ Example below is about Food4U identified its customers based on data and separat
 - Frequency: show how many repeat visits on your site what based on visits to our website over time, showing how many times just one visit is tracked, then two visits on the same device, then three etc.
 - Monetary: which customer have high spending, medium spending or low spending.
 
-You are recommended some common analytical techniques for using in your loyalty program. They also are most highly capable.
+*You are recommended some common analytical techniques for using in your loyalty program. They also are most highly capable.*
 
-Additionally, your loyalty customer program can deselect unprofitable customers. Losing a bad       customer can gain more profitable than to gaining a new one.
+Additionally, your loyalty customer program can deselect unprofitable customers. Losing a bad customer can gain more profitable than to gaining a new one.
+
 #### Identify goals of program
+
 Set your goals, then assign a real number to them. With each of goals, you should focus on the choice of target groups.  Mainly, the last purpose is to build a relationship with customers that turn them into long-term loyal customer.
 Goals can be divided into core, primary and secondary loyalty program goals
   
 Refer to below example, if your customers purchase on average 3 times per year, set a goal of 3.3 times a year, this will increase your sales by 10% without few additional expenses.
+
 #### Determine budget
+
 The cost of your program will be different from case to case, depended on the industry, the customer structure, the competitive situation, the setup of the program, etc.
 
 - You should consider some main costs:
@@ -242,7 +250,9 @@ The cost of your program will be different from case to case, depended on the in
 - Initial development and constant improvement of the program concept
 
 On average you can estimate the cost per member per year in the range of US$20-60 for B2C loyalty programs and US$100-300 for B2B loyalty programs (Barlow, 1992; Wiencke and Tribaian, 1996)
+
 #### Choose the right reward
+
 There are many industries or customer-types in the world, which have different motivations for choosing to remain loyal to a business. Benefits aren't benefits if your customers don't see them by your way and they must meet the expectations of the target groups.
 For instance, if you're a food online store, you might consider creating program whereby your customers have many points for each food, they can be got free shipping and free food in their birthday or big order, etc. Using your analytics to make your customers be satisfied. Some features that will set your program special:
 
@@ -279,7 +289,7 @@ Example, if you are focusing on optimizing your site on Google (SEO, SEM), you s
 In many case, creating opportunities to communicate that is one of the main goals of customer loyalty program because it is the key to any relationship.
 Be sure that your customer is easy for sharing their thoughts about your loyalty program. You can allow them to leave feedback by having a link or support email, another way that allow customers to share their feedback in a section.
 
-####  Track contributors, reward process and ROI 
+#### Track contributors, reward process and ROI 
 
 This step has responsibility to make sure that your process works smoothly, therefore you can achieve the maximum profitability.
 You will be able to adapt your program by tracking its ROI which compare the investment gain to investment cost to shows the benefits from your investment. Nurturing the communication between you and your customers by adjusting some rules of program or making special something for your customers.
