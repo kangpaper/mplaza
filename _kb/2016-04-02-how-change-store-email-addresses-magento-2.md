@@ -7,18 +7,6 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to configure store email
 ---
 
-
-You can have up to five different email addresses to represent distinct functions or departments
-for each store or view. In addition to the following predefined email identities, there are two
-custom identities that you can set up according to your needs.
-
-- General Contact
-- Sales Representative
-- Customer Support
-
-Each identity and its associated email address can be associated with specific automated email
-messages and appear as the sender of email messages that are sent from your store.
-
 <div itemscope="" itemtype="http://schema.org/Question">
 	<h3 itemprop="name description">How to change Store Email Addresses in Magento 2?</h3>
 </div>
@@ -33,6 +21,20 @@ messages and appear as the sender of email messages that are sent from your stor
 	</ul>
 
 </div>
+
+
+You can have up to five different email addresses to represent distinct functions or departments
+for each store or view. In addition to the following predefined email identities, there are two
+custom identities that you can set up according to your needs.
+
+- General Contact
+- Sales Representative
+- Customer Support
+
+Each identity and its associated email address can be associated with specific automated email
+messages and appear as the sender of email messages that are sent from your store.
+
+
 
 
 ## Step 1: Set Up the Email Addresses for Your Domain
