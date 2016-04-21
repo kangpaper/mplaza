@@ -262,16 +262,20 @@ Research technology to choose one which allows you to extend your reach perfectl
 
 #### Implement the loyalty program
 
-2.7.1. Set up rules and guidelines for your customer loyalty program. 
+**Set up rules and guidelines for your customer loyalty program. **
+
 Rules should focus on customer's benefit over company sales and be matched with your goals.
 You can use your analytics before to choose right target customer groups for each rule in campaign.
 For example, you can create a promotional campaign that: 'Get 100 points if subtotal is $500' during 2 weeks from 1st May to 15th May 2015.
-2.7.2. Discount based on customer behaviors
+
+**Discount based on customer behaviors**
+
 Deliver discounts based on analyzing customer behaviors which can be purchasing habits or buying behavior. Focus on some ways that relevant to your goals. Example you can reward 5 points instead of 3 points to encourage customer to refer friends or use social actions.
 Behaviors can be registering on website, Facebook like or share, signing up newsletter, inviting friends via email, posting a new product review, sharing a referral link on a forum or blog, sharing you store with friends via social network (facebook, twitter), etc
 Example, if you are focusing on optimizing your site on Google (SEO, SEM), you should encourage customer to do action which is +1's a page with Google+ by reward 10 points to this customer's action.
 
 #### Communicate with customers
+
 In many case, creating opportunities to communicate that is one of the main goals of customer loyalty program because it is the key to any relationship.
 Be sure that your customer is easy for sharing their thoughts about your loyalty program. You can allow them to leave feedback by having a link or support email, another way that allow customers to share their feedback in a section.
 
