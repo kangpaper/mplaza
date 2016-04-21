@@ -1,9 +1,9 @@
 ---
 layout: magento2
 title: "Magento 2 Reward Points"
-description: "A proper answer from Magento 2 Reward Points extension helping create a powerful loyalty program to enhance the customer experience on your store by earning and spending unlimited reward points."
+description: "A proper answer from Magento 2 Reward Points is a powerful loyalty program to enhance the customer experience on your store by earning and spending unlimited reward points."
 meta-title: "Magento 2 Reward Points Extension - Loyalty program system"
-meta-description: "A proper answer from Magento 2 Reward Points extension helping create a powerful loyalty program to enhance the customer experience on your store by earning and spending unlimited reward points."
+meta-description: "A proper answer from Magento 2 Reward Points is a powerful loyalty program to enhance the customer experience on your store by earning and spending unlimited reward points."
 image: "/assets/img/extensions/magento-2-reward-points.png"
 version: "1.0.0"
 user-version: no
@@ -64,7 +64,7 @@ Make a great effort to generate social proofs by donating some points for each c
 Especially, Loyalty Program also let store owners give the gift along with the best wishes on customer’s birthday in order to show the concern about the previous clients. Simultaneously, the recipients will feel that they are respected.
 
 ### Reward special events
-With Magento Reward Points, store admin can configure event rules. The rules will auto-send points to the certain customer groups on the special occasions like New Year, Halloween, Noel or any event. Moreover, for more convenience, there is no need to set up again, the rules can be repeated simply monthly, yearly,.... by CMS Block. 
+Magento 2 Reward Points is easy to setup specicial events, store admin can configure event rules. The rules will auto-send points to the certain customer groups on the special occasions like New Year, Halloween, Noel or any event. Moreover, for more convenience, there is no need to set up again, the rules can be repeated simply monthly, yearly,.... by CMS Block. 
 
 ### Milestones
 The advanced Loyalty Program allows customers to earn points or change the current group with different benefits if they reach one of the lifetime events you offer. For example, the customer will be transferred from Silver Group to Golden Group and he will receive three times purchase rewards as much as normal. 
@@ -78,7 +78,7 @@ The customers not only share via multiple social networks even email but also us
 
 Depending on store owner’s earning and spending rule settings, the customers will get a number of reward points and use them as different roles:
 Payment method
-The reward points are called as a fantastic payment method because it is used in the payment process or places the cash totally for exact items. The clients only need to slide the bar to spend points on paying order. Or it is faster by selecting the Using max points checkbox. The conversion rate will be set in the store admin.
+Magento 2 Reward points are called as a fantastic payment method because it is used in the payment process or places the cash totally for exact items. The clients only need to slide the bar to spend points on paying order. Or it is faster by selecting the Using max points checkbox. The conversion rate will be set in the store admin.
 
 
 In case the order using the reward points as a payment method is canceled, the paid points get back 100% to their account without losing.
@@ -87,7 +87,8 @@ In case the order using the reward points as a payment method is canceled, the p
 The earned points can be also shared as a little gift with other if need. The transferring points just require friend’s email and wanted point amount in order to finish it.
 
 ### Points configuration
-Reward Points module surely brings the outstanding features and helps most of Magento stores build the fantastic loyalty program, however, it is totally flexible to customize as you need. Particularly as:
+
+Magento 2 Reward Points is developed for simple but powerful configuration. The module surely brings the outstanding features and helps most of Magento stores build the fantastic loyalty program, however, it is totally flexible to customize as you need. Particularly as:
 
 ### Point Label
 You can use multiple names to set your reward labels such as coins, dollars, flowers, pounds, etc.
@@ -116,9 +117,11 @@ Importer plugin reduces the risk of losing Magento data to zero when you change 
 <h4>1. What are name of points I should call?</h4>
 
 <p>There are so many options you can name for points such as pounds, cash, dollars, cents, etc or you can call creatively as stars, flowers, rewards, etc. Remember that maybe it is the smart way to impress your customers.</p>
+
 <h4>2. Can I create 2 or more programs at the same time?</h4>
 
 <p>Yes, you can do that</p>
+
 <h4>3. Can I try creating a loyalty program with Magento 2 Reward Points extension?</h4>
 
 <p>Of course, yes. You will have great experience in building loyalty program with the live demo extension.</p>
@@ -150,7 +153,7 @@ Importer plugin reduces the risk of losing Magento data to zero when you change 
 
 
 
-<h2 >Getting thousands of Magento 2 Reward Points is &ldquo;a piece of cake&rdquo;.</h2>
+<h2 >Getting thousands of Magento 2 Reward Points is a piece of cake</h2>
 <p>By installing <strong>Magento 2 Reward Points extension</strong>, there are many ways to encourage your customers to join in loyal customers network without hesitation as well as engage them in your site.</p>
 
 <p><img style="display: block; margin-left: auto; margin-right: auto;" alt="magento 2 reward points" src="https://lh4.googleusercontent.com/YJjetHMWdm6wM-VPdwez2-21JHClmEVGtJt2yEAzAqblQ9GPPsXFkWG5R8D_vyT7CRqgdennXSZQd836-pgsaGPgj1UfXi6hniiqQV1qtn-6dJ2_Bd6zC73rxyBu7PKvjKGp5DuQ" /></p>
@@ -159,7 +162,7 @@ Importer plugin reduces the risk of losing Magento data to zero when you change 
 <p>With the extension, you can offer an amount of points as the welcome gift right after a new account is created instead of going to your site as an anonymous while you have finished the smooth beginning of loyalty program. For example, put &ldquo;Plus 5 points for the new registration&rdquo; on signup page to attract the visitors better.</p>
 <h4 >Reward for new purchase</h4>
 
-<p>In order to help you increase the repeat purchase rate, Magento 2 Reward Points module is configured to&nbsp;add automatically exact number of points as you need in the buyer&rsquo;s account.</p>
+<p>In order to help you increase the repeat purchase rate, Magento 2 Reward Points is configured to add automatically exact number of points as you need in the buyer&rsquo;s account.</p>
 <h4 >Reward for writing review or voting for a product</h4>
 
 <p>Be more active in rewarding for review, rating, even Facebook like or share your product via social channels, that means you must focus on generating social proof to improve your reliability on competitive eCommerce marketplace.</p>
@@ -270,7 +273,7 @@ Importer plugin reduces the risk of losing Magento data to zero when you change 
 <p>Additionally, your loyalty customer program can deselect unprofitable customers. Losing a bad &nbsp; &nbsp; &nbsp; customer can gain more profitable than to gaining a new one.</p>
 <p>2.3. Identify goals of program</p>
 <p>Set your goals, then assign a real number to them. With each of goals, you should focus on the choice of target groups. &nbsp;Mainly, the last purpose is to build a relationship with customers that turn them into long-term loyal customer.</p>
-<p>Goals can be divided into core, primary and secondary loyalty program goals<sup><a  href="https://docs.google.com/document/d/1Gu3x-Uf4OTo2m96Rc9FCzQVj73a-g64QywvmobY8I18/pub#ftnt2"><br /></a></sup></p>
+<p>Goals can be divided into core, primary and secondary loyalty program goals</p>
 <p>&nbsp;&nbsp;</p>
 <p>Refer to below example, if your customers purchase on average 3 times per year, set a goal of 3.3 times a year, this will increase your sales by 10% without few additional expenses.</p>
 <p>2.4. Determine budget</p>
