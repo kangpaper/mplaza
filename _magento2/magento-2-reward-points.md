@@ -19,19 +19,135 @@ rating: 98
 review_count: 2
 ---
 
+Nowadays, the perfect measure of success in e-commerce market is how many loyal customers who frequently place orders you have instead of those who create single purchase at your store. So how to increase the interaction between customers and store owners and establish the great consumption cycle on your website? 
+
+Magento Reward Points extension will allow earning unlimited reward points as well as use them flexibly as payment methods if need. The customers will get points by signing up, buying any product, or sharing via social channels, etc. By this way, it is not complicated to build the loyal customer network supplying the number of leads for the merchants.  
+
+
 <h2>Magento 2 Reward Points highlight features</h2>
 
 <ul class="iconlist">
 
 	</li>
 	
-	<li><i class="fa fa-check"></i> Customizable module to set earning/spending rules </li>
-	<li><i class="fa fa-check"></i> Free to reward points via a variety of customer behaviors </li>
-	<li><i class="fa fa-check"></i> Allow using reward points as a payment method </li>
-	<li><i class="fa fa-check"></i> Drive new traffic to Magento 2 store by reward points </li>
-	<li><i class="fa fa-check"></i> Track loyalty program via advanced report </li>
+	<li> Customizable module to set earning/spending rules </li>
+	<li> Free to reward points via a variety of customer behaviors </li>
+	<li> Allow using reward points as a payment method </li>
+	<li> Drive new traffic to Magento 2 store by reward points </li>
+	<li> Track loyalty program via advanced report </li>
 	
 </ul>
+
+
+
+
+
+The following are the helpful features which should be contained in the effect Loyalty Program. Check it out!
+
+### Reward registrations
+
+A small gift as reward points which is given for registered customers is a big motivation as well as the first step to convert them into loyal audiences at your store.
+
+### Reward purchases
+On Product Detail page, Reward Points program will show the points awarded to the buyer right after the order is completed. The point amount is set by you in the Magento Admin.
+
+### Reward subscriptions
+Enable customers to earn the reward points when they permit subscribing your newsletter via email. Thus, they can add more points to their accounts while you are allowed to notify them about any promotion programs, take them back your store and purchase more regularly. 
+
+### Reward sharings
+Social networks are becoming an essential part of our lives and it is wasted if the e-commerce merchants do not use the social channel to advertise their brand in the market. By installing Magento Reward Points extension, the sharing via social media is highly encouraged due to the exciting prize as 10 points or 20 points when the clients only need to click on the social button. Thanks to that, the awareness of your brand is enhanced dramatically with the much lower cost.
+
+### Reward reviews/rating
+Make a great effort to generate social proofs by donating some points for each customer’s review or rating your products. This is the effective method to boost your online sales.
+
+### Reward customer’s birthday
+Especially, Loyalty Program also let store owners give the gift along with the best wishes on customer’s birthday in order to show the concern about the previous clients. Simultaneously, the recipients will feel that they are respected.
+
+### Reward special events
+With Magento Reward Points, store admin can configure event rules. The rules will auto-send points to the certain customer groups on the special occasions like New Year, Halloween, Noel or any event. Moreover, for more convenience, there is no need to set up again, the rules can be repeated simply monthly, yearly,.... by CMS Block. 
+
+### Milestones
+The advanced Loyalty Program allows customers to earn points or change the current group with different benefits if they reach one of the lifetime events you offer. For example, the customer will be transferred from Silver Group to Golden Group and he will receive three times purchase rewards as much as normal. 
+
+### Referrals 
+Owning one client can be said that you have a huge number of potential customers behind him which helps you earn more and more profits. To explore the treasure, let encourage customers to introduce your products to their friends and they are rewarded for that.
+
+The customers not only share via multiple social networks even email but also use available link or coupon to refer. The coupon will be generated in bulk by store admin and designed by many eye-catching templates which are sent through email.
+
+### Rules
+
+Depending on store owner’s earning and spending rule settings, the customers will get a number of reward points and use them as different roles:
+Payment method
+The reward points are called as a fantastic payment method because it is used in the payment process or places the cash totally for exact items. The clients only need to slide the bar to spend points on paying order. Or it is faster by selecting the Using max points checkbox. The conversion rate will be set in the store admin.
+
+
+In case the order using the reward points as a payment method is canceled, the paid points get back 100% to their account without losing.
+
+### Transfer points
+The earned points can be also shared as a little gift with other if need. The transferring points just require friend’s email and wanted point amount in order to finish it.
+
+### Points configuration
+Reward Points module surely brings the outstanding features and helps most of Magento stores build the fantastic loyalty program, however, it is totally flexible to customize as you need. Particularly as:
+
+### Point Label
+You can use multiple names to set your reward labels such as coins, dollars, flowers, pounds, etc.
+
+### Point Expiration
+
+As an administrator, you have rights to accept your customers to use the loyalty points they earn forever or set the expiration for the points. The point expiration is a great way so that you encourage the clients to earn and spend the reward points, that means the customer’s experiences on your store is being raised. 
+
+And obviously, an email notification about the point expiration is sent to the customer before the point is inactive.
+
+### Chart report 
+
+With the extension, you can track the effectiveness of loyalty program effortless due to Report Plugin. The advanced report provides the clear and detailed statistic about Spending/Earning Ratio, Earnings Distribution, A loyal customer cost, and Total Points. Thus, store owners will judges generally and give a right solution.
+
+### Import/Export
+
+Importer plugin reduces the risk of losing Magento data to zero when you change Magento Reward Points module. One-click to import fast directly from ST Rewards, MS Reward Points, AW Reward Points, MW Reward Points and so on. On the other hand, the export is available into CSV file.
+
+
+
+
+
+
+
+<h2>FAQ</h2>
+<h4>1. What are name of points I should call?</h4>
+
+<p>There are so many options you can name for points such as pounds, cash, dollars, cents, etc or you can call creatively as stars, flowers, rewards, etc. Remember that maybe it is the smart way to impress your customers.</p>
+<h4>2. Can I create 2 or more programs at the same time?</h4>
+
+<p>Yes, you can do that</p>
+<h4>3. Can I try creating a loyalty program with Magento 2 Reward Points extension?</h4>
+
+<p>Of course, yes. You will have great experience in building loyalty program with the live demo extension.</p>
+<h4>4. What languages does Reward Points support?</h4>
+
+<p>Free to set up languages for your store, it may be English, French, German or etc.</p>
+<h4>5. What is product sold by only points?</h4>
+
+<p>It is called as Point-Only, this means your customer cannot buy such products by any way unless he has enough points to pay for it. Point-Only is the typical functionality for your loyalty program and is the great way to encourage them to come back your site regularly.</p>
+<h4>6. What is a milestone program?</h4>
+
+<p>Actually, milestone is a tiered/level program you can create if installing Magento 2 Reward Points extension. Different tiers/levels such as Platinum, Gold, Silver come with different benefits, and the higher tier customer reach, the more reward he will gets.</p>
+<h4>7. How to track customer&rsquo;s point transaction?</h4>
+
+<p>From Magento Admin Panel, you can see the details of transaction including created time, used point, point balance and status.</p>
+<h4>8. If there are available 2 earing rules, how does the module process?</h4>
+
+<p>In case you create many rules, Reward Points base the priority you set for each rule whether which rule is applied first.</p>
+<h4>9. How often will you update the module?</h4>
+
+<p>Whenever there is a new version, we will update and you can download it by going to My Account &gt; My Download Products.</p>
+
+
+
+
+
+
+### Reward Points whitepaper
+
 
 
 <h2 >Getting thousands of Magento 2 Reward Points is &ldquo;a piece of cake&rdquo;.</h2>
@@ -113,38 +229,8 @@ review_count: 2
 <p>Moreover, to evaluate the effectiveness of reward point program correctly, let learn about Report plugin to get analyze figures and then, make adjustment if necessary. The reports are Spend/Earn ratio, Number of loyal customers, Signups, Newsletter Subscription, Reviews, etc.</p>
 
 
-<h2 >&nbsp;</h2>
-<h2>FAQ</h2>
-<h4>1. What are name of points I should call?</h4>
 
-<p>There are so many options you can name for points such as pounds, cash, dollars, cents, etc or you can call creatively as stars, flowers, rewards, etc. Remember that maybe it is the smart way to impress your customers.</p>
-<h4>2. Can I create 2 or more programs at the same time?</h4>
-
-<p>Yes, you can do that</p>
-<h4>3. Can I try creating a loyalty program with Magento 2 Reward Points extension?</h4>
-
-<p>Of course, yes. You will have great experience in building loyalty program with the live demo extension.</p>
-<h4>4. What languages does Reward Points support?</h4>
-
-<p>Free to set up languages for your store, it may be English, French, German or etc.</p>
-<h4>5. What is product sold by only points?</h4>
-
-<p>It is called as Point-Only, this means your customer cannot buy such products by any way unless he has enough points to pay for it. Point-Only is the typical functionality for your loyalty program and is the great way to encourage them to come back your site regularly.</p>
-<h4>6. What is a milestone program?</h4>
-
-<p>Actually, milestone is a tiered/level program you can create if installing Magento 2 Reward Points extension. Different tiers/levels such as Platinum, Gold, Silver come with different benefits, and the higher tier customer reach, the more reward he will gets.</p>
-<h4>7. How to track customer&rsquo;s point transaction?</h4>
-
-<p>From Magento Admin Panel, you can see the details of transaction including created time, used point, point balance and status.</p>
-<h4>8. If there are available 2 earing rules, how does the module process?</h4>
-
-<p>In case you create many rules, Reward Points base the priority you set for each rule whether which rule is applied first.</p>
-<h4>9. How often will you update the module?</h4>
-
-<p>Whenever there is a new version, we will update and you can download it by going to My Account &gt; My Download Products.</p>
-
-
-<h2 >How to create an effective Customer loyalty program / Magento 2 Reward Points</h2>
+<h2 >How to create an effective Customer loyalty program / Magento 2 Reward Points ? </h2>
 
 <p>There are multiple types of sales scenario that E-commerce combined system depends on company&rsquo;s sales approach towards their customers. The two most popular types are Business-to-Consumer (B2C) and Business-to-Business (B2B).</p>
 <p>Business-to-Consumer (B2C)</p>
