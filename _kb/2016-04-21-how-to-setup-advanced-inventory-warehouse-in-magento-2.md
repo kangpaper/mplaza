@@ -35,4 +35,4 @@ The Advanced Inventory supports both a short and long configuration form for eac
 * Choose **In Stock** in the `Stock Availability` field if the product is available in stock.
 * Hit the `Save` button to finish.
 
-![advanced-inventory-long-form](
+![advanced-inventory-long-form](https://lh3.googleusercontent.com/2YLviveYWBQP8h6gS0mfoYbP_pbrCTSyF31ei7PqjViXn2BCbpmBT7BMi-AyhbfjCWzt9xR1njyPwPaubLMzLxX48Nyfj3DZ8fEgJzDBiz9a49H5fv4hZu2x6q-igpIZYUJcNhHU)
