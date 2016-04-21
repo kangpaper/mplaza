@@ -36,7 +36,7 @@ The Product Stock Options means the inventory settings at the product level. How
 * In the `Product Stock Options` section,
   * To apply the inventory tracking for your product, say **Yes** to `Manage Stock`.
 
-![product-stock-option-config](https://lh5.googleusercontent.com/qHVgd-5kJSF3Oba7hjg5OVqa8LBfsDjrJK3y96B_jUq2AvmMd-UaEXN41tr2-jDk2hvpol_gfYOZGZb_GF3Gv5txtuN0Rl9qDaL9GQU30ueu6ur_kU9InCD-ZVEDfRBLQwoNJDCr)
+  ![product-stock-option-config](https://lh5.googleusercontent.com/qHVgd-5kJSF3Oba7hjg5OVqa8LBfsDjrJK3y96B_jUq2AvmMd-UaEXN41tr2-jDk2hvpol_gfYOZGZb_GF3Gv5txtuN0Rl9qDaL9GQU30ueu6ur_kU9InCD-ZVEDfRBLQwoNJDCr)
   
   * Select one of the options for `Backorders:  
     * No Backorder - not permit any backorder if product is out of stock
