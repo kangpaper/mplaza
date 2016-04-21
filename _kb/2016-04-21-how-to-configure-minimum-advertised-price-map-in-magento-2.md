@@ -34,7 +34,7 @@ You can set MAP configuration for all your products or any specific item as you 
 
 ### To set up MAP
 * Go to the Admin Panel, `Stores > Settings > Configuration`.
-* On the left of the panel, `Sales > Sales`.
+* On the left-panel, `Sales > Sales`.
 * Click on the `Minimum Advertised Price` section.
 * Choose **Yes** in the `Enable MAP` field.
 
