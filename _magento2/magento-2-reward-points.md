@@ -109,7 +109,7 @@ Importer plugin reduces the risk of losing Magento data to zero when you change 
 
 
 
-## Reward Points FAQ
+## FAQ
 
 #### 1. What are name of points I should call? 
 
