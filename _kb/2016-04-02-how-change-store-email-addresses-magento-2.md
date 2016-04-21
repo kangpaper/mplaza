@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: How to change Store Email Addresses in Magento 2
+title: "How to change Store Email Addresses in Magento 2?"
 permalink: /kb/how-change-store-email-addresses-magento-2.html
 published: true
 categories: magento-2 magento-2-tutorial
@@ -18,6 +18,15 @@ custom identities that you can set up according to your needs.
 
 Each identity and its associated email address can be associated with specific automated email
 messages and appear as the sender of email messages that are sent from your store.
+
+### How to change Store Email Addresses in Magento 2?
+
+To change store email address you can do the following steps:
+
+- Step 1: Set Up the Email Addresses for Your Domain
+- Step 2: Configure the Email Addresses for Your Store
+- Step 3: Update the Sales Email Configuration
+
 
 
 ## Step 1: Set Up the Email Addresses for Your Domain
