@@ -26,12 +26,12 @@ Magento Reward Points extension will allow earning unlimited reward points as we
 
 ## Magento 2 Reward Points highlight features
 
-	-  Customizable module to set earning/spending rules 
-	-  Free to reward points via a variety of customer behaviors 
-	-  Allow using reward points as a payment method 
-	-  Drive new traffic to Magento 2 store by reward points 
-	-  Track loyalty program via advanced report 
-	
+-  Customizable module to set earning/spending rules 
+-  Free to reward points via a variety of customer behaviors 
+-  Allow using reward points as a payment method 
+-  Drive new traffic to Magento 2 store by reward points 
+-  Track loyalty program via advanced report 
+
 
 
 ![magento 2 reward points](https://lh4.googleusercontent.com/YJjetHMWdm6wM-VPdwez2-21JHClmEVGtJt2yEAzAqblQ9GPPsXFkWG5R8D_vyT7CRqgdennXSZQd836-pgsaGPgj1UfXi6hniiqQV1qtn-6dJ2_Bd6zC73rxyBu7PKvjKGp5DuQ)
