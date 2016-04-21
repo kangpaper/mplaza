@@ -12,7 +12,7 @@ The Advanced Inventory supports both a short and long configuration form for eac
 #### Method 1: Exclude Stock Management 
 
 * Go to `Product > Catalog`, click on the `Edit` link in the Product Management.
-* On the left of panel, `Advanced Settings > Advanced Inventory`.
+* On the left-panel, `Advanced Settings > Advanced Inventory`.
 * Leave the `Use Config Settings`checkbox empty to make the `Manage Stock` available.  Choose **No** in the field.
 * Ehter the number of the Minimum and Maximum Qty Allowed in Shopping Cart in the correspoding field.
 * In the `Enable Qty Increment` field, choose **Yes** if you need, then enter the number of items for the incremal sale. Suppose that you offer the number 4, the required quantities in cart is 4, 8, or 16. 
@@ -23,7 +23,7 @@ The Advanced Inventory supports both a short and long configuration form for eac
 #### Method 2: Inclucde Stock Management
 
 * Go to `Product > Catalog`, click on the `Edit` link in the Product Management.
-* On the left of panel, `Advanced Settings > Advanced Inventory`.
+* On the left-panel, `Advanced Settings > Advanced Inventory`.
 * Leave the `Use Config Settings`checkbox empty to make the `Manage Stock` available.  Choose **Yes** in the field.
   * Enter the number of the products in stock in the `Qty` field.
   * Enter the number of the products out of stock in the `Out-of-Stock Threshold` field.
