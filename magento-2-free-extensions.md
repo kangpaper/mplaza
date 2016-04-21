@@ -2,7 +2,7 @@
 layout: page
 title: Magento 2 Free Extensions
 description: "List of all Magento 2 extensions that people love"
-permalink:  "/magento-2--freeextensions/"
+permalink:  "/magento-2-free-extensions/"
 ---
 
 <div class="container">
