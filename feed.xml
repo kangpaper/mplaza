@@ -21,10 +21,8 @@ layout: null
   <title type="html"><![CDATA[{{ kb.title | cdata_escape }}]]></title>
  <link rel="alternate" type="text/html" href="{{ site.url }}{{ kb.url }}" />
   <id>{{ site.url }}{{ kb.url }}</id>
-  {% if kb.date %}<updated>{{ kb.date | to_xmlschema }}T00:00:00-00:00</updated>
   <published>{{ kb.date | date_to_xmlschema }}</published>
-  {% else %}<published>{{ kb.date | date_to_xmlschema }}</published>
-  <updated>{{ kb.date | date_to_xmlschema }}</updated>{% endif %}
+  <updated>{{ kb.date | date_to_xmlschema }}</updated>
   <author>
     <name>{{ site.author }}</name>
     <uri>{{ site.url }}</uri>
