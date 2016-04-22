@@ -16,7 +16,7 @@ layout: null
 </author>
 
 
-{% for kb in site.kb }
+{% for kb in site.kb %}
 <entry>
   <title type="html"><![CDATA[{{ kb.title | cdata_escape }}]]></title>
  <link rel="alternate" type="text/html" href="{{ site.url }}{{ kb.url }}" />
