@@ -27,10 +27,10 @@ All of subscribers to your alerts are listed in the Product Alert tab of the Pro
   * To activate the product alert when there is any change of the price, select **Yes** in the `Allow Alert When Product Price Changes` field.
   * Select the template you want to use for the notification when the product price changes from a dropdown list of the `Price Alert Email Template`.
   * To create a light notification if the product come back to the inventory, select **Yes** in the `Allow Alert Product When Come Back in Stock` field.
- 
- ```
+  
+  ~~~
   Set the Display Out of Stock Products in the Inventory Stock Options to Yes if allow showing the Sign up to get notified when this product is back in stock message for the customers
- ```
+  ~~~
  
   * Select the template used to notify the come back of the product from a dropdown list of the `Stock Alert Email Template`.
   * Select the sender of the alert email in the `Alert Email Sender` field.
