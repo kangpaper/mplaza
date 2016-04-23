@@ -16,7 +16,7 @@ screenshots:
   - "/assets/img/extensions-images/magento-zoho-crm/sales-orders.png"
   - "/assets/img/extensions-images/magento-zoho-crm/zoho-invoice.png"
   - "/assets/img/extensions-images/magento-zoho-crm/zoho-campaign.png"
-  - "/assets/img/extensions-images/magento-zoho-crm/zoho-product.png"
+  - "/assets/img/extensions-images/magento-zoho-crm/zoho-product.jpg"
   - "/assets/img/extensions-images/magento-zoho-crm/magento-mapping.png"
   - "/assets/img/extensions-images/magento-zoho-crm/magento-report.png"
 
@@ -58,7 +58,7 @@ Zoho CRM Integration extension will automatically synchronize all related data f
 
 ### Auto-sync Catalog Products into Zoho CRM Products
 
-![magento zoho crm sync Products]({{ site.url }}/assets/img/extensions-images/magento-zoho-crm/zoho-product.png)
+![magento zoho crm sync Products]({{ site.url }}/assets/img/extensions-images/magento-zoho-crm/zoho-product.jpg)
 
 
 ### Mapping fields easily
