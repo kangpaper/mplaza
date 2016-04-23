@@ -41,27 +41,27 @@ Magento 2 blog extension can give you a greate opportunity to communicate with y
 
 ### Drive more traffics
 
-Raise your hand if you want more website visitors. Yeah, me too.
+"Raise your hand if you need more targeted visitors. Sure, me too."
 
-Think about how many pages there are on your website. Probably not a ton, right? And think about how often you update those pages. Probably not that often, right? (How often can you really update your About Us page, you know?)
-
-Well, blogging helps solve both of those problems.
-
-Blogging also helps you get discovered via social media. Every time you write a blog post, you're creating content that people can share on social networks -- Twitter, LinkedIn, Facebook, Pinterest -- which helps expose your business to a new audience that may not know you yet.
+Think of total number of pages you can find on your online store. Maybe not a ton, right? And think of how frequently you update those pages. Maybe not that usually, right? 
+Well, running a blog helps resolve both of those problems.
 
 
-### It helps convert that traffic into leads.
 
-Just like every blog post you write is another indexed page, each post is a new opportunity to generate new leads. The way this works is really simple: Just add a lead-generating call-to-action to every blog post.
+Writing a blog helps as well you get discovered via social networks. Any time you write a blog post, you are building content that many people can share on social networking sites such as Twitter, LinkedIn, Facebook, Pinterest -- which will help expose your web business to a new one audience that will not know you yet.
+
+
+### It may help convert that traffic into leads.
+
+Similar to every blog post you write is yet another indexed page, each post is really a new chance to generate new leads. The way in which this works is absolutely simple: Just put in a lead-generating call-to-action to each blog post.
 
 ### Boost Search Engine Optimization Ranking
 
-Search engines love fresh content. What better way to provide frequent content than with blog posts. By blogging consistently, you give Google and other search engines new content to index and you create opportunities to plug in those all-important keywords to increase your visibility on search engine results pages (SERPS).
+Search Engines like Google loves fresh content. What better method to deliver frequent content compared to blog posts. By writing blog consistently, you provide Google and other search engines new content to index and you also create chances to plug in those all-important keywords to boost your visibility on search engine results pages (SERPS).
 
 ### Build relationships with your customers
 
-Blogging allows you to connect with your site visitors. This can be accomplished by asking your readers questions at the end of your posts to get the conversation going or by simply allowing comments and feedback. By reviewing and responding to readers’ comments, you can create a rapport with your audience, build trust, and gain valuable insight into what your customers are looking for.
-
+Writing a blog enables you to interact with your website visitors. You can accomplish this by asking your visitors questions at the conclusion of your posts to obtain the conversation going or simply by allowing comments and feedback. By reviewing and answering readers’ comments, you may create a rapport together with your audience, build trust, and gain valuable insight into what your visitors are seeking.
 
 
 ## Magento 2 Blog full feature list
