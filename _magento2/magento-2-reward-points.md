@@ -5,6 +5,7 @@ description: "A proper answer from Magento 2 Reward Points is a powerful loyalty
 meta-title: "Magento 2 Reward Points Extension - Loyalty program system"
 meta-description: "A proper answer from Magento 2 Reward Points is a powerful loyalty program to enhance the customer experience on your store by earning and spending unlimited reward points."
 image: "/assets/img/extensions/magento-2-reward-points.png"
+small-image: "/assets/img/extensions/small/magento-2-reward-points.png"
 version: "1.0.0"
 user-version: no
 categories: magento reward-points

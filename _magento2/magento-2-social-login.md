@@ -1,11 +1,12 @@
 ---
 layout: magento2
-title: "Magento 2 Social Login Extension"
+title: "Magento 2 Social Login"
 description: "Magento 2 Social Login extension is designed for quick login to your Magento store without procesing complex register steps"
 meta-title: "Magento 2 Social Login Extension Module Free"
 meta-description: "Magento 2 Social Login extension is designed for quick login to your Magento store without procesing complex register steps"
 meta-keywords: "magento 2 seo extension, magento 2 seo module, magento 2 seo, magento 2 seo free"
 image: "/assets/img/extensions/magento-2-social-login-extension.png"
+small-image: "/assets/img/extensions/small/magento-2-social-login-extension.png"
 version: "1.0.0"
 user-version: no
 categories: magento social login signup free

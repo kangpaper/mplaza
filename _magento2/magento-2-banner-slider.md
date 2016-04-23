@@ -5,6 +5,7 @@ description: "Magento 2 Banner slider for Magento is jQuery banner Slider you ca
 meta-title: "Magento 2 Banner Slider Extension"
 meta-description: "Magento 2 Banner slider for Magento is jQuery banner Slider you can create Unlimited beautiful responsive banner Slider"
 image: "/assets/img/extensions/magento-2-banner-slider.jpg"
+small-image: "/assets/img/extensions/small/magento-2-banner-slider.jpg"
 version: "1.0.0"
 user-version: no
 categories: magento banner

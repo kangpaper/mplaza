@@ -5,6 +5,7 @@ description: "Magento 2 Gift Card Extension, Gift Card is the fantastic present 
 meta-title: "Magento 2 Gift Card - Gift voucher - Gift Certificates"
 meta-description: "Magento 2 Gift Card Extension, Gift Card is the fantastic present customers possibly give to friends via either email or post office on exact date and time, even buy for themselves and enjoy its awesome functionality. "
 image: "/assets/img/extensions/magento-2-gift-card.png"
+small-image: "/assets/img/extensions/small/magento-2-gift-card.png"
 version: "1.0.0"
 user-version: no
 categories: magento gift gift-card
