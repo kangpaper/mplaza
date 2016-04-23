@@ -43,7 +43,7 @@ Many powerful tools for the better SEO are integrated into Mageplaza SEO extensi
 
 ## URL Friendly Optimization
 
-Magento 2 SEO extension allows you to issue as many friendly URLs as expectation for your SEO campaign. The following options you need to create the links to gain the effective SEO:
+Magento 2 SEO extension is design for resolving URL issues as many friendly URLs as expectation for your SEO campaign. The following options you need to create the links to gain the effective SEO:
 
 - Home page
 - Product page
@@ -64,7 +64,7 @@ Allow admin easily edit .htaccess and robots.txt file in the backend that don’
 
 ## Social Integration
 
-Social media marketing and SEO are tightly interwoven strategies. The combination makes your site more reliable, simultaneously, the rank is quickly higher and higher you will stay in the search engines.  Awaring that link clearly, Mageplaza integrates a variety of social channels into SEO module fluently such as Facebook, Twitter, LinkedIn, Google+, YouTube and other popular social channels. 
+Magento 2 SEO is integrated with Social media marketing and SEO are tightly interwoven strategies. The combination makes your site more reliable, simultaneously, the rank is quickly higher and higher you will stay in the search engines.  Awaring that link clearly, Mageplaza integrates a variety of social channels into SEO module fluently such as Facebook, Twitter, LinkedIn, Google+, YouTube and other popular social channels. 
 
 
 ## Magento 2 SEO full feature list
