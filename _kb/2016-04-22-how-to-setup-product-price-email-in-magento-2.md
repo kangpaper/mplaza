@@ -35,7 +35,7 @@ All of subscribers to your alerts are listed in the Product Alert tab of the Pro
   * Select the template used to notify the come back of the product from a dropdown list of the `Stock Alert Email Template`.
   * Select the sender of the alert email in the `Alert Email Sender` field.
   
-  ![alert-email-settings](https://lh3.googleusercontent.com/wurkmrkBFmo4RAgsEdj3sfcKRK7OsXrJJO0Hk1hFLD88VmYaskgUrq3j6OFQFQm3Nq-HkPIUN7w4qeiBkjtgtvGygwKvkX5ZYKDY5IFrGJSca1kOjIGjmlFqjcrWloCJEsskwz8y)
+  ![alert-email-settings](https://lh6.googleusercontent.com/gwmwJFWnVmL3yHeVunDe_zFcHj9-MBgu_o2_I2VfBfvqxLpCephTcMBxX_BOq1FwN8H2MsQUreADEbhnICoiA7JQJCm_SJ_AdUnn5SjeUM7ygSwC9fLkpCG9-DGUOoAMsGv3TYXs)
   
   * Hit the `Save Config` button to finish.
   
