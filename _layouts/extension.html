@@ -149,7 +149,7 @@
 					<h4>You also may like</h4>
 					     {% for post in site.magento-extensions | m:6 limit:6 %}
 					        <div class="col-lg-2 col-md-2">
-					        	<a href="{{ post.url }}" title="{{ post.title }}" class="thumbnail"><img src="{{ post.image }}" class="img-responsive" alt="{{ post.title }}"></a>
+					        	<a href="{{ post.url }}" title="{{ post.title }}" class="thumbnail"><img src="{{ post.small-image }}" class="img-responsive" alt="{{ post.title }}"></a>
 					        	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 							</div>
 					    {% endfor %}
