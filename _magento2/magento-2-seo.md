@@ -4,6 +4,7 @@ title: "Magento 2 SEO Extension"
 description: "Magento 2 SEO extension is a bundle of outstanding features that are auto-active when you install it from Mageplaza without any code modifications"
 meta-title: "Magento 2 SEO Extension Module Free"
 meta-description: "Magento 2 SEO extension is a bundle of outstanding features that are auto-active when you install it from Mageplaza without any code modifications"
+meta-keywords: "magento 2 seo extension, magento 2 seo module, magento 2 seo, magento 2 seo free"
 image: "/assets/img/extensions/magento-2-seo-extension.png"
 version: "1.0.0"
 user-version: no
