@@ -24,7 +24,7 @@ sort_order: 1
 demo: 
 download: 
 price: 0
-rating: 17
+rating: 96
 review_count: 2
 ---
 
