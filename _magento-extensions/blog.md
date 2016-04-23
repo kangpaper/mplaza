@@ -2,7 +2,7 @@
 layout: extension
 title: Better Blog
 description: "A better blog - Blog extension for your e-commerce store without adding 3rd-party framework such as Wordpress"
-meta-title: "Magento 2 Blog Extension - Magento Blog Extension"
+meta-title: "Magento Blog Extension - Magento Blog Extension"
 meta-description: ""
 meta-keywords: ""
 image: "/assets/img/extensions/blog.jpg"
@@ -32,7 +32,7 @@ review_count: 2
 
 Blog
 ----------
-A better blog for your e-commerce store without adding any 3rd-party framework. Better blog extension allows you manage categories, posts, comments on Magento 2 back-end. The system will update you when there is a new comment submit. This is a great solution for building relevant SEO-friendly text links, and serves as assistance in building sales strategy.
+A better blog for your e-commerce store without adding any 3rd-party framework. Better blog extension allows you manage categories, posts, comments on Magento back-end. The system will update you when there is a new comment submit. This is a great solution for building relevant SEO-friendly text links, and serves as assistance in building sales strategy.
 
 Responsive design
 --------------------
@@ -52,7 +52,7 @@ Better Blog supports 3 types of comments: built-in comment, Disqus comment (comi
 
 RSS
 ----------
-Full RSS integration into Magento 2. The blog RSS feed appears right next to the standard product and Magento 2 RSS feeds, allowing users that are familiar with your website to easily find all the blog RSS feeds easily and simply.
+Full RSS integration into Magento. The blog RSS feed appears right next to the standard product and Magento RSS feeds, allowing users that are familiar with your website to easily find all the blog RSS feeds easily and simply.
 
 Help
 ----------
