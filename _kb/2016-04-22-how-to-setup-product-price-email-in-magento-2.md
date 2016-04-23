@@ -7,7 +7,7 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to setup product price email
 ---
 
-There are two kinds of the product alert from Magento 2: price alert and in-stock alert. The alert email will be sent to your customers if they sign up to subscribe your alert. From the settings, you need to select the template and the sender for each email. 
+There are two kinds of the product alert from Magento 2: **Price Alert** and **In-Stock Alert**. The alert email will be sent to your customers if they sign up to subscribe your alert. From the settings, you need to select the template and the sender for each email. 
 
 If the price alert is active, customers will see the **Sign up for price alert** message on the product detail page of every products. The customers will be navigated to their account page to complete the subscription procedure. The alert notification is definitely sent if there is a light change of the price or a special offer at this time.
 
