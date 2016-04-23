@@ -52,7 +52,7 @@ Cross-sell products are used to lead the customers to other categories at your s
 * Click on the `Edit` link in the Product Management table.
 * On the left-panel, `Advanced Settings > up-sell`.
 
-![cross-sell-settings](https://lh5.googleusercontent.com/oChMpAk1h2kWI20m5ZZZza0wqDR9FLS13OOku99cZfWYicf2QuvW--sCoXpQylNMbpRHY6thfoTb-Ix_CLw0Gcpcr8dQuMR-GSKw5VblfGjfxWqk__x2AZ16cifCIJBANAVUZybB
+![cross-sell-settings](https://lh5.googleusercontent.com/oChMpAk1h2kWI20m5ZZZza0wqDR9FLS13OOku99cZfWYicf2QuvW--sCoXpQylNMbpRHY6thfoTb-Ix_CLw0Gcpcr8dQuMR-GSKw5VblfGjfxWqk__x2AZ16cifCIJBANAVUZybB)
 
 * Click on `Reset Filter` to make all of products visible or enter name of a specific product in the `Search` box.
 * Choose the products from the displayed list to determine them as cross-sell products.
