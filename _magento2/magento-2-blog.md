@@ -12,12 +12,12 @@ user-version: no
 categories: magento2 blog wordpress joomla
 permalink: "/magento-2-blog-extension/"
 screenshots:
-  - /assets/img/extensions-images/magento-2-blog/listing.png
   - /assets/img/extensions-images/magento-2-blog/comment.png
-  - /assets/img/extensions-images/magento-2-blog/edit_post.png
-  - /assets/img/extensions-images/magento-2-blog/image_urlkey.png
+  - /assets/img/extensions-images/magento-2-blog/listing.png
   - /assets/img/extensions-images/magento-2-blog/select_category.png
   - /assets/img/extensions-images/magento-2-blog/post_attributes.png
+  - /assets/img/extensions-images/magento-2-blog/edit_post.png
+  - /assets/img/extensions-images/magento-2-blog/image_urlkey.png
   - /assets/img/extensions-images/magento-2-blog/manage_category.png
 
 sort_order: 1
