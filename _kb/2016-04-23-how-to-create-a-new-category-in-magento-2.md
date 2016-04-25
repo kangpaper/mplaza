@@ -4,18 +4,21 @@ title: "How to create a new category in Magento 2"
 permalink: "/kb/how-to-create-a-new-category-in-magento-2.html"
 published: true
 categories: magento-2 magento-2-tutorial
-tags: magento-2 how-to create a new category
+tags: magento-2 how-to create category catalog
 ---
 
 The category is shown as a big tree with branches in the lower. Each new category created by store owners will be assigned to a relevant parent category. Any unavailable category is hidden with gray. The position of category can be reordered when you drag, hold and drop it to the new location. Moreover, in the top of each category page, the category is marked by a ID number that is next to the category name.
 
 
-![category-tree](https://lh3.googleusercontent.com/E94Mn2pHLTjOTsiPizvHm_na4Hr02xmlkKo_9pRt5kaleoQ8-MUVBBqed28_4AA1IHtiG-NOrtsovWIqG8k1ALIXSmb3dPW8YvpWOVH_9LGPMn2M10DZs798J3NAsPZh4IrI99Bm)
+![category tree](https://lh3.googleusercontent.com/E94Mn2pHLTjOTsiPizvHm_na4Hr02xmlkKo_9pRt5kaleoQ8-MUVBBqed28_4AA1IHtiG-NOrtsovWIqG8k1ALIXSmb3dPW8YvpWOVH_9LGPMn2M10DZs798J3NAsPZh4IrI99Bm)
 
-## Proccess Overview
-     Step 1: Generate a Category
-     Step 2: Configure the General Information
-     Step 3: Configure the Display Settings
+## Overview of creating a new category
+
+How to create a new category in Magento 2 as following steps:
+
+- Step 1: Generate a Category
+- Step 2: Configure the General Information
+- Step 3: Configure the Display Settings
 
 ### Step 1: Generate a Category
 * On the Admin Panel, `Product > Inventory > Categories`
@@ -47,3 +50,4 @@ The category is shown as a big tree with branches in the lower. Each new categor
 
 * Hit the `Save Category` to complete.
 
+Reference: Magento 2 user guide
