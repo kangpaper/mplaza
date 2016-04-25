@@ -16,8 +16,10 @@ In the Product Detail, you can upload as many images as you need for a product, 
 ![image-detail](https://lh5.googleusercontent.com/eiyIYBbXiui1LtuoxpeaVXUqAB_-0TMSmiGQUhn3f28hHcRSeVhWqlMdJXC4UbtbQiMcZqaRZXvLkx8Qjb0jCIBKgtwla7yP5y43PTM5K12qChXCkZtJBHEwkgmoiADOFPuqJc4R)
 
 ## Process Overview
-     Manage Images
-     View Image Detail
+
+How to upload Images Product in Magento 2 as following steps:
+- Manage Images
+- View Image Detail
 
 ## Manage Images
 * Click on `Edit` link, and then do the following:
