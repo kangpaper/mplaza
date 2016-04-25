@@ -9,7 +9,7 @@ tags: magento-2 how-to configure minimum advertised price MAP
 
 In the business, the manufacturers always gives pricing rules that you are compulsory to obey. You can not issue the product with the lower price than the minimum price they offer and allow you to show on the screen. Therefore, to help you provide the best price for the customer, **configuring Minimum Advertised Price (MAP) in Magento 2** is an awesome method for every shop owners.
 
-With Minimum Advertised Price configuration, not only you can continue to comply with the producer’s needs but you also have a chance to publish the greater price to your clients. Awaring that the requests are different by many producers, but it is possible for you to set the appearance of your real price on the pages which are not banned by the producers.
+With **Minimum Advertised Price configuration**, not only you can continue to comply with the producer’s needs but you also have a chance to publish the greater price to your clients. Awaring that the requests are different by many producers, but it is possible for you to set the appearance of your real price on the pages which are not banned by the producers.
 
 Let follow the guides below to become the better providers in the competitive marketplace.
 
