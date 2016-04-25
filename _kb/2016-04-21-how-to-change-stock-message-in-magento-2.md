@@ -14,6 +14,7 @@ There are two page you can set for the appearance of the stock message: Product 
 ## Process Overview  
 
 How to Change Stock Message in Magento 2 as the follwing
+
 * Configure Stock Message on Product Detail Page
 * Configure Stock Message on Catalog Page
 
