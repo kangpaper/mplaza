@@ -22,10 +22,10 @@ How to Change Stock Message in Magento 2 as the follwing
 
 The stock message is displayed when you enable the `Manage Stock` and set the availability of the product to "In Stock" or "Out of Stock" to **Yes**.
 
-![How to Change Stock Message on Product Detail Page]({{ site.url }}/assets/img/kb/how-to-change-stock-message-in-magento-2-stock-message-product-detail-page.png)
+![How to Change Stock Message on Product Detail Page]({{ site.url }}/assets/img/kb/how-to-change-stock-message-in-magento-2-stock-message-on-product-detail-page.png)
 
 ### Configure Stock Message on Catalog Page
 
 The stock message "Out of Stock" is displayed when you set the `Display Out of Stock Products` and `Display product availability in stock in the frontend` to **Yes**.
 
-![How to Change Stock Message on Catalog Page]({{ site.url }}/assets/img/kb/how-to-change-stock-message-in-magento-2-stock-message-catalog-page.png)
+![How to Change Stock Message on Catalog Page]({{ site.url }}/assets/img/kb/how-to-change-stock-message-in-magento-2-stock-message-on-catalog-page.png)
