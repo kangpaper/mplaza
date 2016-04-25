@@ -16,6 +16,7 @@ Adding more product custom options means you will generate the greater revenue a
 ## Overview of configuring product custom options
 
 How to Configure Product Custom Options in Magento 2 as the following:
+
 * Creating custom options
 * Improting custom options
 
