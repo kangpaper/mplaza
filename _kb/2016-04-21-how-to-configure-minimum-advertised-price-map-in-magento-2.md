@@ -43,7 +43,7 @@ You can set MAP configuration for all your products or any specific item as you 
 * Click on the `Minimum Advertised Price` section.
 * Choose **Yes** in the `Enable MAP` field.
 
-![How to Configure Minimum Advertised Price (MAP) MAP settings]({{ site.url }}/assets/img/kb/how-to-configure-minimum-advertised-price-map-in-magento-2-map-settings.png)
+![How to Configure Minimum Advertised Price (MAP) MAP settings]({{ site.url }}/assets/img/kb/how-to-configure-minimum-advertised-price-map-in-magento-2-MAP-settings.png)
 
 #### Method 1: Apply MAP for all your products
 * To make the actual price visible to shoppers, choose **On Gesture**, **In Cart** or **Before Order Confirmation** in the `Display Actual Price` field.
