@@ -7,16 +7,24 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to change stock message
 ---
 
-The displaying message is the logic among the inventory configuration you set. The message can be shown on the product and catalog page.
+**Stock Message** is the little notfication about the in-stock status of the product you have set up the stock before. The Stock Message is "In Stock" or "Out of Stock" on the storeview. Customers will check the availablity of the product through the stock message to move to the checkout process.
 
-## Product Page Stock Message
+There are two page you can set for the appearance of the stock message: Product Detail Page and Catalog Page. Thus, depending on your configuration whether the customers can follow in the easy way.
+
+## Process Overview  
+
+How to Change Stock Message in Magento 2 as the follwing
+* Configure Stock Message on Product Detail Page
+* Configure Stock Message on Catalog Page
+
+### Configure Stock Message on Product Detail Page
 
 The stock message is displayed when you enable the `Manage Stock` and set the availability of the product to "In Stock" or "Out of Stock" to **Yes**.
 
-![stock-message-on-product-page](https://lh3.googleusercontent.com/vQrXJ5br32PD2A8XpDT5zayB4TxgyshIMGhT3fMlVUIQtXorFOhSJ8q7sz-FqZii6uZSpKNvEdeaTvvw_ylup3x2CRagUscNL58MO6Aa3ZiRtnpQZGd7jW3N7PIUTZJB8LQGoEqq)
+![How to Change Stock Message on Product Detail Page]({{ site.url }}/assets/img/kb/how-to-change-stock-message-in-magento-2-stock-message-product-detail-page.png)
 
-## Catalog Page Stock Message
+### Configure Stock Message on Catalog Page
 
 The stock message "Out of Stock" is displayed when you set the `Display Out of Stock Products` and `Display product availability in stock in the frontend` to **Yes**.
 
-![stock-message-on-catalog-page](https://lh3.googleusercontent.com/QsPRPOH9MBTUGCBfAFshSx-N33Y1WdmPeVt-BvUVhrt9jdLgQVSR1mYDw-JnaIYNrJ49RqSRBvm7jpt9hxitxrliqassqRAvwd1w2Wg3y4mXlXikYRX63M4rVdr6a4qEOCE0nqC2)
+![How to Change Stock Message on Catalog Page]({{ site.url }}/assets/img/kb/how-to-change-stock-message-in-magento-2-stock-message-catalog-page.png)
