@@ -13,7 +13,7 @@ The category is shown as a big tree with branches in the lower. Each new categor
 
 ![How to create a new category category tree]({{ site.url }}/assets/img/kb/how-to-create-a-new-category-in-magento-2-category-tree.png)
 
-In Magento 2, it is possible to create a new category as well as custom it as you expect.
+In Magento 2, it is simple to create a new category as well as custom it as you expect.
 
 ## Overview of creating a new category
 
