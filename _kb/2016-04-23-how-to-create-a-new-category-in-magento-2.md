@@ -7,10 +7,13 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to create category catalog
 ---
 
-The category is shown as a big tree with branches in the lower. Each new category created by store owners will be assigned to a relevant parent category. Any unavailable category is hidden with gray. The position of category can be reordered when you drag, hold and drop it to the new location. Moreover, in the top of each category page, the category is marked by a ID number that is next to the category name.
-
+Creating a new category is the essential way to establish the logic flow for your management in the settings. Besides, customers will find the searching on your website professional instead of making the appearances of all items chaos.
+ 
+The category is shown as a big tree with branches in the lower. Each new category created by store owners will be assigned to a relevant parent category. Any unavailable category is hidden with gray. The position of category can be reordered when you drag, hold and drop it to the new location. Moreover, in the top of each category page, the category is marked by an ID number that is next to the category name.
 
 ![How to create a new category category tree]({{ site.url }}/assets/img/kb/how-to-create-a-new-category-in-magento-2-category-tree.png)
+
+In Magento 2, it is possible to create a new category as well modify it as you expect.
 
 ## Overview of creating a new category
 
