@@ -12,3 +12,9 @@ def show
   end
 end
 {% endhighlight %}
+
+
+
+## Local image
+
+![How to upload Images Product images videos]({{ site.url }}/assets/img/kb/how-to-upload-images-product-in-magento-2-images-videos.png)
