@@ -57,3 +57,6 @@ Cross-sell products are used to lead the customers to other categories at your s
 * Click on `Reset Filter` to make all of products visible or enter name of a specific product in the `Search` box.
 * Choose the products from the displayed list to determine them as cross-sell products.
 * Hit the `Save` button to finish.
+
+
+Reference: Magento 2 user guide

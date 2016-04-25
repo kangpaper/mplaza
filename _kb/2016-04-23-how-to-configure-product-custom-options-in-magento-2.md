@@ -35,3 +35,6 @@ You can add more options to every product, that is an excellent way to give the 
 * Hit the `Save & Close` button when you finish.
 
 ![import-options](https://lh5.googleusercontent.com/NPLGLJAM_PzAQgXFuSystzuNOs-08aTmodNkVsvc2GMelMopr6k2BuH54haNSlC6AT-_KKQfcjiuqJeoNFW5GdxwT3_EYqNzYOPjRcWgY6LoDTzIiYR3pJbPW2FziIM2qr7bPQ1P)
+
+
+Reference: Magento 2 user guide

@@ -52,3 +52,6 @@ The Product Stock Options means the inventory settings at the product level. How
   * Choose **Yes** for `Automatically Return Credit Memo Item to Stock`, that means if there is any problem of the credit memo, the placed item will be back to the inventory.
 * Hit the `Save Config` button to finish.
 
+
+
+Reference: Magento 2 user guide

@@ -52,3 +52,6 @@ All of subscribers to your alerts are listed in the Product Alert tab of the Pro
   * Select the sender of the error email in the `Error Email Sender` field.
   * Select the template for the error message in the `Error Email Template` field.
 * Hit the `Save Config` button to finish.
+
+
+Reference: Magento 2 user guide
