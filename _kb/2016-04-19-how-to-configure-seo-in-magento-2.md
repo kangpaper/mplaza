@@ -15,3 +15,6 @@ The Search Engine Optimization in the basic settings of each product contains pr
 * `Meta Title` will title appears in the title bar and tab of your browser, and is also used as the title on a search engine results page.
 * `Meta Keywords` lists the keywords related to the product. But it is neccessary to consider which keywords are relevant for customers to find the product.
 * `Meta Description` is a brief overview of the page for search results listings. An ideal length is between 150-160 characters in length, with a maximum of 255 characters. 
+
+
+Download Extension: <a href="https://www.mageplaza.com/magento-2-seo-extension/">Magento 2 SEO Extension</a>
