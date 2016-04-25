@@ -52,14 +52,14 @@ How to create a new category in Magento 2 as following steps:
 
 ## Customizing Categories
 
+A category configuration is customizable, so you can fix, change its position in the category chart, even eliminate it quickly. However, it is important to examine how your modification will affect on other parts. For instance, if there are some products in the category that you rename, the current product links are unavailable to access. Therefore, you should set your catalog to auto-generate a permanent redirect if there is any change as above. Or you can apply the URL Rewrite tool to navigate the visitors to a new link.
+
 ### Rearrange a category
 
 * On the Admin Panel, `Product > Inventory > Categories`
 * In the category chart, tap the needed category and drag-drop it to the new parent category. The new structure of category will be auto-saved.
 
 ### Eliminate a category
-
-A category configuration is customizable, so you can fix, change its position in the category chart, even eliminate it quickly. However, it is important to examine how your modification will affect on other parts. For instance, if there are some products in the category that you rename, the current product links are unavailable to access. Therefore, you should set your catalog to auto-generate a permanent redirect if there is any change as above. Or you can apply the URL Rewrite tool to navigate the visitors to a new link.
 
 * From the category chart, consider the category you want to eliminate. 
 
