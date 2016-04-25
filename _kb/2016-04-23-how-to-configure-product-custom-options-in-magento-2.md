@@ -7,11 +7,19 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to configure product custom options
 ---
 
-You can add more options to every product, that is an excellent way to give the customers many choices in detail. The input types of an option you can set are text, file, select and date. However, you can manage the custom options in stock because they are just variations of an SKU. If you want to set one option for a bulk of products, let do it for one, and then import the custom option to other items.
+**Configuring Product Custom Options** is the simple way to give your customers many choices for a detailed products.The input types of an option you can set are text, file, select and date. However, you can manage the custom options in stock because they are just variations of an SKU. If you want to set one option for a bulk of products, let do it for one, and then import the custom option to other items.
 
-![custom-option](https://lh5.googleusercontent.com/r9m_CX5Vxh-Z7HxvqonbZnonmGpaTHwMo5PqkNi4C5DpPzWBV9rx6YBsp-PtxjWHzv9qIGGH2VdYBxyR2IbXVOE8JWafZ1l3XFEegq36G6Ol3uOh03omknhSk4UCeWik5iThpIaj)
+Adding more product custom options means you will generate the greater revenue and serve your customers in the perfect way.
 
-## To create custom options
+![How to Configure Product Custom Options custom options]({{ site.url }}/assets/img/kb/how-to-configure-product-custom-options-in-magento-2-custom-option.png)
+
+## Overview of configuring product custom options
+
+How to Configure Product Custom Options in Magento 2 as the following:
+* Creating custom options
+* Improting custom options
+
+### Creating custom options
 * Click on the `Edit` link of specific product on the Product Management table.
 * On the left-panel, `Advanced Settings > Custom Options`.
 * Click on the `Add New Option`,
@@ -26,15 +34,14 @@ You can add more options to every product, that is an excellent way to give the 
 * Continue to click on the `Add New Option` if you want to add more.
 * Hit the `Save` button to finish.
 
-![input-option](https://lh6.googleusercontent.com/CfQ2eYNzRTGDGi18yy5nS-dbtLPlMNJxkAEMkWDFgMapVdvRxPaptZ8vywwX_Zc_JJ79bmkiCvtClx9h1HQNquczkJIkDy48HJBka8S8fe3uLzCj4ccNHmBFfIn2SQREYuaS9NKX)
+![How to Configure Product Custom Options input option]({{ site.url }}/assets/img/kb/how-to-configure-product-custom-options-in-magento-2-input-option.png)
 
-## To import custom options
+### Importing custom options
 * Hit the `Import Options`.
 * Search and select the option you want to import.
 * Click on the `Import` button.
 * Hit the `Save & Close` button when you finish.
 
-![import-options](https://lh5.googleusercontent.com/NPLGLJAM_PzAQgXFuSystzuNOs-08aTmodNkVsvc2GMelMopr6k2BuH54haNSlC6AT-_KKQfcjiuqJeoNFW5GdxwT3_EYqNzYOPjRcWgY6LoDTzIiYR3pJbPW2FziIM2qr7bPQ1P)
-
+![How to Configure Product Custom Options import option]({{ site.url }}/assets/img/kb/how-to-configure-product-custom-options-in-magento-2-import-option.png)
 
 Reference: Magento 2 user guide
