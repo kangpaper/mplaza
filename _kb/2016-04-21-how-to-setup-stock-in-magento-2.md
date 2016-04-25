@@ -7,13 +7,14 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to setup stock  
 ---
 
-To make the shopping easier, you can let customers see the availability of the product they are interested in. On the storefront, “In Stock” and “Out of Stock” will describe this availability. 
+**Setting up Stock** for your products is the smart solution to make the shopping online more professional. You can manage stock for any product you need. You can setup the stock for every product at your store. The setting up the stock allows the shoppers to see the availability of the product they are interested in. On the storefront, “In Stock” and “Out of Stock” will describe this availability. 
 
 ## Set up the Stock Options
 
 The Stock Options might be active for a entire of the products in the catalog and the quantity in stock is updated continuously. Moreover, the Stock Options help you drive more new clients shopping at your store not just those who buy a huge quantity of the products, you enable to set the maximum for an order instead of taking the whole from your inventory.
 
-![stock-option](https://lh4.googleusercontent.com/Xjbw-XWrVmwYwhtx7nre9QGbB_nHUFFikdS5KMvW7fQ--A9AdQMXoVR1wxNDip8naMpahL6xMwBo3ekYvdmK_n9-Go4sQ9oeER3sDBGlyMCIRPA2HI8LEflMgcrP5HIG9jeVIJD3)
+![How to setup Stock stock option]({{ site.url }}/assets/img/kb/how-to-setup-stock-in-magento-2-stock-option.png)
+
 
 * On the Admin panel, `Stores > Settings > Configuration`.
 * On the left-panel, `Catalog > Inventory`.
@@ -27,7 +28,7 @@ The Stock Options might be active for a entire of the products in the catalog an
   * Make the quantity in stock or out of stock visible on the product detail page if choose **Yes** in the `Display Products Availability In Stock on Storefront`field.
 * Hit the `Save Config` button to finish.
 
-![stock-option-config](https://lh6.googleusercontent.com/yKyhze7sc1Rt9_LAQC0ToF2ANaVr_PT7zxIYPsHzy-cL1zPrsciRfe4e3qlSKhjzzrsSbFNGRyLsazaGmBqise1tPehHBLykgQaRXG8AjrfkNROKy2swZwsDSDnmNZvMxXA22Ymf)
+![How to setup Stock stock option config]({{ site.url }}/assets/img/kb/how-to-setup-stock-in-magento-2-stock-option-config.png)
 
 ## Set the Product Stock Options
 
@@ -39,6 +40,7 @@ The Product Stock Options means the inventory settings at the product level. How
   * To apply the inventory tracking for your product, say **Yes** to `Manage Stock`.
 
   ![product-stock-option-config](https://lh5.googleusercontent.com/qHVgd-5kJSF3Oba7hjg5OVqa8LBfsDjrJK3y96B_jUq2AvmMd-UaEXN41tr2-jDk2hvpol_gfYOZGZb_GF3Gv5txtuN0Rl9qDaL9GQU30ueu6ur_kU9InCD-ZVEDfRBLQwoNJDCr)
+  ![How to setup Stock product stock option config]({{ site.url }}/assets/img/kb/how-to-setup-stock-in-magento-2-product-stock-option-config.png)
   
   * Select one of the options for `Backorders:  
     * No Backorder - not permit any backorder if product is out of stock

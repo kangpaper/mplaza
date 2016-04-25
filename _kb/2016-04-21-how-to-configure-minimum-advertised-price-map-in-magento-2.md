@@ -4,12 +4,18 @@ title: "How to Configure Minimum Advertised Price (MAP) in Magento 2"
 permalink: "/kb/how-to-configure-minimum-advertised-price-map-in-magento-2.html"
 published: true
 categories: magento-2 magento-2-tutorial
-tags: magento-2 how-to configure minimum advertised price map
+tags: magento-2 how-to configure minimum advertised price MAP
 ---
 
-In the business, it is intelligibility when the merchants are not allowed to give a lower price than that the manufacturer offer. However, with Minimum Advertised Price from Magento, not only you can continue to comply with the producer’s needs but you also have a chance to publish the greater price to your clients. Awaring that the requests are different by many producers, but it is possible for you to set the appearance of your real price on the pages which are not banned by the producers.
+In the business, the manufacturers always gives pricing rules that you are compulsory to obey. You can not issue the product with the lower price than the minimum price they offer and allow you to show on the screen. Therefore, to help you provide the best price for the customer, **configuring Minimum Advertised Price (MAP) in Magento 2** is an awesome method for every shop owners.
 
-## MAP Logic
+With Minimum Advertised Price configuration, not only you can continue to comply with the producer’s needs but you also have a chance to publish the greater price to your clients. Awaring that the requests are different by many producers, but it is possible for you to set the appearance of your real price on the pages which are not banned by the producers.
+
+Let follow the guides below to become the better providers in the competitive marketplace.
+
+## How to configure Minimum Advertised Price (MAP) in Magento 2
+
+### MAP Logic
 
 Depending on the price of the product to apply the relevant MAP Logic.
 * For the price that is set by multiple options,
@@ -22,23 +28,22 @@ Depending on the price of the product to apply the relevant MAP Logic.
 
 In the order and customer management tools and the reports sections, only the actual price is allowed to present.
 
-## Setup the Minimum Advertised Price (MAP)
+### Setup the Minimum Advertised Price (MAP)
 
 You can set the Minimum Advertised Price for all your current products or a single product and the price is still hidden in the store view. Let learn various MAP settings that help your customers shop at your store with the better price while you are well-observed person according to the clause of the producer.
 
-![click-for-price](https://lh5.googleusercontent.com/a0-LzUx8Fo0HBW_fqvTEL26hR0V5kPn-6db3D6pJD7w2lMBBinijxXT1eiEl9SYcvUhUJ0PqQPx376502fhlCXyJyx6EOe26yptWSfRPQ9razxgLa73eQmsSlI601XOeT2aYxYOK)
+![How to Configure Minimum Advertised Price (MAP) click for price]({{ site.url }}/assets/img/kb/how-to-configure-minimum-advertised-price-map-in-magento-2-click-for-price.png)
 
 You can set MAP configuration for all your products or any specific item as you need. When MAP is used, you need to determine where the actual price appears, simultaneously, edit the explanation message about the hiding of the actual price behind the “Click for price” and “What’s this?” link.  
 
-![what-'s-this](https://lh5.googleusercontent.com/_cqe29ciYsxHSUsIh8f9h81PN9JsJ_E1sRcSdoqS-zwMiySrXUL88CLH1gu5ZqKjYqXOPyU9XmaAoPhpcBWEd4E1usYdUI8dLO44bHG7BGoqIGlHpYd_Rs15WG4sa4rObBUIRXTQ)
+![How to Configure Minimum Advertised Price (MAP) what's this]({{ site.url }}/assets/img/kb/how-to-configure-minimum-advertised-price-map-in-magento-2-what-'s-this.png)
 
-### To set up MAP
 * Go to the Admin Panel, `Stores > Settings > Configuration`.
 * On the left-panel, `Sales > Sales`.
 * Click on the `Minimum Advertised Price` section.
 * Choose **Yes** in the `Enable MAP` field.
 
-![map-settings](https://lh4.googleusercontent.com/NBoowl7JoqPDTsIkzwd6ZvtA2Q7eSDIpWoSHZQ4YZA4u4mJMYbUQ8xdB3U-BtM5v-9TeiWe9uROcqnyf6z_Ls69pBGWD-1Xay4musE7K8mAYUeEbbj4hNZuyMjOdU7YQMVsKTA-f)
+![How to Configure Minimum Advertised Price (MAP) MAP settings]({{ site.url }}/assets/img/kb/how-to-configure-minimum-advertised-price-map-in-magento-2-map-settings.png)
 
 #### Method 1: Apply MAP for all your products
 * To make the actual price visible to shoppers, choose **On Gesture**, **In Cart** or **Before Order Confirmation** in the `Display Actual Price` field.
@@ -51,7 +56,7 @@ You can set MAP configuration for all your products or any specific item as you 
 * Click on `Edit` link in the Product Management.
 * In the Basic Settings panel, `Advanced Settings > Advanced Pricing`. 
 
-![MSRP](https://lh4.googleusercontent.com/wB20jsdRpDpsM1p7blORdoDCzGuB_vGn0HT5eEh1MfKTEPIuKcbrrby9_rnhSzJKlvM6ZofXQ9NMY9RBhlKXDnGolM_CKnz3l81nkojBWfa9R4OKnzdmTEtCgRzVaV-jFPkDh487)
+![How to Configure Minimum Advertised Price (MAP) MSRP]({{ site.url }}/assets/img/kb/how-to-configure-minimum-advertised-price-map-in-magento-2-MSRP.png)
 
   * Import the number of the `Manufacturer's Suggested Retail Price`.
   * Choose the `Display Actual Price` by CMS Block.
