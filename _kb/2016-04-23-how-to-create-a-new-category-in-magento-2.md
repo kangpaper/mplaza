@@ -7,6 +7,9 @@ categories: magento-2 magento-2-tutorial
 tags: magento-2 how-to create a new category
 ---
 
+The category is shown as a big tree with branches in the lower. Each new category created by store owners will be assigned to a relevant parent category. Any unavailable category is hidden with gray. The position of category can be reordered when you drag, hold and drop it to the new location. Moreover, in the top of each category page, the category is marked by a ID number that is next to the category name.
+
+
 ![category-tree](https://lh3.googleusercontent.com/E94Mn2pHLTjOTsiPizvHm_na4Hr02xmlkKo_9pRt5kaleoQ8-MUVBBqed28_4AA1IHtiG-NOrtsovWIqG8k1ALIXSmb3dPW8YvpWOVH_9LGPMn2M10DZs798J3NAsPZh4IrI99Bm)
 
 ## Proccess Overview
