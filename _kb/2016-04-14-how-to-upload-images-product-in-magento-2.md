@@ -9,7 +9,7 @@ tags: magento-2 how-to upload images product
 
 High-quality images is the strength to make your website more beautiful and have a professional look of your shoppers. If each your product has a collection of images in the catalog, it is hardly surprising to manage a hundreds or thousands of images. Thus, let establish a naming convention for your image files right now, that will makes your track easier even if you want to find the originals.
 
-![images-videos](https://lh3.googleusercontent.com/bMmWN_OyCGdFj4IEVuzlKcehtOkOdpixXIIiMVzqyjEhAs7oqorEiAAxNGSAElRHlXcEKis-NzwOLxUf8TYJLz0qP15jq6NHLh09t4QDftAQ85ZeqtUBbohl6LDsW-d7puibqULn)
+![How to upload Images Product images videos]({{ site.url }}/assets/img/kb/how-to-upload-images-product-in-magento-2-images-videos.png)
 
 In the Product Detail, you can upload as many images as you need for a product, simultaneously, link to video, rearrange their order, and determine how each is used. For each product, three roles are available for you to assign to any image. You can set the main image or the base image that must be large enough to produce the magnification that is needed for zoom. Apart from the base image, a small image of that image will appear in product listing, and a thumbnail will be in the shopping cart. The assign is flexible for you, however, by default, these roles are auto-assigned to the first uploaded image. 
 
